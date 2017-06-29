@@ -1,9 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V1.57 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="6TV">
-    <display-name lang="ro">6TV</display-name>
-    <url>http://www.cinemagia.ro</url>
-  </channel>
   <channel id="Bollywood FILM">
     <display-name lang="ro">Bollywood FILM</display-name>
     <url>http://www.cinemagia.ro</url>
@@ -20,1463 +16,14 @@
     <display-name lang="ro">Mooz HD</display-name>
     <url>http://www.cinemagia.ro</url>
   </channel>
-  <programme start="20170625070000 -0400" stop="20170625080000 -0400" channel="6TV">
-    <title lang="ro">Spirit, Energie, Materie</title>
-  </programme>
-  <programme start="20170625080000 -0400" stop="20170625090000 -0400" channel="6TV">
-    <title lang="ro">Univers Enciclopedic</title>
-  </programme>
-  <programme start="20170625090000 -0400" stop="20170625093000 -0400" channel="6TV">
-    <title lang="ro">Orașul Tău</title>
-  </programme>
-  <programme start="20170625093000 -0400" stop="20170625100000 -0400" channel="6TV">
-    <title lang="ro">Omul… O Poveste</title>
-  </programme>
-  <programme start="20170625100000 -0400" stop="20170625110000 -0400" channel="6TV">
-    <title lang="ro">Sănătate ca la Carte</title>
-  </programme>
-  <programme start="20170625110000 -0400" stop="20170625120000 -0400" channel="6TV">
-    <title lang="ro">Cerasela Show</title>
-  </programme>
-  <programme start="20170625120000 -0400" stop="20170625120500 -0400" channel="6TV">
-    <title lang="ro">Minutul de spiritualitate</title>
-  </programme>
-  <programme start="20170625120500 -0400" stop="20170625123000 -0400" channel="6TV">
-    <title lang="ro">Documentar</title>
-  </programme>
-  <programme start="20170625123000 -0400" stop="20170625143000 -0400" channel="6TV">
-    <title lang="ro">Profesioniști în devenire</title>
-  </programme>
-  <programme start="20170625143000 -0400" stop="20170625153000 -0400" channel="6TV">
-    <title lang="ro">Te iubește Adrian</title>
-  </programme>
-  <programme start="20170625153000 -0400" stop="20170625170000 -0400" channel="6TV">
-    <title lang="ro">Misterele Universului</title>
-  </programme>
-  <programme start="20170625170000 -0400" stop="20170625190000 -0400" channel="6TV">
-    <title lang="ro">Dimensiuni Spirituale</title>
-  </programme>
-  <programme start="20170625190000 -0400" stop="20170625200000 -0400" channel="6TV">
-    <title lang="ro">Spirit, Energie, Materie</title>
-  </programme>
-  <programme start="20170625200000 -0400" stop="20170625213000 -0400" channel="6TV">
-    <title lang="ro">Realitatea Românească</title>
-  </programme>
-  <programme start="20170625213000 -0400" stop="20170625230000 -0400" channel="6TV">
-    <title lang="ro">Rezumatul Săptămânii</title>
-  </programme>
-  <programme start="20170625230000 -0400" stop="20170625233000 -0400" channel="6TV">
-    <title lang="ro">Orașul Tau</title>
-  </programme>
-  <programme start="20170625233000 -0400" stop="20170626000000 -0400" channel="6TV">
-    <title lang="ro">Documentar</title>
-  </programme>
-  <programme start="20170626000000 -0400" stop="20170626010000 -0400" channel="6TV">
-    <title lang="ro">Sănătate ca la Carte</title>
-  </programme>
-  <programme start="20170626010000 -0400" stop="20170626030000 -0400" channel="6TV">
-    <title lang="ro">Valori Euroatlantice</title>
-  </programme>
-  <programme start="20170626030000 -0400" stop="20170626040000 -0400" channel="6TV">
-    <title lang="ro">Direct cu Roberto Grosa</title>
-  </programme>
-  <programme start="20170626040000 -0400" stop="20170626050000 -0400" channel="6TV">
-    <title lang="ro">Între Spațiu și Timp</title>
-  </programme>
-  <programme start="20170626050000 -0400" stop="20170626060000 -0400" channel="6TV">
-    <title lang="ro">O minte sănătoasă</title>
-  </programme>
-  <programme start="20170626060000 -0400" stop="20170626065500 -0400" channel="6TV">
-    <title lang="ro">Omul… între cer și pământ</title>
-  </programme>
-  <programme start="20170626065500 -0400" stop="20170626070000 -0400" channel="6TV">
-    <title lang="ro">Imnul Național</title>
-  </programme>
-  <programme start="20170626070000 -0400" stop="20170626080000 -0400" channel="6TV">
-    <title lang="ro">Casa cu Stil</title>
-  </programme>
-  <programme start="20170626080000 -0400" stop="20170626090000 -0400" channel="6TV">
-    <title lang="ro">Astre și destin</title>
-  </programme>
-  <programme start="20170626090000 -0400" stop="20170626093000 -0400" channel="6TV">
-    <title lang="ro">Orașul tău</title>
-  </programme>
-  <programme start="20170626093000 -0400" stop="20170626100000 -0400" channel="6TV">
-    <title lang="ro">Omul o Poveste</title>
-  </programme>
-  <programme start="20170626100000 -0400" stop="20170626110000 -0400" channel="6TV">
-    <title lang="ro">Lifestyle cu Anamaria</title>
-  </programme>
-  <programme start="20170626110000 -0400" stop="20170626120000 -0400" channel="6TV">
-    <title lang="ro">Învață, Crește, Dăruiește</title>
-  </programme>
-  <programme start="20170626120000 -0400" stop="20170626120500 -0400" channel="6TV">
-    <title lang="ro">Minutul de spiritualitate</title>
-  </programme>
-  <programme start="20170626120500 -0400" stop="20170626140000 -0400" channel="6TV">
-    <title lang="ro">Iarmarocul Agricol</title>
-  </programme>
-  <programme start="20170626140000 -0400" stop="20170626143000 -0400" channel="6TV">
-    <title lang="ro">Meditația Săptămânii</title>
-  </programme>
-  <programme start="20170626143000 -0400" stop="20170626163000 -0400" channel="6TV">
-    <title lang="ro">Dimensiuni Spirituale</title>
-  </programme>
-  <programme start="20170626163000 -0400" stop="20170626170000 -0400" channel="6TV">
-    <title lang="ro">Orașul Tău</title>
-  </programme>
-  <programme start="20170626170000 -0400" stop="20170626180000 -0400" channel="6TV">
-    <title lang="ro">Spirit, Energie, Materie</title>
-  </programme>
-  <programme start="20170626180000 -0400" stop="20170626190000 -0400" channel="6TV">
-    <title lang="ro">Întâlnire cu Aurora</title>
-  </programme>
-  <programme start="20170626190000 -0400" stop="20170626200000 -0400" channel="6TV">
-    <title lang="ro">Zodiacul Chinezesc</title>
-  </programme>
-  <programme start="20170626200000 -0400" stop="20170626210000 -0400" channel="6TV">
-    <title lang="ro">Realitatea Juridică</title>
-  </programme>
-  <programme start="20170626210000 -0400" stop="20170626220000 -0400" channel="6TV">
-    <title lang="ro">Între Spațiu și Timp</title>
-  </programme>
-  <programme start="20170626220000 -0400" stop="20170626230000 -0400" channel="6TV">
-    <title lang="ro">Travel Club</title>
-  </programme>
-  <programme start="20170626230000 -0400" stop="20170626233000 -0400" channel="6TV">
-    <title lang="ro">Documentar</title>
-  </programme>
-  <programme start="20170626233000 -0400" stop="20170627010000 -0400" channel="6TV">
-    <title lang="ro">Realitatea Românească</title>
-  </programme>
-  <programme start="20170627010000 -0400" stop="20170627020000 -0400" channel="6TV">
-    <title lang="ro">Alupei Investighează</title>
-  </programme>
-  <programme start="20170627020000 -0400" stop="20170627030000 -0400" channel="6TV">
-    <title lang="ro">Univers Enciclopedic</title>
-  </programme>
-  <programme start="20170627030000 -0400" stop="20170627050000 -0400" channel="6TV">
-    <title lang="ro">Teoria Conspirației</title>
-  </programme>
-  <programme start="20170627050000 -0400" stop="20170627065500 -0400" channel="6TV">
-    <title lang="ro">Puterile Secrete</title>
-  </programme>
-  <programme start="20170627065500 -0400" stop="20170627070000 -0400" channel="6TV">
-    <title lang="ro">Imnul Național</title>
-  </programme>
-  <programme start="20170627070000 -0400" stop="20170627080000 -0400" channel="6TV">
-    <title lang="ro">Omul între cer și pământ</title>
-  </programme>
-  <programme start="20170627080000 -0400" stop="20170627090000 -0400" channel="6TV">
-    <title lang="ro">De vorbă cu psihologul</title>
-  </programme>
-  <programme start="20170627090000 -0400" stop="20170627093000 -0400" channel="6TV">
-    <title lang="ro">Orașul Tău</title>
-  </programme>
-  <programme start="20170627093000 -0400" stop="20170627100000 -0400" channel="6TV">
-    <title lang="ro">Omul… O Poveste</title>
-  </programme>
-  <programme start="20170627100000 -0400" stop="20170627110000 -0400" channel="6TV">
-    <title lang="ro">Autentic cu Ingrid Baciu</title>
-  </programme>
-  <programme start="20170627110000 -0400" stop="20170627123000 -0400" channel="6TV">
-    <title lang="ro">Trezește-te Gheorghe, Trezește-te Ioane</title>
-  </programme>
-  <programme start="20170627123000 -0400" stop="20170627123500 -0400" channel="6TV">
-    <title lang="ro">Minutul de spiritualitate</title>
-  </programme>
-  <programme start="20170627123500 -0400" stop="20170627130000 -0400" channel="6TV">
-    <title lang="ro">Documentar</title>
-  </programme>
-  <programme start="20170627130000 -0400" stop="20170627140000 -0400" channel="6TV">
-    <title lang="ro">Întâlnire cu Aurora</title>
-  </programme>
-  <programme start="20170627140000 -0400" stop="20170627143000 -0400" channel="6TV">
-    <title lang="ro">Meditația Săptămânii</title>
-  </programme>
-  <programme start="20170627143000 -0400" stop="20170627153000 -0400" channel="6TV">
-    <title lang="ro">Faraonii</title>
-  </programme>
-  <programme start="20170627153000 -0400" stop="20170627160000 -0400" channel="6TV">
-    <title lang="ro">Documentar</title>
-  </programme>
-  <programme start="20170627160000 -0400" stop="20170627170000 -0400" channel="6TV">
-    <title lang="ro">Te iubește Adrian</title>
-  </programme>
-  <programme start="20170627170000 -0400" stop="20170627173000 -0400" channel="6TV">
-    <title lang="ro">Orașul Tău</title>
-  </programme>
-  <programme start="20170627173000 -0400" stop="20170627183000 -0400" channel="6TV">
-    <title lang="ro">Tainele Înțelepciunii</title>
-  </programme>
-  <programme start="20170627183000 -0400" stop="20170627190000 -0400" channel="6TV">
-    <title lang="ro">Documentar</title>
-  </programme>
-  <programme start="20170627190000 -0400" stop="20170627200000 -0400" channel="6TV">
-    <title lang="ro">O minte sănătoasă, într-un corp sănătos</title>
-  </programme>
-  <programme start="20170627200000 -0400" stop="20170627220000 -0400" channel="6TV">
-    <title lang="ro">Teoria Conspirației</title>
-  </programme>
-  <programme start="20170627220000 -0400" stop="20170627230000 -0400" channel="6TV">
-    <title lang="ro">Crede și Cercetează</title>
-  </programme>
-  <programme start="20170627230000 -0400" stop="20170627233000 -0400" channel="6TV">
-    <title lang="ro">Orașul Tău</title>
-  </programme>
-  <programme start="20170627233000 -0400" stop="20170628000000 -0400" channel="6TV">
-    <title lang="ro">Automagazin</title>
-  </programme>
-  <programme start="20170628000000 -0400" stop="20170628020000 -0400" channel="6TV">
-    <title lang="ro">Profesioniști în devenire</title>
-  </programme>
-  <programme start="20170628020000 -0400" stop="20170628030000 -0400" channel="6TV">
-    <title lang="ro">Spirit, Energie, Materie</title>
-  </programme>
-  <programme start="20170628030000 -0400" stop="20170628050000 -0400" channel="6TV">
-    <title lang="ro">Puterile Secrete</title>
-  </programme>
-  <programme start="20170628050000 -0400" stop="20170628060000 -0400" channel="6TV">
-    <title lang="ro">De vorbă cu psihologul</title>
-  </programme>
-  <programme start="20170628060000 -0400" stop="20170628065500 -0400" channel="6TV">
-    <title lang="ro">Lifestyle cu Anamaria</title>
-  </programme>
-  <programme start="20170628065500 -0400" stop="20170628070000 -0400" channel="6TV">
-    <title lang="ro">Imnul Național</title>
-  </programme>
-  <programme start="20170628070000 -0400" stop="20170628080000 -0400" channel="6TV">
-    <title lang="ro">Crede și Cercetează</title>
-  </programme>
-  <programme start="20170628080000 -0400" stop="20170628090000 -0400" channel="6TV">
-    <title lang="ro">Alupei Investighează</title>
-  </programme>
-  <programme start="20170628090000 -0400" stop="20170628093000 -0400" channel="6TV">
-    <title lang="ro">Orașul Tău</title>
-  </programme>
-  <programme start="20170628093000 -0400" stop="20170628100000 -0400" channel="6TV">
-    <title lang="ro">Omul… O Poveste</title>
-  </programme>
-  <programme start="20170628100000 -0400" stop="20170628113000 -0400" channel="6TV">
-    <title lang="ro">Dialoguri între minte și inimă</title>
-  </programme>
-  <programme start="20170628113000 -0400" stop="20170628120000 -0400" channel="6TV">
-    <title lang="ro">Documentar</title>
-  </programme>
-  <programme start="20170628120000 -0400" stop="20170628120500 -0400" channel="6TV">
-    <title lang="ro">Minutul de spiritualitate</title>
-  </programme>
-  <programme start="20170628120500 -0400" stop="20170628130000 -0400" channel="6TV">
-    <title lang="ro">O minte sănătoasă, într-un corp sănătos</title>
-  </programme>
-  <programme start="20170628130000 -0400" stop="20170628140000 -0400" channel="6TV">
-    <title lang="ro">Tainele Înțelepciunii</title>
-  </programme>
-  <programme start="20170628140000 -0400" stop="20170628143000 -0400" channel="6TV">
-    <title lang="ro">Meditația Săptămânii</title>
-  </programme>
-  <programme start="20170628143000 -0400" stop="20170628153000 -0400" channel="6TV">
-    <title lang="ro">Casa cu Stil</title>
-  </programme>
-  <programme start="20170628153000 -0400" stop="20170628160000 -0400" channel="6TV">
-    <title lang="ro">Documentar</title>
-  </programme>
-  <programme start="20170628160000 -0400" stop="20170628170000 -0400" channel="6TV">
-    <title lang="ro">Astre și destin</title>
-  </programme>
-  <programme start="20170628170000 -0400" stop="20170628180000 -0400" channel="6TV">
-    <title lang="ro">Bursa de Sănătate</title>
-  </programme>
-  <programme start="20170628180000 -0400" stop="20170628190000 -0400" channel="6TV">
-    <title lang="ro">Direct cu Roberto Grosa</title>
-  </programme>
-  <programme start="20170628190000 -0400" stop="20170628200000 -0400" channel="6TV">
-    <title lang="ro">Cerasela Show</title>
-  </programme>
-  <programme start="20170628200000 -0400" stop="20170628203000 -0400" channel="6TV">
-    <title lang="ro">Orașul Tău</title>
-  </programme>
-  <programme start="20170628203000 -0400" stop="20170628213000 -0400" channel="6TV">
-    <title lang="ro">Învață, Crește, Dăruiește</title>
-  </programme>
-  <programme start="20170628213000 -0400" stop="20170628230000 -0400" channel="6TV">
-    <title lang="ro">Trezește-te Gheorghe, Trezește-te Ioane</title>
-  </programme>
-  <programme start="20170628230000 -0400" stop="20170628233000 -0400" channel="6TV">
-    <title lang="ro">Orașul Tău</title>
-  </programme>
-  <programme start="20170628233000 -0400" stop="20170629000000 -0400" channel="6TV">
-    <title lang="ro">Documentar</title>
-  </programme>
-  <programme start="20170629000000 -0400" stop="20170629010000 -0400" channel="6TV">
-    <title lang="ro">Omul între cer și pământ</title>
-  </programme>
-  <programme start="20170629010000 -0400" stop="20170629020000 -0400" channel="6TV">
-    <title lang="ro">Realitatea Juridică</title>
-  </programme>
-  <programme start="20170629020000 -0400" stop="20170629030000 -0400" channel="6TV">
-    <title lang="ro">Tainele Înțelepciunii</title>
-  </programme>
-  <programme start="20170629030000 -0400" stop="20170629050000 -0400" channel="6TV">
-    <title lang="ro">Rezumatul Săptămânii</title>
-  </programme>
-  <programme start="20170629050000 -0400" stop="20170629065500 -0400" channel="6TV">
-    <title lang="ro">Dimensiuni Spirituale</title>
-  </programme>
-  <programme start="20170629065500 -0400" stop="20170629070000 -0400" channel="6TV">
-    <title lang="ro">Imnul Național</title>
-  </programme>
-  <programme start="20170629070000 -0400" stop="20170629080000 -0400" channel="6TV">
-    <title lang="ro">Lifestyle cu Anamaria</title>
-  </programme>
-  <programme start="20170629080000 -0400" stop="20170629090000 -0400" channel="6TV">
-    <title lang="ro">Direct Cu Roberto Grosa</title>
-  </programme>
-  <programme start="20170629090000 -0400" stop="20170629093000 -0400" channel="6TV">
-    <title lang="ro">Orașul Tău</title>
-  </programme>
-  <programme start="20170629093000 -0400" stop="20170629100000 -0400" channel="6TV">
-    <title lang="ro">Omul… O Poveste</title>
-  </programme>
-  <programme start="20170629100000 -0400" stop="20170629110000 -0400" channel="6TV">
-    <title lang="ro">Între Spațiu și Timp</title>
-  </programme>
-  <programme start="20170629110000 -0400" stop="20170629120000 -0400" channel="6TV">
-    <title lang="ro">Cerasela Show</title>
-  </programme>
-  <programme start="20170629120000 -0400" stop="20170629120500 -0400" channel="6TV">
-    <title lang="ro">Minutul De Spiritualitate</title>
-  </programme>
-  <programme start="20170629120500 -0400" stop="20170629140000 -0400" channel="6TV">
-    <title lang="ro">Valori Euroatlantice</title>
-  </programme>
-  <programme start="20170629140000 -0400" stop="20170629143000 -0400" channel="6TV">
-    <title lang="ro">Meditația Săptămânii</title>
-  </programme>
-  <programme start="20170629143000 -0400" stop="20170629153000 -0400" channel="6TV">
-    <title lang="ro">Crede și Cercetează</title>
-  </programme>
-  <programme start="20170629153000 -0400" stop="20170629163000 -0400" channel="6TV">
-    <title lang="ro">Omul Intre Cer și Pământ</title>
-  </programme>
-  <programme start="20170629163000 -0400" stop="20170629170000 -0400" channel="6TV">
-    <title lang="ro">Documentar</title>
-  </programme>
-  <programme start="20170629170000 -0400" stop="20170629180000 -0400" channel="6TV">
-    <title lang="ro">De Vorba cu Psihologul</title>
-  </programme>
-  <programme start="20170629180000 -0400" stop="20170629190000 -0400" channel="6TV">
-    <title lang="ro">Alupei Investighează</title>
-  </programme>
-  <programme start="20170629190000 -0400" stop="20170629203000 -0400" channel="6TV">
-    <title lang="ro">Turism, Spiritualitate, Autocunoaștere</title>
-  </programme>
-  <programme start="20170629203000 -0400" stop="20170629223000 -0400" channel="6TV">
-    <title lang="ro">Puterile Secrete</title>
-  </programme>
-  <programme start="20170629223000 -0400" stop="20170629233000 -0400" channel="6TV">
-    <title lang="ro">Faraonii</title>
-  </programme>
-  <programme start="20170629233000 -0400" stop="20170630000000 -0400" channel="6TV">
-    <title lang="ro">Orașul Tău</title>
-  </programme>
-  <programme start="20170630000000 -0400" stop="20170630010000 -0400" channel="6TV">
-    <title lang="ro">Învață Crește Dăruiește</title>
-  </programme>
-  <programme start="20170630010000 -0400" stop="20170630020000 -0400" channel="6TV">
-    <title lang="ro">Întâlnire cu Aurora</title>
-  </programme>
-  <programme start="20170630020000 -0400" stop="20170630030000 -0400" channel="6TV">
-    <title lang="ro">Zodiacul Chinezesc</title>
-  </programme>
-  <programme start="20170630030000 -0400" stop="20170630050000 -0400" channel="6TV">
-    <title lang="ro">Iarmarocul Agricol</title>
-  </programme>
-  <programme start="20170630050000 -0400" stop="20170630063000 -0400" channel="6TV">
-    <title lang="ro">Realitatea Juridică</title>
-  </programme>
-  <programme start="20170630063000 -0400" stop="20170630065500 -0400" channel="6TV">
-    <title lang="ro">Spirit, Energie, Materie</title>
-  </programme>
-  <programme start="20170630065500 -0400" stop="20170630070000 -0400" channel="6TV">
-    <title lang="ro">Imnul Național</title>
-  </programme>
-  <programme start="20170630070000 -0400" stop="20170630080000 -0400" channel="6TV">
-    <title lang="ro">Bursa de Sănătate</title>
-  </programme>
-  <programme start="20170630080000 -0400" stop="20170630090000 -0400" channel="6TV">
-    <title lang="ro">Orașul Tău</title>
-  </programme>
-  <programme start="20170630090000 -0400" stop="20170630093000 -0400" channel="6TV">
-    <title lang="ro">Retrospectivă Minutul de Spiritualitate</title>
-  </programme>
-  <programme start="20170630093000 -0400" stop="20170630100000 -0400" channel="6TV">
-    <title lang="ro">Omul… O Poveste</title>
-  </programme>
-  <programme start="20170630100000 -0400" stop="20170630110000 -0400" channel="6TV">
-    <title lang="ro">Te Iubește Adrian</title>
-  </programme>
-  <programme start="20170630110000 -0400" stop="20170630120000 -0400" channel="6TV">
-    <title lang="ro">Realitatea Juridică</title>
-  </programme>
-  <programme start="20170630120000 -0400" stop="20170630123000 -0400" channel="6TV">
-    <title lang="ro">Retrospectiva Minutul de Spiritualitate</title>
-  </programme>
-  <programme start="20170630123000 -0400" stop="20170630143000 -0400" channel="6TV">
-    <title lang="ro">Teoria Conspirației</title>
-  </programme>
-  <programme start="20170630143000 -0400" stop="20170630160000 -0400" channel="6TV">
-    <title lang="ro">Turism, Spiritualitate, Autocunoaștere</title>
-  </programme>
-  <programme start="20170630160000 -0400" stop="20170630170000 -0400" channel="6TV">
-    <title lang="ro">Univers Enciclopedic</title>
-  </programme>
-  <programme start="20170630170000 -0400" stop="20170630190000 -0400" channel="6TV">
-    <title lang="ro">Profesioniști în Devenire</title>
-  </programme>
-  <programme start="20170630190000 -0400" stop="20170630203000 -0400" channel="6TV">
-    <title lang="ro">Dialoguri între Minte și Inimă</title>
-  </programme>
-  <programme start="20170630203000 -0400" stop="20170630220000 -0400" channel="6TV">
-    <title lang="ro">Misterele Universului</title>
-  </programme>
-  <programme start="20170630220000 -0400" stop="20170630223000 -0400" channel="6TV">
-    <title lang="ro">Orașul Tău</title>
-  </programme>
-  <programme start="20170630223000 -0400" stop="20170701003000 -0400" channel="6TV">
-    <title lang="ro">Puterile Secrete</title>
-  </programme>
-  <programme start="20170701003000 -0400" stop="20170701010000 -0400" channel="6TV">
-    <title lang="ro">Documentar</title>
-  </programme>
-  <programme start="20170701010000 -0400" stop="20170701020000 -0400" channel="6TV">
-    <title lang="ro">Lifestyle cu Anamaria</title>
-  </programme>
-  <programme start="20170701020000 -0400" stop="20170701040000 -0400" channel="6TV">
-    <title lang="ro">Te Iubește Adrian</title>
-  </programme>
-  <programme start="20170701040000 -0400" stop="20170701050000 -0400" channel="6TV">
-    <title lang="ro">O Minte Sănătoasă într-un Corp Sănătos</title>
-  </programme>
-  <programme start="20170701050000 -0400" stop="20170701060000 -0400" channel="6TV">
-    <title lang="ro">Zodiacul Chinezesc</title>
-  </programme>
-  <programme start="20170701060000 -0400" stop="20170701065500 -0400" channel="6TV">
-    <title lang="ro">Între Spațiu și Timp</title>
-  </programme>
-  <programme start="20170701065500 -0400" stop="20170701070000 -0400" channel="6TV">
-    <title lang="ro">Imnul Național</title>
-  </programme>
-  <programme start="20170701070000 -0400" stop="20170701080000 -0400" channel="6TV">
-    <title lang="ro">Travel Club</title>
-  </programme>
-  <programme start="20170701080000 -0400" stop="20170701090000 -0400" channel="6TV">
-    <title lang="ro">Orașul Tău</title>
-  </programme>
-  <programme start="20170701090000 -0400" stop="20170701093000 -0400" channel="6TV">
-    <title lang="ro">Retrospectivă Minutul de Spiritualitate</title>
-  </programme>
-  <programme start="20170701093000 -0400" stop="20170701100000 -0400" channel="6TV">
-    <title lang="ro">Omul… O Poveste</title>
-  </programme>
-  <programme start="20170701100000 -0400" stop="20170701110000 -0400" channel="6TV">
-    <title lang="ro">Zodiacul Chinezesc</title>
-  </programme>
-  <programme start="20170701110000 -0400" stop="20170701120000 -0400" channel="6TV">
-    <title lang="ro">Învață, Crește, Dăruiește</title>
-  </programme>
-  <programme start="20170701120000 -0400" stop="20170701123000 -0400" channel="6TV">
-    <title lang="ro">Retrospectiva Minutul de Spiritualitate</title>
-  </programme>
-  <programme start="20170701123000 -0400" stop="20170701143000 -0400" channel="6TV">
-    <title lang="ro">Iarmarocul Agricol</title>
-  </programme>
-  <programme start="20170701143000 -0400" stop="20170701153000 -0400" channel="6TV">
-    <title lang="ro">Sănătate ca la Carte</title>
-  </programme>
-  <programme start="20170701153000 -0400" stop="20170701160000 -0400" channel="6TV">
-    <title lang="ro">Bucătăria lui Chef Daniel</title>
-  </programme>
-  <programme start="20170701160000 -0400" stop="20170701170000 -0400" channel="6TV">
-    <title lang="ro">Lifestyle cu Anamaria</title>
-  </programme>
-  <programme start="20170701170000 -0400" stop="20170701180000 -0400" channel="6TV">
-    <title lang="ro">Casa Cu Stil</title>
-  </programme>
-  <programme start="20170701180000 -0400" stop="20170701190000 -0400" channel="6TV">
-    <title lang="ro">Autentic cu Ingrid Baciu</title>
-  </programme>
-  <programme start="20170701190000 -0400" stop="20170701200000 -0400" channel="6TV">
-    <title lang="ro">Faraonii</title>
-  </programme>
-  <programme start="20170701200000 -0400" stop="20170701203000 -0400" channel="6TV">
-    <title lang="ro">Automagazin</title>
-  </programme>
-  <programme start="20170701203000 -0400" stop="20170701223000 -0400" channel="6TV">
-    <title lang="ro">Valori Euroatlantice</title>
-  </programme>
-  <programme start="20170701223000 -0400" stop="20170701230000 -0400" channel="6TV">
-    <title lang="ro">Rezumatul Săptămânii</title>
-  </programme>
-  <programme start="20170701230000 -0400" stop="20170702003000 -0400" channel="6TV">
-    <title lang="ro">Orașul Tău</title>
-  </programme>
-  <programme start="20170625084500 -0400" stop="20170625105000 -0400" channel="Bollywood FILM">
-    <title lang="ro">Nu deranjați</title>
-    <title lang="xx">Do Knot Disturb</title>
-    <desc lang="ro">Viața ia o turnură neașteptată pentru Raj, din Delhi, atunci când soția lui bogată, Kiran, singura moștenitoare a grupului de companii Saxena, află că el ar putea avea o legătură cu modelul cu picioare lungi Dolly, urmărită de posesivul ei fost iubit, Diesel(n)</desc>
-    <credits>
-      <director>David Dhawan</director>
-      <actor>Sushmita Sen</actor>
-      <actor>Lara Dutta</actor>
-      <actor>Riteish Deshmukh</actor>
-      <actor>Govinda</actor>
-      <actor>Ranvir Shorey</actor>
-      <producer>Vashu Bhagnani</producer>
-    </credits>
-    <date>2009</date>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/46/65/77/do-knot-disturb-508061l-600x0-w-71d749d3.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 3.6</value>
-    </star-rating>
-  </programme>
-  <programme start="20170625105000 -0400" stop="20170625140000 -0400" channel="Bollywood FILM">
-    <title lang="ro">Dincolo de frontiere</title>
-    <title lang="xx">Pinjar</title>
-    <desc lang="ro">Mai mult decat o poveste despre hinduși și musulmani, Pinjar definește rolul femeii ca fiică, citeşte(n)</desc>
-    <credits>
-      <director>Chandra Prakash Dwivedi</director>
-      <actor>Alok Nath</actor>
-      <actor>Urmila Matondkar</actor>
-      <actor>Isha Koppikar</actor>
-      <actor>Farida Jalal</actor>
-      <actor>Lillete Dubey</actor>
-    </credits>
-    <date>2003</date>
-    <category lang="ro">Dramă</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/34/79/35/pinjar-713542l-600x0-w-6944c5aa.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 8.1</value>
-    </star-rating>
-  </programme>
-  <programme start="20170625140000 -0400" stop="20170625164000 -0400" channel="Bollywood FILM">
-    <title lang="ro">Dragostea învinge mereu</title>
-    <title lang="xx">Pyaar To Hona Hi Tha</title>
-    <desc lang="ro">Sanjana, o femeie extrem de neindemanatica, traieste in Franta, cu unchiul ei si este pe cale sa se casatoreasca cu Rahul. Rahul trebuie sa mearga in India, intr-o calatorie de afaceri, iar Sanjana insista sa mearga cu el, dar in ultimul moment renunta, fiindu-i frica sa zboare. Odata ajuns in India, Rahul se indragosteste de Nisha si nu intentioneaza sa se mai intoarca la Paris, ca sa se casatoreasca cu Sanjana. Devastata, Sanjana decide ca trebuie sa plece in India pentru a-si recastiaga iubitul, dar… citeşte(n)</desc>
-    <credits>
-      <director>Anees Bazmee</director>
-      <actor>Kajol</actor>
-      <actor>Ajay Devgn</actor>
-      <actor>Om Puri</actor>
-      <actor>Kashmira Shah</actor>
-      <actor>Reema Lagoo</actor>
-    </credits>
-    <date>1998</date>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Romantic</category>
-    <category lang="ro">Dragoste</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/02/44/16/pyaar-to-hona-hi-tha-139247l-600x0-w-e5c6f0d7.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 6.7</value>
-    </star-rating>
-  </programme>
-  <programme start="20170625164000 -0400" stop="20170625184500 -0400" channel="Bollywood FILM">
-    <title lang="ro">Click</title>
-    <desc lang="ro">Intorcindu-se de la o petrecere, fotograful Avi si prietena lui Sonia accidenteaza o tinara. Sub impulsul momentului, si datorita faptului ca nu exista martori, se hotarasc sa o abandoneze fara macar a verifice daca aceasta mai este sau nu in viata. Dupa o perioada, cei doi incep sa traiasca o serie de experiente ce ii aduc in pragul nebuniei. Urmarind indiciile din niste fotografii, Sonia ajunge sa descopere un secret teribil din trecutul lui Avi. Vor reusi cei doi sa se salveze si sa elibereze… citeşte(n)</desc>
-    <credits>
-      <director>Sangeeth Sivan</director>
-      <actor>Riya Sen</actor>
-      <actor>Sneha Ullal</actor>
-      <actor>Avtar Gill</actor>
-      <actor>Chunky Pandey</actor>
-      <actor>Shreyas Talpade</actor>
-      <producer>Sangeeth Sivan</producer>
-      <producer>Sanjay Ahluwalia</producer>
-    </credits>
-    <date>2010</date>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Fantastic</category>
-    <category lang="ro">Mister</category>
-    <category lang="ro">Thriller</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/56/23/17/click-588921l-600x0-w-82857ff1.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 3.5</value>
-    </star-rating>
-  </programme>
-  <programme start="20170625184500 -0400" stop="20170625210000 -0400" channel="Bollywood FILM">
-    <title lang="ro">Garda de corp</title>
-    <title lang="xx">Kaavalan</title>
-    <desc lang="ro">Bhoomi ne este prezentat ca fiind o persoană care se angajează ușor în lupte locale. Îngrijorată în ceea ce-i privește viitorul, familia îl trimite la Muthuramalingam (Raj Kiran), o persoană foarte respectată pentru a-l pune pe Bhoomi pe calea cea bună. Dar lucrurile nu merg conform planului. Dușmanul lui Muthuramalingam, îi amenință cu moartea fiica, pe Meera. Așa că lui Bhoomi îi revine sarcina de a fi bodyguardul fetei. Doar că Meera e enervată de prezența permanentă a lui Bhoomi așa că pune la cale un… citeşte(n)</desc>
-    <credits>
-      <director>Siddique</director>
-      <actor>Asin</actor>
-      <actor>Joseph Vijay</actor>
-      <actor>Raj Kiran</actor>
-      <actor>Roja</actor>
-      <actor>Livingston</actor>
-    </credits>
-    <date>2011</date>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Dramă</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/57/63/80/kaavalan-339631l-600x0-w-e1382553.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 7.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20170625210000 -0400" stop="20170625234500 -0400" channel="Bollywood FILM">
-    <title lang="ro">Misiune: Baby</title>
-    <title lang="xx">Baby</title>
-    <desc lang="ro">O unitate de contra-informații de elită descoperă un complot. Cu  ceasul ticăind, depinde doar de ei sa descopere tentaculele internaționale ale teroriștilor și sa-i împiedice să lovească în inima Indiei(n)</desc>
-    <credits>
-      <director>Neeraj Pandey</director>
-      <actor>Akshay Kumar</actor>
-      <actor>Anupam Kher</actor>
-      <actor>Danny Denzongpa</actor>
-      <actor>Kay Kay Menon</actor>
-      <actor>Sushant Singh</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Aventuri</category>
-    <category lang="ro">Crimă</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/60/56/07/baby-966691l-600x0-w-52c41603.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 8.1</value>
-    </star-rating>
-  </programme>
-  <programme start="20170625234500 -0400" stop="20170626014500 -0400" channel="Bollywood FILM">
-    <title lang="ro">Urăt și nebun</title>
-    <title lang="xx">Ugly Aur Pagli</title>
-    <desc lang="ro">Cu totii am auzit si am vazut povesti catifelate de dragoste usor amuzante. Acum pregateste-te pentru o idila cu pumni, bufnituri, maini sucite si zero maniere la marginea patului conjugal.(n)</desc>
-    <credits>
-      <director>Sachin Kamlakar Khot</director>
-      <actor>Zeenat Aman</actor>
-      <actor>Mallika Sherawat</actor>
-      <actor>Tinnu Anand</actor>
-      <actor>Ranvir Shorey</actor>
-      <actor>Payal Rohatgi</actor>
-      <producer>Rangita Pritish Nandy</producer>
-    </credits>
-    <date>2008</date>
-    <category lang="ro">Comedie</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/03/10/65/ugly-aur-pagli-791696l-600x0-w-c298fdcd.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 3.8</value>
-    </star-rating>
-  </programme>
-  <programme start="20170626014500 -0400" stop="20170626043000 -0400" channel="Bollywood FILM">
-    <title lang="ro">Dragostea învinge mereu</title>
-    <title lang="xx">Pyaar To Hona Hi Tha</title>
-    <desc lang="ro">Sanjana, o femeie extrem de neindemanatica, traieste in Franta, cu unchiul ei si este pe cale sa se casatoreasca cu Rahul. Rahul trebuie sa mearga in India, intr-o calatorie de afaceri, iar Sanjana insista sa mearga cu el, dar in ultimul moment renunta, fiindu-i frica sa zboare. Odata ajuns in India, Rahul se indragosteste de Nisha si nu intentioneaza sa se mai intoarca la Paris, ca sa se casatoreasca cu Sanjana. Devastata, Sanjana decide ca trebuie sa plece in India pentru a-si recastiaga iubitul, dar… citeşte(n)</desc>
-    <credits>
-      <director>Anees Bazmee</director>
-      <actor>Kajol</actor>
-      <actor>Ajay Devgn</actor>
-      <actor>Om Puri</actor>
-      <actor>Kashmira Shah</actor>
-      <actor>Reema Lagoo</actor>
-    </credits>
-    <date>1998</date>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Romantic</category>
-    <category lang="ro">Dragoste</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/02/44/16/pyaar-to-hona-hi-tha-139247l-600x0-w-e5c6f0d7.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 6.7</value>
-    </star-rating>
-  </programme>
-  <programme start="20170626043000 -0400" stop="20170626064500 -0400" channel="Bollywood FILM">
-    <title lang="ro">Garda de corp</title>
-    <title lang="xx">Kaavalan</title>
-    <desc lang="ro">Bhoomi ne este prezentat ca fiind o persoană care se angajează ușor în lupte locale. Îngrijorată în ceea ce-i privește viitorul, familia îl trimite la Muthuramalingam (Raj Kiran), o persoană foarte respectată pentru a-l pune pe Bhoomi pe calea cea bună. Dar lucrurile nu merg conform planului. Dușmanul lui Muthuramalingam, îi amenință cu moartea fiica, pe Meera. Așa că lui Bhoomi îi revine sarcina de a fi bodyguardul fetei. Doar că Meera e enervată de prezența permanentă a lui Bhoomi așa că pune la cale un… citeşte(n)</desc>
-    <credits>
-      <director>Siddique</director>
-      <actor>Asin</actor>
-      <actor>Joseph Vijay</actor>
-      <actor>Raj Kiran</actor>
-      <actor>Roja</actor>
-      <actor>Livingston</actor>
-    </credits>
-    <date>2011</date>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Dramă</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/57/63/80/kaavalan-339631l-600x0-w-e1382553.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 7.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20170626064500 -0400" stop="20170626085000 -0400" channel="Bollywood FILM">
-    <title lang="ro">Click</title>
-    <desc lang="ro">Intorcindu-se de la o petrecere, fotograful Avi si prietena lui Sonia accidenteaza o tinara. Sub impulsul momentului, si datorita faptului ca nu exista martori, se hotarasc sa o abandoneze fara macar a verifice daca aceasta mai este sau nu in viata. Dupa o perioada, cei doi incep sa traiasca o serie de experiente ce ii aduc in pragul nebuniei. Urmarind indiciile din niste fotografii, Sonia ajunge sa descopere un secret teribil din trecutul lui Avi. Vor reusi cei doi sa se salveze si sa elibereze… citeşte(n)</desc>
-    <credits>
-      <director>Sangeeth Sivan</director>
-      <actor>Riya Sen</actor>
-      <actor>Sneha Ullal</actor>
-      <actor>Avtar Gill</actor>
-      <actor>Chunky Pandey</actor>
-      <actor>Shreyas Talpade</actor>
-      <producer>Sangeeth Sivan</producer>
-      <producer>Sanjay Ahluwalia</producer>
-    </credits>
-    <date>2010</date>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Fantastic</category>
-    <category lang="ro">Mister</category>
-    <category lang="ro">Thriller</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/56/23/17/click-588921l-600x0-w-82857ff1.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 3.5</value>
-    </star-rating>
-  </programme>
-  <programme start="20170626085000 -0400" stop="20170626113500 -0400" channel="Bollywood FILM">
-    <title lang="ro">Misiune: Baby</title>
-    <title lang="xx">Baby</title>
-    <desc lang="ro">O unitate de contra-informații de elită descoperă un complot. Cu  ceasul ticăind, depinde doar de ei sa descopere tentaculele internaționale ale teroriștilor și sa-i împiedice să lovească în inima Indiei(n)</desc>
-    <credits>
-      <director>Neeraj Pandey</director>
-      <actor>Akshay Kumar</actor>
-      <actor>Anupam Kher</actor>
-      <actor>Danny Denzongpa</actor>
-      <actor>Kay Kay Menon</actor>
-      <actor>Sushant Singh</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Aventuri</category>
-    <category lang="ro">Crimă</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/60/56/07/baby-966691l-600x0-w-52c41603.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 8.1</value>
-    </star-rating>
-  </programme>
-  <programme start="20170626113500 -0400" stop="20170626140000 -0400" channel="Bollywood FILM">
-    <title lang="ro">Hoțul de mașini</title>
-    <title lang="xx">Besharam</title>
-    <desc lang="ro">Un hot de masini se indragosteste chiar de femeia careia i-a furat masina.(n)</desc>
-    <credits>
-      <director>Abhinav Kashyap</director>
-      <actor>Ranbir Kapoor</actor>
-      <actor>Rishi Kapoor</actor>
-      <actor>Neetu Singh</actor>
-      <actor>Javed Jaffrey</actor>
-      <actor>Pallavi Sharda</actor>
-      <producer>Sanjeev Gupta</producer>
-    </credits>
-    <date>2013</date>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Romantic</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/58/03/85/besharam-100429l-600x0-w-fab01566.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 3.6</value>
-    </star-rating>
-  </programme>
-  <programme start="20170626140000 -0400" stop="20170626160000 -0400" channel="Bollywood FILM">
-    <title lang="ro">Rivali in dragoste</title>
-    <title lang="xx">Raqeeb</title>
-    <desc lang="ro">Remo, un burlac inteligent si bogat, viseaza sa devina un cunoscut antreprenor. In lumea lui nu prea se invart femei, dar, multumita sugubatului sau prieten Siddarth, Remo intalneste o prietena de-a acestuia, Sophie, si se indragosteste de ea. Se casatoresc, iar viata lor este plina de fericire, pana cand un fost prieten al femeii intra in scena. Sophie are acum o dilema si nu poate sa aleaga intre o veche dragoste care n-a murit inca si confortul financiar oferit de Remo. De aici la un plan diabolic nu mai este decat un pas: Sophie… citeşte(n)</desc>
-    <credits>
-      <director>Anurag Singh</director>
-      <actor>Jimmy Shergill</actor>
-      <actor>Sherlyn Chopra</actor>
-      <actor>Tanushree Dutta</actor>
-      <actor>Sharman Joshi</actor>
-      <actor>Vishwajeet Pradhan</actor>
-    </credits>
-    <date>2007</date>
-    <category lang="ro">Crimă</category>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Mister</category>
-    <category lang="ro">Romantic</category>
-    <category lang="ro">Thriller</category>
-    <category lang="ro">Dragoste</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/01/93/30/raqeeb-442228l-600x0-w-dd9079ce.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 4.4</value>
-    </star-rating>
-  </programme>
-  <programme start="20170626160000 -0400" stop="20170626183500 -0400" channel="Bollywood FILM">
-    <title lang="ro">Mame și prietene</title>
-    <title lang="xx">Filhaal...</title>
-    <desc lang="ro">Relația dintre două prietene se complică după ce una dintre ele trebuie să își ascundă nepotul de teama unui criminal periculos. Prietena îi sare în ajutor și acceptă să aibă grijă de copil. În minte îi încolțește ideea că ar putea păstra copilul pentru ea(n)</desc>
-    <credits>
-      <director>Meghna Gulzar</director>
-      <actor>Sushmita Sen</actor>
-      <actor>Tabu</actor>
-      <actor>Sanjay Suri</actor>
-      <actor>Akash Khurana</actor>
-    </credits>
-    <date>2002</date>
-    <category lang="ro">Dramă</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/01/82/54/filhaal-514727l-600x0-w-e9bc812b.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 5.8</value>
-    </star-rating>
-  </programme>
-  <programme start="20170626183500 -0400" stop="20170626210000 -0400" channel="Bollywood FILM">
-    <title lang="ro">Hoțul de diamante</title>
-    <title lang="xx">Chor Machaaye Shor</title>
-    <desc lang="ro">Inainte sa ajunga in inchisoare, Shyam reuseste sa ascunda diamantele furate. Dupa doi ani este eliberat si cand ajunge in locul unde le ascunsese constata cu stupoare ca acum acolo se afla sediul politiei, iar diamantele se afla in fundatia cladirii(n)</desc>
-    <credits>
-      <director>David Dhawan</director>
-      <actor>Bipasha Basu</actor>
-      <actor>Bobby Deol</actor>
-      <actor>Paresh Rawal</actor>
-      <actor>Rajpal Yadav</actor>
-      <actor>Dinesh Hingoo</actor>
-      <writer>Yunus Sajawal</writer>
-      <composer>Vinod Rathod</composer>
-    </credits>
-    <date>2002</date>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Crimă</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/32/48/65/chor-machaaye-shor-991912l-600x0-w-1368f0ed.jpg" />
-    <star-rating>
-      <value>IMDB: 4.2</value>
-    </star-rating>
-  </programme>
-  <programme start="20170626210000 -0400" stop="20170627000500 -0400" channel="Bollywood FILM">
-    <title lang="ro">Luptătorii pentru libertate</title>
-    <title lang="xx">Khelein Hum Jee Jaan Sey</title>
-    <desc lang="ro">Copiii cărora li se interzice de către opresivii coloniști britanici să joace fotbal decid să se alăture unui grup de luptători pentru libertate(n)</desc>
-    <credits>
-      <director>Ashutosh Gowariker</director>
-      <actor>Deepika Padukone</actor>
-      <actor>Abhishek Bachchan</actor>
-      <actor>Sikander Kher</actor>
-      <actor>Vishakha Singh</actor>
-      <actor>Shreyas Pandit</actor>
-      <producer>Ajay Bijli</producer>
-    </credits>
-    <date>2010</date>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Istoric</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/56/33/30/khelein-hum-jee-jaan-sey-346164l-600x0-w-26e865f9.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20170627000500 -0400" stop="20170627022500 -0400" channel="Bollywood FILM">
-    <title lang="ro">Jaful</title>
-    <title lang="xx">Fool N Final</title>
-    <desc lang="ro">Dupa ce il rapesc pe Rocky, care se afla in posesia unui diamant extrem de valoros, Raja si Chobey se vad amenintati din toate partile(n)</desc>
-    <credits>
-      <director>Ahmed Khan</director>
-      <actor>Shahid Kapur</actor>
-      <actor>Ayesha Takia</actor>
-      <actor>Vivek Oberoi</actor>
-      <actor>Sharmila Tagore</actor>
-      <actor>Sunny Deol</actor>
-      <writer>Neeraj Vora</writer>
-    </credits>
-    <date>2007</date>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Romantic</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/42/44/74/fool-n-final-151506l-600x0-w-1206c266.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 3.3</value>
-    </star-rating>
-  </programme>
-  <programme start="20170627022500 -0400" stop="20170627042000 -0400" channel="Bollywood FILM">
-    <title lang="ro">Rivali in dragoste</title>
-    <title lang="xx">Raqeeb</title>
-    <desc lang="ro">Remo, un burlac inteligent si bogat, viseaza sa devina un cunoscut antreprenor. In lumea lui nu prea se invart femei, dar, multumita sugubatului sau prieten Siddarth, Remo intalneste o prietena de-a acestuia, Sophie, si se indragosteste de ea. Se casatoresc, iar viata lor este plina de fericire, pana cand un fost prieten al femeii intra in scena. Sophie are acum o dilema si nu poate sa aleaga intre o veche dragoste care n-a murit inca si confortul financiar oferit de Remo. De aici la un plan diabolic nu mai este decat un pas: Sophie… citeşte(n)</desc>
-    <credits>
-      <director>Anurag Singh</director>
-      <actor>Jimmy Shergill</actor>
-      <actor>Sherlyn Chopra</actor>
-      <actor>Tanushree Dutta</actor>
-      <actor>Sharman Joshi</actor>
-      <actor>Vishwajeet Pradhan</actor>
-    </credits>
-    <date>2007</date>
-    <category lang="ro">Crimă</category>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Mister</category>
-    <category lang="ro">Romantic</category>
-    <category lang="ro">Thriller</category>
-    <category lang="ro">Dragoste</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/01/93/30/raqeeb-442228l-600x0-w-dd9079ce.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 4.4</value>
-    </star-rating>
-  </programme>
-  <programme start="20170627042000 -0400" stop="20170627064500 -0400" channel="Bollywood FILM">
-    <title lang="ro">Hoțul de diamante</title>
-    <title lang="xx">Chor Machaaye Shor</title>
-    <desc lang="ro">Inainte sa ajunga in inchisoare, Shyam reuseste sa ascunda diamantele furate. Dupa doi ani este eliberat si cand ajunge in locul unde le ascunsese constata cu stupoare ca acum acolo se afla sediul politiei, iar diamantele se afla in fundatia cladirii(n)</desc>
-    <credits>
-      <director>David Dhawan</director>
-      <actor>Bipasha Basu</actor>
-      <actor>Bobby Deol</actor>
-      <actor>Paresh Rawal</actor>
-      <actor>Rajpal Yadav</actor>
-      <actor>Dinesh Hingoo</actor>
-      <writer>Yunus Sajawal</writer>
-      <composer>Vinod Rathod</composer>
-    </credits>
-    <date>2002</date>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Crimă</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/32/48/65/chor-machaaye-shor-991912l-600x0-w-1368f0ed.jpg" />
-    <star-rating>
-      <value>IMDB: 4.2</value>
-    </star-rating>
-  </programme>
-  <programme start="20170627064500 -0400" stop="20170627092000 -0400" channel="Bollywood FILM">
-    <title lang="ro">Mame și prietene</title>
-    <title lang="xx">Filhaal...</title>
-    <desc lang="ro">Relația dintre două prietene se complică după ce una dintre ele trebuie să își ascundă nepotul de teama unui criminal periculos. Prietena îi sare în ajutor și acceptă să aibă grijă de copil. În minte îi încolțește ideea că ar putea păstra copilul pentru ea(n)</desc>
-    <credits>
-      <director>Meghna Gulzar</director>
-      <actor>Sushmita Sen</actor>
-      <actor>Tabu</actor>
-      <actor>Sanjay Suri</actor>
-      <actor>Akash Khurana</actor>
-    </credits>
-    <date>2002</date>
-    <category lang="ro">Dramă</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/01/82/54/filhaal-514727l-600x0-w-e9bc812b.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 5.8</value>
-    </star-rating>
-  </programme>
-  <programme start="20170627092000 -0400" stop="20170627122000 -0400" channel="Bollywood FILM">
-    <title lang="ro">Luptătorii pentru libertate</title>
-    <title lang="xx">Khelein Hum Jee Jaan Sey</title>
-    <desc lang="ro">Copiii cărora li se interzice de către opresivii coloniști britanici să joace fotbal decid să se alăture unui grup de luptători pentru libertate(n)</desc>
-    <credits>
-      <director>Ashutosh Gowariker</director>
-      <actor>Deepika Padukone</actor>
-      <actor>Abhishek Bachchan</actor>
-      <actor>Sikander Kher</actor>
-      <actor>Vishakha Singh</actor>
-      <actor>Shreyas Pandit</actor>
-      <producer>Ajay Bijli</producer>
-    </credits>
-    <date>2010</date>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Istoric</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/56/33/30/khelein-hum-jee-jaan-sey-346164l-600x0-w-26e865f9.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20170627122000 -0400" stop="20170627140000 -0400" channel="Bollywood FILM">
-    <title lang="ro">Încurcături</title>
-    <title lang="xx">O Teri</title>
-    <desc lang="ro">Prantabh și Anand, asociati cu un canal de știri din Delhi, vor sa dovedeasca o mare înșelătorie. Insa un cadavru ajunge accidental în mașina lor.(n)</desc>
-    <credits>
-      <director>Umesh Bist</director>
-      <actor>Salman Khan</actor>
-      <actor>Anupam Kher</actor>
-      <actor>Mandira Bedi</actor>
-      <actor>Vijay Raaz</actor>
-      <actor>Sarah-Jane Dias</actor>
-      <producer>Yogiraj Shetty</producer>
-    </credits>
-    <date>2014</date>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Dramă</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/89/33/59/o-teri-233186l-600x0-w-3a59c1db.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 3.5</value>
-    </star-rating>
-  </programme>
-  <programme start="20170627140000 -0400" stop="20170627162000 -0400" channel="Bollywood FILM">
-    <title lang="ro">99</title>
-    <desc lang="ro">Un ganster isi trimite doi oameni ca sa recupereze o suma de bani de la un parior(n)</desc>
-    <credits>
-      <director>Raj Nidimoru</director>
-      <actor>Soha Ali Khan</actor>
-      <actor>Kunal Khemu</actor>
-      <actor>Vinod Khanna</actor>
-      <actor>Boman Irani</actor>
-      <actor>Mahesh Manjrekar</actor>
-      <writer>Raj Nidimoru</writer>
-      <producer>Sudesh Nanu</producer>
-    </credits>
-    <date>2009</date>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Crimă</category>
-    <category lang="ro">Dramă</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/46/21/36/99-769443l-600x0-w-c76cf58a.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 7.3</value>
-    </star-rating>
-  </programme>
-  <programme start="20170627162000 -0400" stop="20170627180000 -0400" channel="Bollywood FILM">
-    <title lang="ro">Eroul din Toonpur</title>
-    <title lang="xx">Toonpur Ka Superrhero</title>
-    <desc lang="ro">Aditya (Ajay Devgan) este un actor faimos pentru rolul unuia dintre cei mai populari supereroi ai Indiei. Când îi spune fiului său că desenele animate pe care acesta le urmărește nu sunt adevărate, Aditya va primi un răspuns pe măsură. Cât de adevărat sau fals este totul eroul va vedea atunci când va fi răpit de personajele animate favorite ale fiului său, care îl vor ruga să le salveze orașul, Toonpur, de dușmanul lor de moarte, Jagaru(n)</desc>
-    <credits>
-      <director>Kireet Khurana</director>
-      <actor>Kajol</actor>
-      <actor>Ajay Devgn</actor>
-      <actor>Tanuja</actor>
-      <actor>Chunky Pandey</actor>
-      <actor>Delnaaz Paul</actor>
-      <producer>Kumar Mangat</producer>
-    </credits>
-    <date>2010</date>
-    <category lang="ro">Animaţie</category>
-    <category lang="ro">Aventuri</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/48/10/30/toonpur-ka-superrhero-913343l-600x0-w-641fa0c7.jpg" />
-    <star-rating>
-      <value>IMDB: 4.3</value>
-    </star-rating>
-  </programme>
-  <programme start="20170627180000 -0400" stop="20170627210000 -0400" channel="Bollywood FILM">
-    <title lang="ro">Onoarea</title>
-    <title lang="xx">Mahaanta: The Film</title>
-    <desc lang="ro">Dupa ce ignora sfaturile si se casatoreste cu cea care trebuia sa se marite cu fiul unui influent om de afaceri, Sanjay este arestat si inchis.(n)</desc>
-    <credits>
-      <director>Afzal Khan</director>
-      <actor>Madhuri Dixit</actor>
-      <actor>Sanjay Dutt</actor>
-      <actor>Poonam Dhillon</actor>
-      <actor>Shakti Kapoor</actor>
-      <actor>Saeed Jaffrey</actor>
-      <writer>Afzal Khan</writer>
-    </credits>
-    <date>1997</date>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Crimă</category>
-    <category lang="ro">Dramă</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/27/12/67/mahaanta-the-film-516876l-600x0-w-fdc56e5b.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 5.5</value>
-    </star-rating>
-  </programme>
-  <programme start="20170627210000 -0400" stop="20170627234000 -0400" channel="Bollywood FILM">
-    <title lang="ro">Vise londoneze</title>
-    <title lang="xx">London Dreams</title>
-    <desc lang="ro">Povestea se invarte in jurul a doi prieteni din copilarie, Arjun (Ajay Devgan) si Mannu (Salman Khan), care au ca pasiune muzica. Arjun viseaza sa fie pe scena, lupta pentru a implini visul bunicului decedat, insa Mannu are un interes scazut pentru muzica. Arjun paraseste satul si pe Mannu si ajunge la Londra unde isi infiinteaza o trupa. La Londra o cunoaste pe Priya, indragostindu-se nebuneste de ea o va lua ca dansatoare in trupa lui. Arjun il invita pe Mannu la… citeşte(n)</desc>
-    <credits>
-      <director>Vipul Amrutlal Shah</director>
-      <actor>Salman Khan</actor>
-      <actor>Ajay Devgn</actor>
-      <actor>Asin</actor>
-      <actor>Om Puri</actor>
-      <actor>Chris Wilson</actor>
-      <producer>Shamsher Walia</producer>
-    </credits>
-    <date>2009</date>
-    <category lang="ro">Muzical</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/47/19/54/london-dreams-963198l-600x0-w-efa559a2.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 5.4</value>
-    </star-rating>
-  </programme>
-  <programme start="20170627234000 -0400" stop="20170628013000 -0400" channel="Bollywood FILM">
-    <title lang="ro">Accident pe Hill Road</title>
-    <title lang="xx">Accident on Hill Road</title>
-    <desc lang="ro">Accident on Hill Road este un thriller psihologic care se bazeaza pe o poveste reala. Sonam Chopra (Celina Jaitley) este o asistenta care munceste din greu si partile grele. Intr-o zi, cand conducea, Chopra intra cu masina intr-un om numit Prakash Shrivastava (Farooq Shaikh). Ea se panicheaza si, cu Shrivastava inca blocat in parbrizul masinii, ea conduce acasa si lasa masina in garaj, continuand seara ca si cum nimic nu s-ar fi intamplat. Ea si prietenul ei, Sid (Abhimanyu Shekhar Singh), decid… citeşte(n)</desc>
-    <credits>
-      <director>Mahesh Nair</director>
-      <actor>Celina Jaitly</actor>
-      <actor>Farooq Shaikh</actor>
-      <actor>Abhimanyu Singh</actor>
-      <actor>Manmeet Singh</actor>
-    </credits>
-    <date>2010</date>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Thriller</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/49/00/12/accident-on-hill-road-700612l-600x0-w-d803f457.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 4.2</value>
-    </star-rating>
-  </programme>
-  <programme start="20170628013000 -0400" stop="20170628035000 -0400" channel="Bollywood FILM">
-    <title lang="ro">99</title>
-    <desc lang="ro">Un ganster isi trimite doi oameni ca sa recupereze o suma de bani de la un parior(n)</desc>
-    <credits>
-      <director>Raj Nidimoru</director>
-      <actor>Soha Ali Khan</actor>
-      <actor>Kunal Khemu</actor>
-      <actor>Vinod Khanna</actor>
-      <actor>Boman Irani</actor>
-      <actor>Mahesh Manjrekar</actor>
-      <writer>Raj Nidimoru</writer>
-      <producer>Sudesh Nanu</producer>
-    </credits>
-    <date>2009</date>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Crimă</category>
-    <category lang="ro">Dramă</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/46/21/36/99-769443l-600x0-w-c76cf58a.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 7.3</value>
-    </star-rating>
-  </programme>
-  <programme start="20170628035000 -0400" stop="20170628065000 -0400" channel="Bollywood FILM">
-    <title lang="ro">Onoarea</title>
-    <title lang="xx">Mahaanta: The Film</title>
-    <desc lang="ro">Dupa ce ignora sfaturile si se casatoreste cu cea care trebuia sa se marite cu fiul unui influent om de afaceri, Sanjay este arestat si inchis.(n)</desc>
-    <credits>
-      <director>Afzal Khan</director>
-      <actor>Madhuri Dixit</actor>
-      <actor>Sanjay Dutt</actor>
-      <actor>Poonam Dhillon</actor>
-      <actor>Shakti Kapoor</actor>
-      <actor>Saeed Jaffrey</actor>
-      <writer>Afzal Khan</writer>
-    </credits>
-    <date>1997</date>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Crimă</category>
-    <category lang="ro">Dramă</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/27/12/67/mahaanta-the-film-516876l-600x0-w-fdc56e5b.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 5.5</value>
-    </star-rating>
-  </programme>
-  <programme start="20170628065000 -0400" stop="20170628083000 -0400" channel="Bollywood FILM">
-    <title lang="ro">Eroul din Toonpur</title>
-    <title lang="xx">Toonpur Ka Superrhero</title>
-    <desc lang="ro">Aditya (Ajay Devgan) este un actor faimos pentru rolul unuia dintre cei mai populari supereroi ai Indiei. Când îi spune fiului său că desenele animate pe care acesta le urmărește nu sunt adevărate, Aditya va primi un răspuns pe măsură. Cât de adevărat sau fals este totul eroul va vedea atunci când va fi răpit de personajele animate favorite ale fiului său, care îl vor ruga să le salveze orașul, Toonpur, de dușmanul lor de moarte, Jagaru(n)</desc>
-    <credits>
-      <director>Kireet Khurana</director>
-      <actor>Kajol</actor>
-      <actor>Ajay Devgn</actor>
-      <actor>Tanuja</actor>
-      <actor>Chunky Pandey</actor>
-      <actor>Delnaaz Paul</actor>
-      <producer>Kumar Mangat</producer>
-    </credits>
-    <date>2010</date>
-    <category lang="ro">Animaţie</category>
-    <category lang="ro">Aventuri</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/48/10/30/toonpur-ka-superrhero-913343l-600x0-w-641fa0c7.jpg" />
-    <star-rating>
-      <value>IMDB: 4.3</value>
-    </star-rating>
-  </programme>
-  <programme start="20170628083000 -0400" stop="20170628111000 -0400" channel="Bollywood FILM">
-    <title lang="ro">Vise londoneze</title>
-    <title lang="xx">London Dreams</title>
-    <desc lang="ro">Povestea se invarte in jurul a doi prieteni din copilarie, Arjun (Ajay Devgan) si Mannu (Salman Khan), care au ca pasiune muzica. Arjun viseaza sa fie pe scena, lupta pentru a implini visul bunicului decedat, insa Mannu are un interes scazut pentru muzica. Arjun paraseste satul si pe Mannu si ajunge la Londra unde isi infiinteaza o trupa. La Londra o cunoaste pe Priya, indragostindu-se nebuneste de ea o va lua ca dansatoare in trupa lui. Arjun il invita pe Mannu la… citeşte(n)</desc>
-    <credits>
-      <director>Vipul Amrutlal Shah</director>
-      <actor>Salman Khan</actor>
-      <actor>Ajay Devgn</actor>
-      <actor>Asin</actor>
-      <actor>Om Puri</actor>
-      <actor>Chris Wilson</actor>
-      <producer>Shamsher Walia</producer>
-    </credits>
-    <date>2009</date>
-    <category lang="ro">Muzical</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/47/19/54/london-dreams-963198l-600x0-w-efa559a2.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 5.4</value>
-    </star-rating>
-  </programme>
-  <programme start="20170628111000 -0400" stop="20170628140000 -0400" channel="Bollywood FILM">
-    <title lang="ro">Soarta</title>
-    <title lang="xx">Kudrat</title>
-    <desc lang="ro">Trecutul se impleteste cu prezentul in aceasta poveste plina de mister si tensiune. Cosmare din prezent dezvaluie secrete intunecate din trecut(n)</desc>
-    <credits>
-      <director>Chetan Anand</director>
-      <actor>Hema Malini</actor>
-      <actor>Rajesh Khanna</actor>
-      <actor>Vinod Khanna</actor>
-      <actor>Satyendra Kapoor</actor>
-      <actor>Raj Mehra</actor>
-      <producer>B.S. Khanna</producer>
-    </credits>
-    <date>1981</date>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Mister</category>
-    <category lang="ro">Muzical</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/16/80/76/kudrat-807686l-600x0-w-2a04d2cf.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 7.3</value>
-    </star-rating>
-  </programme>
-  <programme start="20170628140000 -0400" stop="20170628161500 -0400" channel="Bollywood FILM">
-    <title lang="ro">Unu, doi, trei</title>
-    <title lang="xx">One Two Three</title>
-    <desc lang="ro">Diamante in valoare de zece crore sunt furate de la un domn periculos, pe nume Papa. Diamantele intra accidental in mainile a a doi indragostiti, Chandu si Chandni, care decid sa le ascunda in rezervorul unei masini. Disperat, Papa pleaca in cautarea diamantelor. Adevarata incurcatura va incepe in momentul in care, la hotelul Blue Diamond sunt cazati trei barbati, aparent diferiti, dar care poarta acelasi nume, Laxminarayan. Primul este fratele unui mafiot, care trebuie sa dovedeasca ca este un bun criminal. Al doilea este un… citeşte(n)</desc>
-    <credits>
-      <director>Ashwani Dhir</director>
-      <actor>Esha Deol</actor>
-      <actor>Sameera Reddy</actor>
-      <actor>Sunil Shetty</actor>
-      <actor>Tusshar Kapoor</actor>
-      <actor>Paresh Rawal</actor>
-    </credits>
-    <date>2008</date>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Dramă</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/45/28/55/one-two-three-203808l-600x0-w-270d4007.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 5.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20170628161500 -0400" stop="20170628180000 -0400" channel="Bollywood FILM">
-    <title lang="ro">Încurcături</title>
-    <title lang="xx">O Teri</title>
-    <desc lang="ro">Prantabh și Anand, asociati cu un canal de știri din Delhi, vor sa dovedeasca o mare înșelătorie. Insa un cadavru ajunge accidental în mașina lor.(n)</desc>
-    <credits>
-      <director>Umesh Bist</director>
-      <actor>Salman Khan</actor>
-      <actor>Anupam Kher</actor>
-      <actor>Mandira Bedi</actor>
-      <actor>Vijay Raaz</actor>
-      <actor>Sarah-Jane Dias</actor>
-      <producer>Yogiraj Shetty</producer>
-    </credits>
-    <date>2014</date>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Dramă</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/89/33/59/o-teri-233186l-600x0-w-3a59c1db.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 3.5</value>
-    </star-rating>
-  </programme>
-  <programme start="20170628180000 -0400" stop="20170628210000 -0400" channel="Bollywood FILM">
-    <title lang="ro">Amintiri</title>
-    <title lang="xx">Yaadein...</title>
-    <desc lang="ro">Raj Singh Puri este foarte bun prieten cu L.K. Malhotra , care este fratele mai mic al lui J.K. Malhotra Cei doi frati sunt oameni de afaceri importanti, iar Raj lucreaza impreuna cu ei. Raj are trei fete: Avantika, Sania si Isha. Prima este casatorita in urma unui aranjament , iar a doua se casatoreste cu persoana iubita, desi familia ei nu este de acord; Isha este cea care nu crede in dragoste . Dupa cateva zile petrecute acasa la socrii, Sania se intoarce acasa, dorind divort , lucru ce ii schimba… citeşte(n)</desc>
-    <credits>
-      <director>Subhash Ghai</director>
-      <actor>Hrithik Roshan</actor>
-      <actor>Kareena Kapoor</actor>
-      <actor>Jackie Shroff</actor>
-      <actor>Amrish Puri</actor>
-      <actor>Rati Agnihotri</actor>
-    </credits>
-    <date>2001</date>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Muzical</category>
-    <category lang="ro">Romantic</category>
-    <category lang="ro">Dragoste</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/02/21/53/yaadein-758628l-600x0-w-8440e9af.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 4.4</value>
-    </star-rating>
-  </programme>
-  <programme start="20170628210000 -0400" stop="20170628232000 -0400" channel="Bollywood FILM">
-    <title lang="ro">Scurtatura</title>
-    <title lang="xx">Shortkut - The Con Is On</title>
-    <desc lang="ro">Regizor secund la Bollywood și scenarist aspirant, Shekhar Giriraj ii permite prietenului sau Rajesh Kumar să se mute cu… citeşte(n)</desc>
-    <credits>
-      <director>Neeraj Vora</director>
-      <actor>Amrita Rao</actor>
-      <actor>Sanjay Dutt</actor>
-      <actor>Akshaye Khanna</actor>
-      <actor>Arshad Warsi</actor>
-      <actor>Sanjay Suri</actor>
-      <producer>Anil Kapoor</producer>
-    </credits>
-    <date>2009</date>
-    <category lang="ro">Comedie</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/04/42/09/shortkut-the-con-is-on-739910l-600x0-w-883a3615.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 3.3</value>
-    </star-rating>
-  </programme>
-  <programme start="20170628232000 -0400" stop="20170629013000 -0400" channel="Bollywood FILM">
-    <title lang="ro">Click</title>
-    <desc lang="ro">Intorcindu-se de la o petrecere, fotograful Avi si prietena lui Sonia accidenteaza o tinara. Sub impulsul momentului, si datorita faptului ca nu exista martori, se hotarasc sa o abandoneze fara macar a verifice daca aceasta mai este sau nu in viata. Dupa o perioada, cei doi incep sa traiasca o serie de experiente ce ii aduc in pragul nebuniei. Urmarind indiciile din niste fotografii, Sonia ajunge sa descopere un secret teribil din trecutul lui Avi. Vor reusi cei doi sa se salveze si sa elibereze… citeşte(n)</desc>
-    <credits>
-      <director>Sangeeth Sivan</director>
-      <actor>Riya Sen</actor>
-      <actor>Sneha Ullal</actor>
-      <actor>Avtar Gill</actor>
-      <actor>Chunky Pandey</actor>
-      <actor>Shreyas Talpade</actor>
-      <producer>Sangeeth Sivan</producer>
-      <producer>Sanjay Ahluwalia</producer>
-    </credits>
-    <date>2010</date>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Fantastic</category>
-    <category lang="ro">Mister</category>
-    <category lang="ro">Thriller</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/56/23/17/click-588921l-600x0-w-82857ff1.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 3.5</value>
-    </star-rating>
-  </programme>
-  <programme start="20170629013000 -0400" stop="20170629035000 -0400" channel="Bollywood FILM">
-    <title lang="ro">Unu, doi, trei</title>
-    <title lang="xx">One Two Three</title>
-    <desc lang="ro">Diamante in valoare de zece crore sunt furate de la un domn periculos, pe nume Papa. Diamantele intra accidental in mainile a a doi indragostiti, Chandu si Chandni, care decid sa le ascunda in rezervorul unei masini. Disperat, Papa pleaca in cautarea diamantelor. Adevarata incurcatura va incepe in momentul in care, la hotelul Blue Diamond sunt cazati trei barbati, aparent diferiti, dar care poarta acelasi nume, Laxminarayan. Primul este fratele unui mafiot, care trebuie sa dovedeasca ca este un bun criminal. Al doilea este un… citeşte(n)</desc>
-    <credits>
-      <director>Ashwani Dhir</director>
-      <actor>Esha Deol</actor>
-      <actor>Sameera Reddy</actor>
-      <actor>Sunil Shetty</actor>
-      <actor>Tusshar Kapoor</actor>
-      <actor>Paresh Rawal</actor>
-    </credits>
-    <date>2008</date>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Dramă</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/45/28/55/one-two-three-203808l-600x0-w-270d4007.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 5.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20170629035000 -0400" stop="20170629064500 -0400" channel="Bollywood FILM">
-    <title lang="ro">Amintiri</title>
-    <title lang="xx">Yaadein...</title>
-    <desc lang="ro">Raj Singh Puri este foarte bun prieten cu L.K. Malhotra , care este fratele mai mic al lui J.K. Malhotra Cei doi frati sunt oameni de afaceri importanti, iar Raj lucreaza impreuna cu ei. Raj are trei fete: Avantika, Sania si Isha. Prima este casatorita in urma unui aranjament , iar a doua se casatoreste cu persoana iubita, desi familia ei nu este de acord; Isha este cea care nu crede in dragoste . Dupa cateva zile petrecute acasa la socrii, Sania se intoarce acasa, dorind divort , lucru ce ii schimba… citeşte(n)</desc>
-    <credits>
-      <director>Subhash Ghai</director>
-      <actor>Hrithik Roshan</actor>
-      <actor>Kareena Kapoor</actor>
-      <actor>Jackie Shroff</actor>
-      <actor>Amrish Puri</actor>
-      <actor>Rati Agnihotri</actor>
-    </credits>
-    <date>2001</date>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Muzical</category>
-    <category lang="ro">Romantic</category>
-    <category lang="ro">Dragoste</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/02/21/53/yaadein-758628l-600x0-w-8440e9af.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 4.4</value>
-    </star-rating>
-  </programme>
-  <programme start="20170629064500 -0400" stop="20170629083000 -0400" channel="Bollywood FILM">
-    <title lang="ro">Încurcături</title>
-    <title lang="xx">O Teri</title>
-    <desc lang="ro">Prantabh și Anand, asociati cu un canal de știri din Delhi, vor sa dovedeasca o mare înșelătorie. Insa un cadavru ajunge accidental în mașina lor.(n)</desc>
-    <credits>
-      <director>Umesh Bist</director>
-      <actor>Salman Khan</actor>
-      <actor>Anupam Kher</actor>
-      <actor>Mandira Bedi</actor>
-      <actor>Vijay Raaz</actor>
-      <actor>Sarah-Jane Dias</actor>
-      <producer>Yogiraj Shetty</producer>
-    </credits>
-    <date>2014</date>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Dramă</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/89/33/59/o-teri-233186l-600x0-w-3a59c1db.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 3.5</value>
-    </star-rating>
-  </programme>
+  <channel id="6TV">
+    <display-name lang="ro">6TV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Science (SCI)">
+    <display-name lang="en">Science (SCI)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
   <programme start="20170629083000 -0400" stop="20170629140000 -0400" channel="Bollywood FILM">
     <title lang="ro">Scurtatura</title>
     <title lang="xx">Shortkut - The Con Is On</title>
@@ -1565,7 +112,7 @@
     </credits>
     <date>2008</date>
     <category lang="ro">Comedie</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/03/26/28/golmaal-returns-708791l-600x0-w-26311c36.jpg" />
+    <icon src="http://static.cinemagia.ro/img/resize/db/movie/03/26/28/golmaal-returns-708791l-600x0-w-26311c36.jpg" />
     <rating system="RO">
       <value>AP</value>
     </rating>
@@ -1661,7 +208,7 @@
     </credits>
     <date>2008</date>
     <category lang="ro">Comedie</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/03/26/28/golmaal-returns-708791l-600x0-w-26311c36.jpg" />
+    <icon src="http://static.cinemagia.ro/img/resize/db/movie/03/26/28/golmaal-returns-708791l-600x0-w-26311c36.jpg" />
     <rating system="RO">
       <value>AP</value>
     </rating>
@@ -1881,259 +428,6 @@
       <value>IMDB: 5.8</value>
     </star-rating>
   </programme>
-  <programme start="20170701014500 -0400" stop="20170701041000 -0400" channel="Bollywood FILM">
-    <title lang="ro">Mulțumesc!</title>
-    <title lang="xx">Thank You</title>
-    <desc lang="ro">Filmul ne relateaza povestea a 3 barbati casatoriti ce incearca sa se distreze in afara vietii lor de familie. Akshay Kumar joacă rolul unui detectiv care este specializat in relatii extra-conjugale, angajat de sotiile celor trei pentru a afla adevarul(n)</desc>
-    <credits>
-      <director>Anees Bazmee</director>
-      <actor>Akshay Kumar</actor>
-      <actor>Sonam Kapoor</actor>
-      <actor>Celina Jaitly</actor>
-      <actor>Bobby Deol</actor>
-      <actor>Sunil Shetty</actor>
-      <producer>Ronnie Screwvala</producer>
-      <producer>Siddharth Roy Kapur</producer>
-    </credits>
-    <date>2011</date>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Romantic</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/56/10/63/thank-you-640882l-600x0-w-2c279f4e.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 4.7</value>
-    </star-rating>
-  </programme>
-  <programme start="20170701041000 -0400" stop="20170701062000 -0400" channel="Bollywood FILM">
-    <title lang="ro">Aladin</title>
-    <desc lang="ro">Din tara miturilor si a legendelor - India - vine o aventura fantastica pentru intreaga familie. Regizat de Sujoy Ghosh, "Aladin" este o versiune moderna a clasicului "Aladin si Lampa Fermecata". Aladin Chatterjee (Riteish Deshmukh) locuieste in orasul Khwaish, un orfan care a fost hartuit inca din copilarie de catre Kasim si banda lui. Dar viata lui se schimba cand Jasmine (Jacquiline Fernandes) ii da o lampa magica.(n)</desc>
-    <credits>
-      <director>Sujoy Ghosh</director>
-      <actor>Amitabh Bachchan</actor>
-      <actor>Sanjay Dutt</actor>
-      <actor>Riteish Deshmukh</actor>
-      <actor>Jacqueline Fernandez</actor>
-      <actor>Boman Irani</actor>
-      <producer>Sujoy Ghosh</producer>
-    </credits>
-    <date>2009</date>
-    <category lang="ro">Aventuri</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/46/27/57/aladin-146108l-600x0-w-de9db878.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 4.6</value>
-    </star-rating>
-  </programme>
-  <programme start="20170701062000 -0400" stop="20170701085000 -0400" channel="Bollywood FILM">
-    <title lang="ro">Suflete nepereche</title>
-    <title lang="xx">Bang Bang</title>
-    <desc lang="ro">Celibatara, frumoasa Harleen decide sa se inscrie pe un site de intalniri online in speranta ca va reusi in cele din urma sa isi gaseasca sufletul pereche. Rajveer Nanda este cel care ii raspunde la anunt. Misterios, fermecator si atletic, tanarul reuseste sa o seduca rapid pe Harleen. Din pacate, aceasta din urma nu stie ca Rajveer este un hot care tocmai a reusit sa fure o bijuterie de o valoare inestimabila. Lucrurile sunt si mai grave: iubitul sau este urmarit de politie, serviciile secrete si de un… citeşte(n)</desc>
-    <credits>
-      <director>Siddharth Anand</director>
-      <actor>Katrina Kaif</actor>
-      <actor>Hrithik Roshan</actor>
-      <actor>Jimmy Shergill</actor>
-      <actor>Danny Denzongpa</actor>
-      <actor>Deepti Naval</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Aventuri</category>
-    <category lang="ro">Comedie</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/87/03/41/bang-bang-243261l-600x0-w-a4bbb0d6.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 5.5</value>
-    </star-rating>
-  </programme>
-  <programme start="20170701085000 -0400" stop="20170701111000 -0400" channel="Bollywood FILM">
-    <title lang="ro">Khurana și rețeta lui</title>
-    <title lang="xx">Luv Shuv Tey Chicken Khurana</title>
-    <desc lang="ro">Aventura lui Omi Khurana la Londra s-a încheiat. Fugind de un gangster periculos din Londra, căruia îi datorează bani, Omi se întoarce în satul lui natal din Punjab, pretinzând că este un avocat prosper din Londra(n)</desc>
-    <credits>
-      <director>Sameer Sharma</director>
-      <actor>Kunal Kapoor</actor>
-      <actor>Rahul Bagga</actor>
-      <actor>Huma Qureshi</actor>
-      <producer>Anurag Kashyap</producer>
-    </credits>
-    <date>2012</date>
-    <category lang="ro">Comedie</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/56/93/96/luv-shuv-tey-chicken-khurana-309315l-600x0-w-909084d4.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 6.6</value>
-    </star-rating>
-  </programme>
-  <programme start="20170701111000 -0400" stop="20170701140000 -0400" channel="Bollywood FILM">
-    <title lang="ro">Nebunie</title>
-    <title lang="xx">Deewangee</title>
-    <desc lang="ro">La o petrecere cu muzica este prezentat lui Sargam ( Urmila Matondkar) de catre Ashwin Mehta ( Vijayendra Ghatge). A doua zi Ashwin este omorat. Sargam il abordeaza pe Raj pentru a apara pe cel acuzat, T B ( AJay Devgan). Raj accepta cu rezerve,si cu ajutorul unui psihiatru demonstreaza ca Tarang este nevinovat. Dar oare Tarang este cu adevarat omul care pare(n)</desc>
-    <credits>
-      <director>Anees Bazmee</director>
-      <actor>Ajay Devgn</actor>
-      <actor>Akshaye Khanna</actor>
-      <actor>Urmila Matondkar</actor>
-      <actor>Farida Jalal</actor>
-      <actor>Seema Biswas</actor>
-    </credits>
-    <date>2002</date>
-    <category lang="ro">Crimă</category>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Romantic</category>
-    <category lang="ro">Thriller</category>
-    <category lang="ro">Dragoste</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/01/98/38/deewangee-127969l-600x0-w-88d122b4.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 6.6</value>
-    </star-rating>
-  </programme>
-  <programme start="20170701140000 -0400" stop="20170701163000 -0400" channel="Bollywood FILM">
-    <title lang="ro">Curajosul</title>
-    <title lang="xx">Himmatwala</title>
-    <desc lang="ro">Un preot umil este martorul unui asasinat. Dupa un timp acesta este chemat sa depuna marturie la tribunal impotriva unui puternic proprietar de terenuri. Acesta din urma face tot ce-i sta in putinta sa-i distruga reputatia barbatului care l-ar putea trimite in inchisoare. Preotul ajunge sa se sinucida din disperare, abandonandu-si sotia si copiii cruzimii persecutorului sau de neoprit. Fiul acestuia fuge la Mumbai. Devenit barbat in toata regula acesta revine in sat si incearca sa-i faca dreptate… citeşte(n)</desc>
-    <credits>
-      <director>Sajid Khan</director>
-      <actor>Ajay Devgn</actor>
-      <actor>Riteish Deshmukh</actor>
-      <actor>Tamannaah Bhatia</actor>
-      <actor>Paresh Rawal</actor>
-      <actor>Adhyayan Suman</actor>
-      <producer>Vashu Bhagnani</producer>
-    </credits>
-    <date>2013</date>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Comedie</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/58/15/73/himmatwala-218307l-600x0-w-fa407eeb.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 1.7</value>
-    </star-rating>
-  </programme>
-  <programme start="20170701163000 -0400" stop="20170701190000 -0400" channel="Bollywood FILM">
-    <title lang="ro">Dragoste nebuna</title>
-    <title lang="xx">Kyon Ki</title>
-    <desc lang="ro">Tanvi Khurana este doctor la un spital pentru oameni cu probleme mintale, iar tatal ei, Dr.Khurana, este directorul spitalului. Pacienta cu numarul 36 este externata si pleaca fara sa ii multumeasca lui Tanvi pentru ajutorul dat si din aceasta cauza Tanvi il uraste pe noul pacient cu numarul 36, Anand. Anand a innebunit dupa ce iubita lui, Maya, a murit inecata. Dr. Sunil, care lucreaza la spital, il recunoaste pe Anand, fiul omului care l-a ajutat cu bani sa invete si sa ajunga doctor si hotaraste sa… citeşte(n)</desc>
-    <credits>
-      <director>Priyadarshan</director>
-      <actor>Salman Khan</actor>
-      <actor>Kareena Kapoor</actor>
-      <actor>Claudiu-Cristian Prisecaru</actor>
-      <actor>Jackie Shroff</actor>
-      <actor>Sunil Shetty</actor>
-    </credits>
-    <date>2005</date>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Romantic</category>
-    <category lang="ro">Dragoste</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/01/59/66/kyon-ki-890413l-600x0-w-462ec323.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 5.5</value>
-    </star-rating>
-  </programme>
-  <programme start="20170701190000 -0400" stop="20170701210000 -0400" channel="Bollywood FILM">
-    <title lang="ro">Hoțul cinstit</title>
-    <title lang="xx">Gali Gali Chor Hai</title>
-    <desc lang="ro">O satiră la adresa clasei politice despre un om obișnuit de pe urma căruia corupții oficiali ai guvernului trag foloase(n)</desc>
-    <credits>
-      <director>Rumi Jaffery</director>
-      <actor>Shriya</actor>
-      <actor>Akshaye Khanna</actor>
-      <actor>Mugdha Godse</actor>
-      <actor>Satish Kaushik</actor>
-      <actor>Veena Malik</actor>
-      <producer>Sangeetha Ahir</producer>
-    </credits>
-    <date>2012</date>
-    <category lang="ro">Dramă</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/56/86/12/gali-gali-chor-hai-496787l-600x0-w-d4b8e8b0.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 5.2</value>
-    </star-rating>
-  </programme>
-  <programme start="20170701210000 -0400" stop="20170702004000 -0400" channel="Bollywood FILM">
-    <title lang="ro">Iubirea prințesei Jodhaa</title>
-    <title lang="xx">Jodhaa Akbar</title>
-    <desc lang="ro">O poveste de dragoste din secolul 16 despre căsătoria aranjată dintre un împărat mongol şi o prinţesă din Rajput, pe nume Jodha, se transformă în dragoste reală(n)</desc>
-    <credits>
-      <director>Ashutosh Gowariker</director>
-      <actor>Aishwarya Rai Bachchan</actor>
-      <actor>Hrithik Roshan</actor>
-      <actor>Amitabh Bachchan</actor>
-      <actor>Kulbhushan Kharbanda</actor>
-      <actor>Sonu Sood</actor>
-    </credits>
-    <date>2008</date>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Aventuri</category>
-    <category lang="ro">Biografic</category>
-    <category lang="ro">Istoric</category>
-    <category lang="ro">Muzical</category>
-    <category lang="ro">Romantic</category>
-    <category lang="ro">Dragoste</category>
-    <icon src="http://static.cinemagia.ro/img/resize/db/movie/02/62/51/jodhaa-akbar-953360l-600x0-w-29e1c82b.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating>
-      <value>IMDB: 7.6</value>
-    </star-rating>
-  </programme>
-  <programme start="20170625070000 -0400" stop="20170625100000 -0400" channel="Mooz Hits">
-    <title lang="ro">Mooz Matinee</title>
-  </programme>
-  <programme start="20170625160000 -0400" stop="20170625200000 -0400" channel="Mooz Hits">
-    <title lang="ro">Moozmix</title>
-  </programme>
-  <programme start="20170625200000 -0400" stop="20170626000000 -0400" channel="Mooz Hits">
-    <title lang="ro">World Of Mooz</title>
-  </programme>
-  <programme start="20170626070000 -0400" stop="20170626100000 -0400" channel="Mooz Hits">
-    <title lang="ro">Mooz Matinee</title>
-  </programme>
-  <programme start="20170626160000 -0400" stop="20170626200000 -0400" channel="Mooz Hits">
-    <title lang="ro">Moozmix</title>
-  </programme>
-  <programme start="20170626200000 -0400" stop="20170627000000 -0400" channel="Mooz Hits">
-    <title lang="ro">World Of Mooz</title>
-  </programme>
-  <programme start="20170627070000 -0400" stop="20170627100000 -0400" channel="Mooz Hits">
-    <title lang="ro">Mooz Matinee</title>
-  </programme>
-  <programme start="20170627160000 -0400" stop="20170627200000 -0400" channel="Mooz Hits">
-    <title lang="ro">Moozmix</title>
-  </programme>
-  <programme start="20170627200000 -0400" stop="20170628000000 -0400" channel="Mooz Hits">
-    <title lang="ro">World Of Mooz</title>
-  </programme>
-  <programme start="20170628070000 -0400" stop="20170628100000 -0400" channel="Mooz Hits">
-    <title lang="ro">Mooz Matinee</title>
-  </programme>
-  <programme start="20170628160000 -0400" stop="20170628200000 -0400" channel="Mooz Hits">
-    <title lang="ro">Moozmix</title>
-  </programme>
-  <programme start="20170628200000 -0400" stop="20170629000000 -0400" channel="Mooz Hits">
-    <title lang="ro">World Of Mooz</title>
-  </programme>
   <programme start="20170629070000 -0400" stop="20170629100000 -0400" channel="Mooz Hits">
     <title lang="ro">Mooz Matinee</title>
   </programme>
@@ -2142,90 +436,6 @@
   </programme>
   <programme start="20170629200000 -0400" stop="20170630000000 -0400" channel="Mooz Hits">
     <title lang="ro">World Of Mooz</title>
-  </programme>
-  <programme start="20170625070000 -0400" stop="20170625100000 -0400" channel="Mooz Ro">
-    <title lang="ro">Moozik de prima oră</title>
-  </programme>
-  <programme start="20170625100000 -0400" stop="20170625130000 -0400" channel="Mooz Ro">
-    <title lang="ro">Mooz 1016</title>
-  </programme>
-  <programme start="20170625130000 -0400" stop="20170625160000 -0400" channel="Mooz Ro">
-    <title lang="ro">Mooz 1016</title>
-  </programme>
-  <programme start="20170625160000 -0400" stop="20170625200000 -0400" channel="Mooz Ro">
-    <title lang="ro">Moozik 4X4</title>
-  </programme>
-  <programme start="20170625200000 -0400" stop="20170626000000 -0400" channel="Mooz Ro">
-    <title lang="ro">Play: Mooz Ro</title>
-  </programme>
-  <programme start="20170626000000 -0400" stop="20170626040000 -0400" channel="Mooz Ro">
-    <title lang="ro">Moozik nopţii</title>
-  </programme>
-  <programme start="20170626040000 -0400" stop="20170626070000 -0400" channel="Mooz Ro">
-    <title lang="ro">Moozik nopţii</title>
-  </programme>
-  <programme start="20170626070000 -0400" stop="20170626100000 -0400" channel="Mooz Ro">
-    <title lang="ro">Moozik de prima oră</title>
-  </programme>
-  <programme start="20170626100000 -0400" stop="20170626130000 -0400" channel="Mooz Ro">
-    <title lang="ro">Mooz 1016</title>
-  </programme>
-  <programme start="20170626130000 -0400" stop="20170626160000 -0400" channel="Mooz Ro">
-    <title lang="ro">Mooz 1016</title>
-  </programme>
-  <programme start="20170626160000 -0400" stop="20170626200000 -0400" channel="Mooz Ro">
-    <title lang="ro">Moozik 4X4</title>
-  </programme>
-  <programme start="20170626200000 -0400" stop="20170627000000 -0400" channel="Mooz Ro">
-    <title lang="ro">Play: Mooz Ro</title>
-  </programme>
-  <programme start="20170627000000 -0400" stop="20170627040000 -0400" channel="Mooz Ro">
-    <title lang="ro">Moozik nopţii</title>
-  </programme>
-  <programme start="20170627040000 -0400" stop="20170627070000 -0400" channel="Mooz Ro">
-    <title lang="ro">Moozik nopţii</title>
-  </programme>
-  <programme start="20170627070000 -0400" stop="20170627100000 -0400" channel="Mooz Ro">
-    <title lang="ro">Moozik de prima oră</title>
-  </programme>
-  <programme start="20170627100000 -0400" stop="20170627130000 -0400" channel="Mooz Ro">
-    <title lang="ro">Mooz 1016</title>
-  </programme>
-  <programme start="20170627130000 -0400" stop="20170627160000 -0400" channel="Mooz Ro">
-    <title lang="ro">Mooz 1016</title>
-  </programme>
-  <programme start="20170627160000 -0400" stop="20170627200000 -0400" channel="Mooz Ro">
-    <title lang="ro">Moozik 4X4</title>
-  </programme>
-  <programme start="20170627200000 -0400" stop="20170628000000 -0400" channel="Mooz Ro">
-    <title lang="ro">Play: Mooz Ro</title>
-  </programme>
-  <programme start="20170628000000 -0400" stop="20170628040000 -0400" channel="Mooz Ro">
-    <title lang="ro">Moozik nopţii</title>
-  </programme>
-  <programme start="20170628040000 -0400" stop="20170628070000 -0400" channel="Mooz Ro">
-    <title lang="ro">Moozik nopţii</title>
-  </programme>
-  <programme start="20170628070000 -0400" stop="20170628100000 -0400" channel="Mooz Ro">
-    <title lang="ro">Moozik de prima oră</title>
-  </programme>
-  <programme start="20170628100000 -0400" stop="20170628130000 -0400" channel="Mooz Ro">
-    <title lang="ro">Mooz 1016</title>
-  </programme>
-  <programme start="20170628130000 -0400" stop="20170628160000 -0400" channel="Mooz Ro">
-    <title lang="ro">Mooz 1016</title>
-  </programme>
-  <programme start="20170628160000 -0400" stop="20170628200000 -0400" channel="Mooz Ro">
-    <title lang="ro">Moozik 4X4</title>
-  </programme>
-  <programme start="20170628200000 -0400" stop="20170629000000 -0400" channel="Mooz Ro">
-    <title lang="ro">Play: Mooz Ro</title>
-  </programme>
-  <programme start="20170629000000 -0400" stop="20170629040000 -0400" channel="Mooz Ro">
-    <title lang="ro">Moozik nopţii</title>
-  </programme>
-  <programme start="20170629040000 -0400" stop="20170629070000 -0400" channel="Mooz Ro">
-    <title lang="ro">Moozik nopţii</title>
   </programme>
   <programme start="20170629070000 -0400" stop="20170629100000 -0400" channel="Mooz Ro">
     <title lang="ro">Moozik de prima oră</title>
@@ -2263,63 +473,6 @@
   <programme start="20170630200000 -0400" stop="20170701000000 -0400" channel="Mooz Ro">
     <title lang="ro">Weekendplay: Mooz Ro</title>
   </programme>
-  <programme start="20170701000000 -0400" stop="20170701040000 -0400" channel="Mooz Ro">
-    <title lang="ro">Weekendplay: Mooz Ro</title>
-  </programme>
-  <programme start="20170701040000 -0400" stop="20170701070000 -0400" channel="Mooz Ro">
-    <title lang="ro">Weekendplay: Mooz Ro</title>
-  </programme>
-  <programme start="20170701070000 -0400" stop="20170701100000 -0400" channel="Mooz Ro">
-    <title lang="ro">Weekendplay: Mooz Ro</title>
-  </programme>
-  <programme start="20170701100000 -0400" stop="20170701130000 -0400" channel="Mooz Ro">
-    <title lang="ro">Weekendplay: Mooz Ro</title>
-  </programme>
-  <programme start="20170701130000 -0400" stop="20170701160000 -0400" channel="Mooz Ro">
-    <title lang="ro">Weekendplay: Mooz Ro</title>
-  </programme>
-  <programme start="20170701160000 -0400" stop="20170701200000 -0400" channel="Mooz Ro">
-    <title lang="ro">Weekendplay: Mooz Ro</title>
-  </programme>
-  <programme start="20170701200000 -0400" stop="20170702000000 -0400" channel="Mooz Ro">
-    <title lang="ro">Weekendplay: Mooz Ro</title>
-  </programme>
-  <programme start="20170625070000 -0400" stop="20170625100000 -0400" channel="Mooz HD">
-    <title lang="ro">Mooz Matinee</title>
-  </programme>
-  <programme start="20170625160000 -0400" stop="20170625200000 -0400" channel="Mooz HD">
-    <title lang="ro">Moozmix</title>
-  </programme>
-  <programme start="20170625200000 -0400" stop="20170626000000 -0400" channel="Mooz HD">
-    <title lang="ro">World Of Mooz</title>
-  </programme>
-  <programme start="20170626070000 -0400" stop="20170626100000 -0400" channel="Mooz HD">
-    <title lang="ro">Mooz Matinee</title>
-  </programme>
-  <programme start="20170626160000 -0400" stop="20170626200000 -0400" channel="Mooz HD">
-    <title lang="ro">Moozmix</title>
-  </programme>
-  <programme start="20170626200000 -0400" stop="20170627000000 -0400" channel="Mooz HD">
-    <title lang="ro">World Of Mooz</title>
-  </programme>
-  <programme start="20170627070000 -0400" stop="20170627100000 -0400" channel="Mooz HD">
-    <title lang="ro">Mooz Matinee</title>
-  </programme>
-  <programme start="20170627160000 -0400" stop="20170627200000 -0400" channel="Mooz HD">
-    <title lang="ro">Moozmix</title>
-  </programme>
-  <programme start="20170627200000 -0400" stop="20170628000000 -0400" channel="Mooz HD">
-    <title lang="ro">World Of Mooz</title>
-  </programme>
-  <programme start="20170628070000 -0400" stop="20170628100000 -0400" channel="Mooz HD">
-    <title lang="ro">Mooz Matinee</title>
-  </programme>
-  <programme start="20170628160000 -0400" stop="20170628200000 -0400" channel="Mooz HD">
-    <title lang="ro">Moozmix</title>
-  </programme>
-  <programme start="20170628200000 -0400" stop="20170629000000 -0400" channel="Mooz HD">
-    <title lang="ro">World Of Mooz</title>
-  </programme>
   <programme start="20170629070000 -0400" stop="20170629100000 -0400" channel="Mooz HD">
     <title lang="ro">Mooz Matinee</title>
   </programme>
@@ -2341,13 +494,490 @@
   <programme start="20170630200000 -0400" stop="20170701000000 -0400" channel="Mooz HD">
     <title lang="ro">World Of Mooz</title>
   </programme>
-  <programme start="20170701070000 -0400" stop="20170701100000 -0400" channel="Mooz HD">
-    <title lang="ro">Mooz Matinee</title>
+  <programme start="20170629070000 -0400" stop="20170629080000 -0400" channel="6TV">
+    <title lang="ro">Lifestyle cu Anamaria</title>
   </programme>
-  <programme start="20170701160000 -0400" stop="20170701200000 -0400" channel="Mooz HD">
-    <title lang="ro">Moozmix</title>
+  <programme start="20170629080000 -0400" stop="20170629090000 -0400" channel="6TV">
+    <title lang="ro">Direct Cu Roberto Grosa</title>
   </programme>
-  <programme start="20170701200000 -0400" stop="20170702000000 -0400" channel="Mooz HD">
-    <title lang="ro">World Of Mooz</title>
+  <programme start="20170629090000 -0400" stop="20170629093000 -0400" channel="6TV">
+    <title lang="ro">Orașul Tău</title>
+  </programme>
+  <programme start="20170629093000 -0400" stop="20170629100000 -0400" channel="6TV">
+    <title lang="ro">Omul… O Poveste</title>
+  </programme>
+  <programme start="20170629100000 -0400" stop="20170629110000 -0400" channel="6TV">
+    <title lang="ro">Între Spațiu și Timp</title>
+  </programme>
+  <programme start="20170629110000 -0400" stop="20170629120000 -0400" channel="6TV">
+    <title lang="ro">Cerasela Show</title>
+  </programme>
+  <programme start="20170629120000 -0400" stop="20170629120500 -0400" channel="6TV">
+    <title lang="ro">Minutul De Spiritualitate</title>
+  </programme>
+  <programme start="20170629120500 -0400" stop="20170629140000 -0400" channel="6TV">
+    <title lang="ro">Valori Euroatlantice</title>
+  </programme>
+  <programme start="20170629140000 -0400" stop="20170629143000 -0400" channel="6TV">
+    <title lang="ro">Meditația Săptămânii</title>
+  </programme>
+  <programme start="20170629143000 -0400" stop="20170629153000 -0400" channel="6TV">
+    <title lang="ro">Crede și Cercetează</title>
+  </programme>
+  <programme start="20170629153000 -0400" stop="20170629163000 -0400" channel="6TV">
+    <title lang="ro">Omul Intre Cer și Pământ</title>
+  </programme>
+  <programme start="20170629163000 -0400" stop="20170629170000 -0400" channel="6TV">
+    <title lang="ro">Documentar</title>
+  </programme>
+  <programme start="20170629170000 -0400" stop="20170629180000 -0400" channel="6TV">
+    <title lang="ro">De Vorba cu Psihologul</title>
+  </programme>
+  <programme start="20170629180000 -0400" stop="20170629190000 -0400" channel="6TV">
+    <title lang="ro">Alupei Investighează</title>
+  </programme>
+  <programme start="20170629190000 -0400" stop="20170629203000 -0400" channel="6TV">
+    <title lang="ro">Turism, Spiritualitate, Autocunoaștere</title>
+  </programme>
+  <programme start="20170629203000 -0400" stop="20170629223000 -0400" channel="6TV">
+    <title lang="ro">Puterile Secrete</title>
+  </programme>
+  <programme start="20170629223000 -0400" stop="20170629233000 -0400" channel="6TV">
+    <title lang="ro">Faraonii</title>
+  </programme>
+  <programme start="20170629233000 -0400" stop="20170630000000 -0400" channel="6TV">
+    <title lang="ro">Orașul Tău</title>
+  </programme>
+  <programme start="20170630000000 -0400" stop="20170630010000 -0400" channel="6TV">
+    <title lang="ro">Învață Crește Dăruiește</title>
+  </programme>
+  <programme start="20170630010000 -0400" stop="20170630020000 -0400" channel="6TV">
+    <title lang="ro">Întâlnire cu Aurora</title>
+  </programme>
+  <programme start="20170630020000 -0400" stop="20170630030000 -0400" channel="6TV">
+    <title lang="ro">Zodiacul Chinezesc</title>
+  </programme>
+  <programme start="20170630030000 -0400" stop="20170630050000 -0400" channel="6TV">
+    <title lang="ro">Iarmarocul Agricol</title>
+  </programme>
+  <programme start="20170630050000 -0400" stop="20170630063000 -0400" channel="6TV">
+    <title lang="ro">Realitatea Juridică</title>
+  </programme>
+  <programme start="20170630063000 -0400" stop="20170630065500 -0400" channel="6TV">
+    <title lang="ro">Spirit, Energie, Materie</title>
+  </programme>
+  <programme start="20170630065500 -0400" stop="20170630070000 -0400" channel="6TV">
+    <title lang="ro">Imnul Național</title>
+  </programme>
+  <programme start="20170630070000 -0400" stop="20170630080000 -0400" channel="6TV">
+    <title lang="ro">Bursa de Sănătate</title>
+  </programme>
+  <programme start="20170630080000 -0400" stop="20170630090000 -0400" channel="6TV">
+    <title lang="ro">Orașul Tău</title>
+  </programme>
+  <programme start="20170630090000 -0400" stop="20170630093000 -0400" channel="6TV">
+    <title lang="ro">Retrospectivă Minutul de Spiritualitate</title>
+  </programme>
+  <programme start="20170630093000 -0400" stop="20170630100000 -0400" channel="6TV">
+    <title lang="ro">Omul… O Poveste</title>
+  </programme>
+  <programme start="20170630100000 -0400" stop="20170630110000 -0400" channel="6TV">
+    <title lang="ro">Te Iubește Adrian</title>
+  </programme>
+  <programme start="20170630110000 -0400" stop="20170630120000 -0400" channel="6TV">
+    <title lang="ro">Realitatea Juridică</title>
+  </programme>
+  <programme start="20170630120000 -0400" stop="20170630123000 -0400" channel="6TV">
+    <title lang="ro">Retrospectiva Minutul de Spiritualitate</title>
+  </programme>
+  <programme start="20170630123000 -0400" stop="20170630143000 -0400" channel="6TV">
+    <title lang="ro">Teoria Conspirației</title>
+  </programme>
+  <programme start="20170630143000 -0400" stop="20170630160000 -0400" channel="6TV">
+    <title lang="ro">Turism, Spiritualitate, Autocunoaștere</title>
+  </programme>
+  <programme start="20170630160000 -0400" stop="20170630170000 -0400" channel="6TV">
+    <title lang="ro">Univers Enciclopedic</title>
+  </programme>
+  <programme start="20170630170000 -0400" stop="20170630190000 -0400" channel="6TV">
+    <title lang="ro">Profesioniști în Devenire</title>
+  </programme>
+  <programme start="20170630190000 -0400" stop="20170630203000 -0400" channel="6TV">
+    <title lang="ro">Dialoguri între Minte și Inimă</title>
+  </programme>
+  <programme start="20170630203000 -0400" stop="20170630220000 -0400" channel="6TV">
+    <title lang="ro">Misterele Universului</title>
+  </programme>
+  <programme start="20170630220000 -0400" stop="20170630223000 -0400" channel="6TV">
+    <title lang="ro">Orașul Tău</title>
+  </programme>
+  <programme start="20170630223000 -0400" stop="20170701003000 -0400" channel="6TV">
+    <title lang="ro">Puterile Secrete</title>
+  </programme>
+  <programme start="20170629001000 +0000" stop="20170629011000 +0000" channel="Science (SCI)">
+    <title lang="en">Outrageous Acts of Science</title>
+    <sub-title lang="en">Tons of Anarchy</sub-title>
+    <desc lang="en">Tons of Anarchy. No additional information is available(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/182479.jpg" />
+  </programme>
+  <programme start="20170629011000 +0000" stop="20170629014000 +0000" channel="Science (SCI)">
+    <title lang="en">Outrageous Acts of Danger</title>
+    <sub-title lang="en">Death Jump</sub-title>
+    <desc lang="en">Death Jump. No additional information is available(n)</desc>
+  </programme>
+  <programme start="20170629014000 +0000" stop="20170629021000 +0000" channel="Science (SCI)">
+    <title lang="en">Outrageous Acts of Danger</title>
+    <sub-title lang="en">Wrecking Ball Showdown</sub-title>
+    <desc lang="en">Wrecking Ball Showdown. No additional information is available(n)</desc>
+  </programme>
+  <programme start="20170629021000 +0000" stop="20170629031000 +0000" channel="Science (SCI)">
+    <title lang="en">Outrageous Acts of Science</title>
+    <sub-title lang="en">Man vs. Nature</sub-title>
+    <desc lang="en">Man vs. Nature. A glass-breaking gorilla and a speed-racing sea lion face off against a snowman in the desert and an underwater wheelchair(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/182479.jpg" />
+  </programme>
+  <programme start="20170629031000 +0000" stop="20170629034000 +0000" channel="Science (SCI)">
+    <title lang="en">Machines: How They Work</title>
+    <sub-title lang="en">Lawn Mowers, Pinball Machines, and Padlocks</sub-title>
+    <desc lang="en">Lawn Mowers, Pinball Machines, and Padlocks. How lawn mowers, pinball machines and padlocks work(n)</desc>
+  </programme>
+  <programme start="20170629034000 +0000" stop="20170629041000 +0000" channel="Science (SCI)">
+    <title lang="en">How Do They Do It?</title>
+    <sub-title lang="en">Pistachios, Forbidden City, and Radar</sub-title>
+    <desc lang="en">Pistachios, Forbidden City, and Radar. Pistachios; Forbidden City; radar(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/74673.jpg" />
+  </programme>
+  <programme start="20170629041000 +0000" stop="20170629043500 +0000" channel="Science (SCI)">
+    <title lang="en">How Do They Do It?</title>
+    <sub-title lang="en">Balsamic Vinegar, Drysuits, Stunt Plane</sub-title>
+    <desc lang="en">Balsamic Vinegar, Drysuits, Stunt Plane. Balsamic vinegar; drysuits; stunt planes(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/74673.jpg" />
+  </programme>
+  <programme start="20170629043500 +0000" stop="20170629050500 +0000" channel="Science (SCI)">
+    <title lang="en">How It's Made</title>
+    <sub-title lang="en">Carbon Fiber; Antique Frame Restoration; Railcar Movers; Hood Ornaments</sub-title>
+    <desc lang="en">Carbon Fiber; Antique Frame Restoration; Railcar Movers; Hood Ornaments. Carbon fiber; antique-frame restoration; rail-car movers; hood ornaments(n)</desc>
+  </programme>
+  <programme start="20170629050500 +0000" stop="20170629053000 +0000" channel="Science (SCI)">
+    <title lang="en">How It's Made</title>
+    <sub-title lang="en">Carbon Fibre Masts, Fortune Cookies, IMAX Projectors, Roller Chains</sub-title>
+    <desc lang="en">Carbon Fibre Masts, Fortune Cookies, IMAX Projectors, Roller Chains. Take a trip behind the scenes to discover how everyday objects are manufactured. Find out what goes in to making carbon fibre masts, fortune cookies and IMAX projectors(n)</desc>
+  </programme>
+  <programme start="20170629053000 +0000" stop="20170629060000 +0000" channel="Science (SCI)">
+    <title lang="en">How It's Made</title>
+    <sub-title lang="en">Navajo Rugs; Crude Oil; Kaleidoscopes; Titanium Dental Implants</sub-title>
+    <desc lang="en">Navajo Rugs; Crude Oil; Kaleidoscopes; Titanium Dental Implants. Navajo rugs; kaleidoscopes; dental implants; crude oil(n)</desc>
+  </programme>
+  <programme start="20170629060000 +0000" stop="20170629063000 +0000" channel="Science (SCI)">
+    <title lang="en">How It's Made</title>
+    <sub-title lang="en">Deep Cycle Batteries, Tins, Optical Lenses</sub-title>
+    <desc lang="en">Deep Cycle Batteries, Tins, Optical Lenses. Discover how deep cycle batteries and tins are created as more everyday items are put under the microscope(n)</desc>
+  </programme>
+  <programme start="20170629063000 +0000" stop="20170629070000 +0000" channel="Science (SCI)">
+    <title lang="en">How It's Made</title>
+    <sub-title lang="en">Impact Wrenches, Marble Sinks, Plantain Chips, NASCAR Cars</sub-title>
+    <desc lang="en">Impact Wrenches, Marble Sinks, Plantain Chips, NASCAR Cars. Plantain chips; cultured marble sinks; NASCAR; pneumatic impact wrenches(n)</desc>
+  </programme>
+  <programme start="20170629070000 +0000" stop="20170629073000 +0000" channel="Science (SCI)">
+    <title lang="en">How It's Made</title>
+    <sub-title lang="en">Alligator Bags, Lockers, Bench Planes, Deployable Flight Recorders</sub-title>
+    <desc lang="en">Alligator Bags, Lockers, Bench Planes, Deployable Flight Recorders. Lockers; bench planes; alligator bags; deployable flight recorders(n)</desc>
+  </programme>
+  <programme start="20170629073000 +0000" stop="20170629080000 +0000" channel="Science (SCI)">
+    <title lang="en">How It's Made</title>
+    <sub-title lang="en">CCD Semiconductors, Airline Meals, Paper Cups, Trumpets</sub-title>
+    <desc lang="en">CCD Semiconductors, Airline Meals, Paper Cups, Trumpets. The making of CCD semiconductors; airline meals; paper cups; trumpets(n)</desc>
+  </programme>
+  <programme start="20170629080000 +0000" stop="20170629083000 +0000" channel="Science (SCI)">
+    <title lang="en">How It's Made</title>
+    <sub-title lang="en">Coins, Cars, Grocery Carts</sub-title>
+    <desc lang="en">Coins, Cars, Grocery Carts. Cars; grocery carts; collectible coins(n)</desc>
+  </programme>
+  <programme start="20170629083000 +0000" stop="20170629090000 +0000" channel="Science (SCI)">
+    <title lang="en">How It's Made</title>
+    <sub-title lang="en">Western Revolver Replicas, Arc Trainers, Used-Oil Furnaces, Vegetable Peelers and Pizza Cutters</sub-title>
+    <desc lang="en">Western Revolver Replicas, Arc Trainers, Used-Oil Furnaces, Vegetable Peelers and Pizza Cutters. Arc trainers; pizza cutters; revolver replicas; used-oil furnaces; vegetable peelers(n)</desc>
+  </programme>
+  <programme start="20170629090000 +0000" stop="20170629093000 +0000" channel="Science (SCI)">
+    <title lang="en">How It's Made</title>
+    <sub-title lang="en">Paper Fans; Walnut Oil; Copper</sub-title>
+    <desc lang="en">Paper Fans; Walnut Oil; Copper. Paper fans; walnut oil; copper(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/62059.jpg" />
+  </programme>
+  <programme start="20170629093000 +0000" stop="20170629100000 +0000" channel="Science (SCI)">
+    <title lang="en">How It's Made</title>
+    <sub-title lang="en">Surfboards, Stickers, Sandwich Cookies, Concrete Roofing Tiles</sub-title>
+    <desc lang="en">Surfboards, Stickers, Sandwich Cookies, Concrete Roofing Tiles. This episode features how stickers, surfboards, sandwich cookies and concrete roofing tiles are made(n)</desc>
+  </programme>
+  <programme start="20170629100000 +0000" stop="20170629103000 +0000" channel="Science (SCI)">
+    <title lang="en">How It's Made</title>
+    <sub-title lang="en">Cheese Graters, Hot Sauce, Silver Jewelry, Traditional Mexican Chairs</sub-title>
+    <desc lang="en">Cheese Graters, Hot Sauce, Silver Jewelry, Traditional Mexican Chairs. Hot sauce; silver jewelry; cheese graters; traditional Mexican chairs(n)</desc>
+  </programme>
+  <programme start="20170629103000 +0000" stop="20170629110000 +0000" channel="Science (SCI)">
+    <title lang="en">How It's Made</title>
+    <sub-title lang="en">Personal Watercrafts, Ice Skates, Wine, Office Furniture</sub-title>
+    <desc lang="en">Personal Watercrafts, Ice Skates, Wine, Office Furniture. Included: personal watercrafts; wine; office furniture; ice skates(n)</desc>
+  </programme>
+  <programme start="20170629110000 +0000" stop="20170629113000 +0000" channel="Science (SCI)">
+    <title lang="en">How It's Made</title>
+    <sub-title lang="en">Cuff Links, Blueberry Turnovers, Dashboards, Pottery</sub-title>
+    <desc lang="en">Cuff Links, Blueberry Turnovers, Dashboards, Pottery. Cuff links; dashboards; pottery; blueberry turnovers(n)</desc>
+  </programme>
+  <programme start="20170629113000 +0000" stop="20170629120000 +0000" channel="Science (SCI)">
+    <title lang="en">How It's Made</title>
+    <sub-title lang="en">Binoculars, Sparklers, Rubber Boots, Circular Saw Blades</sub-title>
+    <desc lang="en">Binoculars, Sparklers, Rubber Boots, Circular Saw Blades. Sparklers; rubber boots; binoculars; circular-saw blades(n)</desc>
+  </programme>
+  <programme start="20170629120000 +0000" stop="20170629123000 +0000" channel="Science (SCI)">
+    <title lang="en">How It's Made</title>
+    <sub-title lang="en">Springs, Pavers, Pianos</sub-title>
+    <desc lang="en">Springs, Pavers, Pianos. More everyday items go under the microscope as we discover how springs, paving stones and pianos are made(n)</desc>
+  </programme>
+  <programme start="20170629123000 +0000" stop="20170629130000 +0000" channel="Science (SCI)">
+    <title lang="en">How It's Made</title>
+    <sub-title lang="en">Steel Wool, Ranges, Carved Candles, Slot Machines</sub-title>
+    <desc lang="en">Steel Wool, Ranges, Carved Candles, Slot Machines. How do they make steel wool, ranges, carved candles, and slot machines? Find out as more everyday items are put under the microscope(n)</desc>
+  </programme>
+  <programme start="20170629130000 +0000" stop="20170629133000 +0000" channel="Science (SCI)">
+    <title lang="en">How It's Made</title>
+    <sub-title lang="en">Suits of Armor, Street Light Poles, Bent Hardwood, Membrane Switches</sub-title>
+    <desc lang="en">Suits of Armor, Street Light Poles, Bent Hardwood, Membrane Switches. Featured: suits of armor; streetlight poles; bent hardwood; membrane switches(n)</desc>
+  </programme>
+  <programme start="20170629133000 +0000" stop="20170629140000 +0000" channel="Science (SCI)">
+    <title lang="en">How It's Made</title>
+    <sub-title lang="en">Ski Bindings; Immersion Parts Washers; Mine Ventilation; Pencil Sharpeners</sub-title>
+    <desc lang="en">Ski Bindings; Immersion Parts Washers; Mine Ventilation; Pencil Sharpeners. Included: downhill ski bindings; immersion parts washers; mining ventilation; and pencil sharpeners(n)</desc>
+  </programme>
+  <programme start="20170629140000 +0000" stop="20170629143000 +0000" channel="Science (SCI)">
+    <title lang="en">How It's Made</title>
+    <sub-title lang="en">Firefighter Helmets, Nautical Compasses, Packaging Tubes, Hand Saws</sub-title>
+    <desc lang="en">Firefighter Helmets, Nautical Compasses, Packaging Tubes, Hand Saws. Have you ever wondered how those everyday, mundane objects are made? Well this programme will tell you everything! For boys who like their toys..(n)</desc>
+  </programme>
+  <programme start="20170629143000 +0000" stop="20170629150000 +0000" channel="Science (SCI)">
+    <title lang="en">How It's Made</title>
+    <sub-title lang="en">External Hard Drives; Frozen Shrimp; Thai Rice Boxes; Paper Towels</sub-title>
+    <desc lang="en">External Hard Drives; Frozen Shrimp; Thai Rice Boxes; Paper Towels. External hard drives, frozen shrimp, Thai rice boxes and paper towels are spotlighted(n)</desc>
+  </programme>
+  <programme start="20170629150000 +0000" stop="20170629153000 +0000" channel="Science (SCI)">
+    <title lang="en">How It's Made</title>
+    <sub-title lang="en">Sidecars; Frozen French Toast; Refrigerator Compressors; Superchargers</sub-title>
+    <desc lang="en">Sidecars; Frozen French Toast; Refrigerator Compressors; Superchargers. Sidecars; frozen French toast; refrigerator compressors; superchargers(n)</desc>
+  </programme>
+  <programme start="20170629153000 +0000" stop="20170629160000 +0000" channel="Science (SCI)">
+    <title lang="en">How It's Made</title>
+    <sub-title lang="en">Honey, Fiber Optics, Bricks, Pipe Organs</sub-title>
+    <desc lang="en">Honey, Fiber Optics, Bricks, Pipe Organs. Honey; fiber optics; bricks; pipe organs(n)</desc>
+  </programme>
+  <programme start="20170629160000 +0000" stop="20170629163000 +0000" channel="Science (SCI)">
+    <title lang="en">How It's Made</title>
+    <sub-title lang="en">Gel Caps; Playground Spring Riders; Frozen Pancakes; Natural Rubber</sub-title>
+    <desc lang="en">Gel Caps; Playground Spring Riders; Frozen Pancakes; Natural Rubber. Gel caps, playground spring riders, frozen pancakes and natural rubber are spotlighted(n)</desc>
+  </programme>
+  <programme start="20170629163000 +0000" stop="20170629170000 +0000" channel="Science (SCI)">
+    <title lang="en">How It's Made</title>
+    <sub-title lang="en">Prams; Factory-Built Homes; Wood Flutes; Bicycle Tires</sub-title>
+    <desc lang="en">Prams; Factory-Built Homes; Wood Flutes; Bicycle Tires. Prams; factory-built homes; wood flutes; bicycle tires(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/62059.jpg" />
+  </programme>
+  <programme start="20170629170000 +0000" stop="20170629173000 +0000" channel="Science (SCI)">
+    <title lang="en">How It's Made</title>
+    <sub-title lang="en">Drill Bits, Photo Booths, Stamps</sub-title>
+    <desc lang="en">Drill Bits, Photo Booths, Stamps. Take a trip behind the scenes to discover how everyday objects are manufactured. Find out what goes in to making drill bits, photo booths and stamps(n)</desc>
+  </programme>
+  <programme start="20170629173000 +0000" stop="20170629180000 +0000" channel="Science (SCI)">
+    <title lang="en">How It's Made</title>
+    <sub-title lang="en">Exercise Bikes; Cornish Pastries; Pasta Makers; and Slate Products</sub-title>
+    <desc lang="en">Exercise Bikes; Cornish Pastries; Pasta Makers; and Slate Products. How exercise bikes, cornish pastries, pasta makers and slate products are made(n)</desc>
+  </programme>
+  <programme start="20170629180000 +0000" stop="20170629183000 +0000" channel="Science (SCI)">
+    <title lang="en">How It's Made</title>
+    <sub-title lang="en">Garden Forks; English Toffee; Paint Chip Cards; Bundt Pans</sub-title>
+    <desc lang="en">Garden Forks; English Toffee; Paint Chip Cards; Bundt Pans. English toffee; garden forks; paint-chip cards; bundt pans(n)</desc>
+  </programme>
+  <programme start="20170629183000 +0000" stop="20170629190000 +0000" channel="Science (SCI)">
+    <title lang="en">How It's Made</title>
+    <sub-title lang="en">CO2 Cartridges, Pretzels, Scissor Lifts, Skating Rinks</sub-title>
+    <desc lang="en">CO2 Cartridges, Pretzels, Scissor Lifts, Skating Rinks. Discover how CO2 cartridges, pretzels, scissor lifts and skating rinks are created, as more everyday items are put under the microscope(n)</desc>
+  </programme>
+  <programme start="20170629190000 +0000" stop="20170629193000 +0000" channel="Science (SCI)">
+    <title lang="en">How It's Made</title>
+    <sub-title lang="en">Pins &amp; Needles, Moldings, Locomotives, Clothespins</sub-title>
+    <desc lang="en">Pins &amp; Needles, Moldings, Locomotives, Clothespins. Moldings; locomotives; clothespins; pins and needles(n)</desc>
+  </programme>
+  <programme start="20170629193000 +0000" stop="20170629200000 +0000" channel="Science (SCI)">
+    <title lang="en">How It's Made</title>
+    <sub-title lang="en">Game Calls, Mayonnaise, Traditional Razor Blades, Butterfly Safety Razors</sub-title>
+    <desc lang="en">Game Calls, Mayonnaise, Traditional Razor Blades, Butterfly Safety Razors. Mayonnaise; game calls; traditional razor blades; butterfly safety razors(n)</desc>
+  </programme>
+  <programme start="20170629200000 +0000" stop="20170629203000 +0000" channel="Science (SCI)">
+    <title lang="en">How It's Made</title>
+    <sub-title lang="en">Armored Vehicles; Tension Fabric Buildings; Rowers; Sculpture Enlargements</sub-title>
+    <desc lang="en">Armored Vehicles; Tension Fabric Buildings; Rowers; Sculpture Enlargements. Armored vehicles; tension fabric structures; rowers; and sculpture enlargements(n)</desc>
+  </programme>
+  <programme start="20170629203000 +0000" stop="20170629210000 +0000" channel="Science (SCI)">
+    <title lang="en">How It's Made</title>
+    <sub-title lang="en">Macarons, Pine Needle Baskets, and Micrometers</sub-title>
+    <desc lang="en">Macarons, Pine Needle Baskets, and Micrometers. How macarons, pine needle baskets and micrometers are made(n)</desc>
+  </programme>
+  <programme start="20170629210000 +0000" stop="20170629213500 +0000" channel="Science (SCI)">
+    <title lang="en">How It's Made: American Made</title>
+    <sub-title lang="en">Nostalgia Edition</sub-title>
+    <desc lang="en">Nostalgia Edition. No additional information is available(n)</desc>
+  </programme>
+  <programme start="20170629213500 +0000" stop="20170629220500 +0000" channel="Science (SCI)">
+    <title lang="en">How It's Made</title>
+    <sub-title lang="en">Nuno Felt; Drum Crushers; Kimchi; Traditional Parquet Floors</sub-title>
+    <desc lang="en">Nuno Felt; Drum Crushers; Kimchi; Traditional Parquet Floors. Nuno felt; drum crushers; kimchi; and traditional parquet floors(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/62059.jpg" />
+  </programme>
+  <programme start="20170629220500 +0000" stop="20170629230500 +0000" channel="Science (SCI)">
+    <title lang="en">Impossible Engineering</title>
+    <sub-title lang="en">Marvels of Japan</sub-title>
+    <desc lang="en">Marvels of Japan. No additional information is available(n)</desc>
+  </programme>
+  <programme start="20170629230500 +0000" stop="20170629233500 +0000" channel="Science (SCI)">
+    <title lang="en">How It's Made</title>
+    <sub-title lang="en">Armored Vehicles; Tension Fabric Buildings; Rowers; Sculpture Enlargements</sub-title>
+    <desc lang="en">Armored Vehicles; Tension Fabric Buildings; Rowers; Sculpture Enlargements. Armored vehicles; tension fabric structures; rowers; and sculpture enlargements(n)</desc>
+  </programme>
+  <programme start="20170629233500 +0000" stop="20170630001000 +0000" channel="Science (SCI)">
+    <title lang="en">How It's Made</title>
+    <sub-title lang="en">Macarons, Pine Needle Baskets, and Micrometers</sub-title>
+    <desc lang="en">Macarons, Pine Needle Baskets, and Micrometers. How macarons, pine needle baskets and micrometers are made(n)</desc>
+  </programme>
+  <programme start="20170630001000 +0000" stop="20170630004000 +0000" channel="Science (SCI)">
+    <title lang="en">How It's Made: American Made</title>
+    <sub-title lang="en">Nostalgia Edition</sub-title>
+    <desc lang="en">Nostalgia Edition. No additional information is available(n)</desc>
+  </programme>
+  <programme start="20170630004000 +0000" stop="20170630011000 +0000" channel="Science (SCI)">
+    <title lang="en">How It's Made</title>
+    <sub-title lang="en">Nuno Felt; Drum Crushers; Kimchi; Traditional Parquet Floors</sub-title>
+    <desc lang="en">Nuno Felt; Drum Crushers; Kimchi; Traditional Parquet Floors. Nuno felt; drum crushers; kimchi; and traditional parquet floors(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/62059.jpg" />
+  </programme>
+  <programme start="20170630011000 +0000" stop="20170630021000 +0000" channel="Science (SCI)">
+    <title lang="en">Impossible Engineering</title>
+    <sub-title lang="en">Marvels of Japan</sub-title>
+    <desc lang="en">Marvels of Japan. No additional information is available(n)</desc>
+  </programme>
+  <programme start="20170630021000 +0000" stop="20170630024000 +0000" channel="Science (SCI)">
+    <title lang="en">How It's Made</title>
+    <sub-title lang="en">Pins &amp; Needles, Moldings, Locomotives, Clothespins</sub-title>
+    <desc lang="en">Pins &amp; Needles, Moldings, Locomotives, Clothespins. Moldings; locomotives; clothespins; pins and needles(n)</desc>
+  </programme>
+  <programme start="20170630024000 +0000" stop="20170630031000 +0000" channel="Science (SCI)">
+    <title lang="en">How It's Made</title>
+    <sub-title lang="en">Game Calls, Mayonnaise, Traditional Razor Blades, Butterfly Safety Razors</sub-title>
+    <desc lang="en">Game Calls, Mayonnaise, Traditional Razor Blades, Butterfly Safety Razors. Mayonnaise; game calls; traditional razor blades; butterfly safety razors(n)</desc>
+  </programme>
+  <programme start="20170630031000 +0000" stop="20170630041000 +0000" channel="Science (SCI)">
+    <title lang="en">NASA's Unexplained Files</title>
+    <sub-title lang="en">Return of the Moon Bugs</sub-title>
+    <desc lang="en">Return of the Moon Bugs. Something living is brought back from the moon; and an artificial object headed towards Earth(n)</desc>
+  </programme>
+  <programme start="20170630041000 +0000" stop="20170630050500 +0000" channel="Science (SCI)">
+    <title lang="en">NASA's Unexplained Files</title>
+    <sub-title lang="en">Mystery of the Invisible Planet</sub-title>
+    <desc lang="en">Mystery of the Invisible Planet. A deep-space probe mysteriously malfunctions; an imposter breaches NASA's Mission Control Center; and astronomers find evidence of an invisible planet in a distant solar system(n)</desc>
+  </programme>
+  <programme start="20170630050500 +0000" stop="20170630060000 +0000" channel="Science (SCI)">
+    <title lang="en">NASA's Unexplained Files</title>
+    <sub-title lang="en">Curse of the Gas Giant</sub-title>
+    <desc lang="en">Curse of the Gas Giant. Jupiter is far hotter than it should be, and scientists don't understand why; the Curiosity Rover finds something strange on Mars; and detectives turn to NASA for help with a murder cold case(n)</desc>
+  </programme>
+  <programme start="20170630060000 +0000" stop="20170630080000 +0000" channel="Science (SCI)">
+    <title lang="en">The Secret Life of Evolution</title>
+    <desc lang="en">Little-known historical facts about evolution are presented(n)</desc>
+  </programme>
+  <programme start="20170630080000 +0000" stop="20170630090000 +0000" channel="Science (SCI)">
+    <title lang="en">Space's Deepest Secrets</title>
+    <sub-title lang="en">Mysteries of Alien Volcanoes</sub-title>
+    <desc lang="en">Mysteries of Alien Volcanoes. New research into alien volcanoes in the solar system reveals that many of these fiery wonders are similar to volcanoes on Earth, and some might have created the conditions for extraterrestrial life(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/200036.jpg" />
+  </programme>
+  <programme start="20170630090000 +0000" stop="20170630100000 +0000" channel="Science (SCI)">
+    <title lang="en">Space's Deepest Secrets</title>
+    <sub-title lang="en">Curse of Dark Matter</sub-title>
+    <desc lang="en">Curse of Dark Matter. Recent discoveries have revealed vast clouds of dark matter in the universe. Included: whether the mysterious matter may prove the existence of multiple universes(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/200036.jpg" />
+  </programme>
+  <programme start="20170630100000 +0000" stop="20170630110000 +0000" channel="Science (SCI)">
+    <title lang="en">Space's Deepest Secrets</title>
+    <sub-title lang="en">Secret History of the Voyager Mission</sub-title>
+    <desc lang="en">Secret History of the Voyager Mission. The story of the Voyager space program, which began with the launch of the space probes Voyager I and II in 1977. The mission was supposed to last five years, but remains ongoing(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/200036.jpg" />
+  </programme>
+  <programme start="20170630110000 +0000" stop="20170630120000 +0000" channel="Science (SCI)">
+    <title lang="en">Space's Deepest Secrets</title>
+    <sub-title lang="en">Black Holes: The Einstein Prophecy</sub-title>
+    <desc lang="en">Black Holes: The Einstein Prophecy. The genius of Einstein's theory of relativity was the first evidence that black holes might exist, but scientists still do not know what really happens inside of one. Follow the researchers investigating the dark secrets of this mysterious phenomenon(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/200036.jpg" />
+  </programme>
+  <programme start="20170630120000 +0000" stop="20170630130000 +0000" channel="Science (SCI)">
+    <title lang="en">Space's Deepest Secrets</title>
+    <sub-title lang="en">The Universe's Greatest Hits</sub-title>
+    <desc lang="en">The Universe's Greatest Hits. The stories of deep-space explorers who are risking their careers, and even their lives, to lead humanity to worlds yet to be seen(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/200036.jpg" />
+  </programme>
+  <programme start="20170630130000 +0000" stop="20170630140000 +0000" channel="Science (SCI)">
+    <title lang="en">Space's Deepest Secrets</title>
+    <sub-title lang="en">The Universe's Greatest Hits</sub-title>
+    <desc lang="en">The Universe's Greatest Hits. The stories of deep-space explorers who are risking their careers, and even their lives, to lead humanity to worlds yet to be seen(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/200036.jpg" />
+  </programme>
+  <programme start="20170630140000 +0000" stop="20170630150000 +0000" channel="Science (SCI)">
+    <title lang="en">Space's Deepest Secrets</title>
+    <sub-title lang="en">Stranger Signals From Alien Worlds</sub-title>
+    <desc lang="en">Stranger Signals From Alien Worlds. For decades, researchers have been scouring the universe for signals from extraterrestrials. New discoveries reveal mysterious fast radio bursts from space that may be the key to confirming life in the cosmos(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/200036.jpg" />
+  </programme>
+  <programme start="20170630150000 +0000" stop="20170630160000 +0000" channel="Science (SCI)">
+    <title lang="en">Space's Deepest Secrets</title>
+    <sub-title lang="en">Race to Planet 9</sub-title>
+    <desc lang="en">Race to Planet 9. Scientists believe that there is an undiscovered massive planet lurking at the edge of the solar system. Join researchers as they hunt for this mysterious world, an investigation that could reveal the secret history of the solar system's formation(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/200036.jpg" />
+  </programme>
+  <programme start="20170630160000 +0000" stop="20170630170000 +0000" channel="Science (SCI)">
+    <title lang="en">Space's Deepest Secrets</title>
+    <sub-title lang="en">Secret History of the Big Bang</sub-title>
+    <desc lang="en">Secret History of the Big Bang. Scientists are on a race to find the beginning of time and space: the Big Bang. Cutting-edge technology helps astronomers look back in time to uncover the mysteries of the universe's creation, revealing what happened in the first moments of the cosmos(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/200036.jpg" />
+  </programme>
+  <programme start="20170630170000 +0000" stop="20170630180000 +0000" channel="Science (SCI)">
+    <title lang="en">Space's Deepest Secrets</title>
+    <sub-title lang="en">Rise of the Monster Stars</sub-title>
+    <desc lang="en">Rise of the Monster Stars. A look at the oldest stars in the universe, which could be a key to unlocking the secrets of life(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/200036.jpg" />
+  </programme>
+  <programme start="20170630180000 +0000" stop="20170630190000 +0000" channel="Science (SCI)">
+    <title lang="en">Space's Deepest Secrets</title>
+    <sub-title lang="en">Secret History of Jupiter</sub-title>
+    <desc lang="en">Secret History of Jupiter. Recent discoveries by NASA's Juno mission reveal new secrets about Jupiter, a strange world that is more like a star than a planet. As scientists uncover what lies beneath its violent storms, the understanding of the solar system could change forever(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/200036.jpg" />
+  </programme>
+  <programme start="20170630190000 +0000" stop="20170630200000 +0000" channel="Science (SCI)">
+    <title lang="en">Mission Asteroid</title>
+    <desc lang="en">A killer asteroid is on its way to Earth -- what can we really do to stop it? Are we destined to go the way of the dinosaur?(n)</desc>
+  </programme>
+  <programme start="20170630200000 +0000" stop="20170630210000 +0000" channel="Science (SCI)">
+    <title lang="en">When Asteroids Attack</title>
+    <sub-title lang="en">When Asteroids Attack</sub-title>
+    <desc lang="en">When Asteroids Attack. No additional information is available(n)</desc>
+  </programme>
+  <programme start="20170630210000 +0000" stop="20170630220500 +0000" channel="Science (SCI)">
+    <title lang="en">Asteroids: The Dark Secrets</title>
+    <sub-title lang="en">Asteroids: The Dark Secrets</sub-title>
+    <desc lang="en">Asteroids: The Dark Secrets. No additional information is available(n)</desc>
+  </programme>
+  <programme start="20170630220500 +0000" stop="20170630230500 +0000" channel="Science (SCI)">
+    <title lang="en">How to Survive an Asteroid Strike</title>
+    <desc lang="en">No additional information is available(n)</desc>
+  </programme>
+  <programme start="20170630230500 +0000" stop="20170701001000 +0000" channel="Science (SCI)">
+    <title lang="en">When Asteroids Attack</title>
+    <sub-title lang="en">When Asteroids Attack</sub-title>
+    <desc lang="en">When Asteroids Attack. No additional information is available(n)</desc>
   </programme>
 </tv>

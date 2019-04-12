@@ -1,0 +1,8 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="8101" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="https://iptvx.one/icn/amedia-premium.png" audio-track="English" group-title="",Amedia Premium
+http://178.163.12.42:4022/udp/234.0.0.209:2000
+
+#EXTINF:-1 tvg-chno="8101.1" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="https://iptvx.one/icn/amedia-premium.png" audio-track="English" group-title="",Amedia Premium
+http://109.248.236.41:4433/udp/238.1.1.71:1234
+

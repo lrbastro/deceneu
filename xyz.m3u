@@ -6,6 +6,70 @@ http://178.163.12.42:4022/udp/234.0.0.209:2000
 #EXTINF:-1 tvg-chno="8101.1" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="https://iptvx.one/icn/amedia-premium.png" audio-track="English" group-title="",Amedia Premium
 http://109.248.236.41:4433/udp/238.1.1.71:1234
 
+#EXTINF:-1 tvg-chno="8102" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Amedia Hit
+http://109.248.236.41:4433/udp/238.1.1.96:1234
+
+#EXTINF:-1 tvg-chno="8103" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",A1 HD
+http://109.248.236.41:4433/udp/238.1.1.97:1234
+
+#EXTINF:-1 tvg-chno="8104" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",AMC Russia
+http://213.231.3.148:8081/udp/224.5.4.21:1234
+
+#EXTINF:-1 tvg-chno="8110" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",TV 1000 RU
+http://95.188.116.4:1234/udp/233.7.70.53:5000
+
+#EXTINF:-1 tvg-chno="8111" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",TV 1000 Action RU
+http://109.248.236.41:4433/udp/238.1.1.43:1234
+
+#EXTINF:-1 tvg-chno="8112" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",XXI
+http://37.193.58.164:4022/udp/239.1.4.1:1234
+
+#EXTINF:-1 tvg-chno="8113" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Sony Syfy RU
+http://37.193.58.164:4022/udp/239.1.4.7:1234
+
+#EXTINF:-1 tvg-chno="8121" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Eurosport 1 RU
+http://213.231.3.148:8081/udp/224.5.2.156:1234
+
+#EXTINF:-1 tvg-chno="8121" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Eurosport 2 RU
+http://109.248.236.41:4433/udp/238.1.1.115:1234
+
+#EXTINF:-1 tvg-chno="8128" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Senata Sport RU
+http://109.248.236.41:4433/udp/238.1.1.60:1234
+#EXTINF:-1 tvg-chno="8129" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Senata Sport + RU
+http://109.248.236.41:4433/udp/238.1.1.61:1234
+
+#EXTINF:-1 tvg-chno="8152" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Discovery RU
+http://37.193.58.164:4022/udp/239.1.5.1:1234
+
+#EXTINF:-1 tvg-chno="8152" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Nat Geo Wild RU
+http://109.248.236.41:4433/udp/238.1.1.25:1234
+
+#EXTINF:-1 tvg-chno="8153" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Discovery Science RU
+http://91.219.103.72:4022/udp/239.224.19.254:1234
+
+#EXTINF:-1 tvg-chno="8154" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Nat Geo RU
+http://213.231.3.148:8081/udp/224.5.3.162:1234
+
+#EXTINF:-1 tvg-chno="8155" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Travel Channel RU
+http://213.231.3.148:8081/udp/224.5.4.137:1234
+
+#EXTINF:-1 tvg-chno="8156" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",TLC RU
+http://37.193.58.164:4022/udp/239.1.3.16:1234
+
+#EXTINF:-1 tvg-chno="8157" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",DTX RU
+http://37.193.58.164:4022/udp/239.1.5.2:1234
+
+#EXTINF:-1 tvg-chno="8158" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Animal Planet RU
+http://37.193.58.164:4022/udp/239.1.5.3:1234
+
+#EXTINF:-1 tvg-chno="8158" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Travel Adventure RU
+http://37.193.58.164:4022/udp/239.1.5.7:1234
+
+#EXTINF:-1 tvg-chno="8158" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",National Geographic RU
+http://37.193.58.164:4022/udp/239.1.5.8:1234
+
+
+
 
 #EXTINF:-1,Eurosport 1 Player
 http://77.245.98.22:8000/play/307/tracks-v1a1/index.m3u8

@@ -6,3 +6,235 @@ http://178.163.12.42:4022/udp/234.0.0.209:2000
 #EXTINF:-1 tvg-chno="8101.1" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="https://iptvx.one/icn/amedia-premium.png" audio-track="English" group-title="",Amedia Premium
 http://109.248.236.41:4433/udp/238.1.1.71:1234
 
+
+#EXTINF:-1,Eurosport 1 Player
+http://77.245.98.22:8000/play/307/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,Eurosport
+http://95.128.243.226:7780/udp/224.0.90.61:1234
+
+#EXTINF:-1,Eurosport
+http://85.93.136.181:2323/udp/224.0.90.61:1234
+
+#EXTINF:-1,Eurosport 1
+http://95.189.156.41:1234/udp/233.7.70.13:5000
+
+#EXTINF:-1,Eurosport 1
+http://88.150.248.21:7337/tvarm.ruindex.m3u8
+
+#EXTINF:-1,Eurosport 1
+http://185.13.134.215:81/udp/239.254.102.4:1234
+
+#EXTINF:-1,Eurosport 1
+http://82.200.127.58:8080/udp/239.54.5.45:1224
+
+#EXTINF:-1,Eurosport 1HD
+https://185-8-178-140.livesports24.online/eurosport1ru.m3u8
+
+
+#EXTINF:-1,Eurosport 1 HD
+http://185.13.134.215:81/udp/239.254.2.97:1234
+
+#EXTINF:-1,EUROSPORT 1 HD
+http://89.23.17.210:8888/udp/239.1.23.155:1234
+
+
+#EXTINF:-1,Eurosport 2
+http://109.248.236.41:4433/udp/238.1.1.115:1234
+
+#EXTINF:-1,Eurosport 2
+http://185.13.134.215:81/udp/239.254.102.5:1234
+
+#EXTINF:-1,Eurosport 2
+http://85.93.136.181:2323/udp/224.0.90.62:1234
+
+#EXTINF:-1,EUROSPORT 2 HD
+http://185.13.134.215:81/udp/239.254.2.241:1234
+
+#EXTINF:-1,Eurosport 2HD
+https://185-8-178-138.livesports24.online/ruseurosport2.m3u8
+
+#EXTINF:-1,Eurosport Gold
+http://95.37.87.78:4088/udp/225.52.123.190:5000
+
+#EXTINF:-1,Extreme sports
+http://193.24.197.194:81/udp/224.0.90.49:1234
+
+#EXTINF:-1,Extreme sports
+http://178.163.5.160:4022/udp/234.0.0.150:2000
+
+#EXTINF:-1,Extreme Sports
+http://85.93.136.181:2323/udp/224.0.90.49:1234
+
+#EXTINF:-1,Extreme Sports
+http://95.128.243.226:7780/udp/224.0.90.49:1234
+
+#EXTINF:-1,EXTREME SPORTS
+http://185.13.134.215:81/udp/239.254.2.96:1234
+
+#EXTINF:-1,Extreme sports
+http://91.90.253.66:8080/CH730_std/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,Fight Box
+http://92.43.140.249/s86/04.m3u8
+
+#EXTINF:-1,Fightbox
+http://92.43.140.200/s86/index.m3u8
+
+#EXTINF:-1,FOX Soccer Plus
+http://190.13.120.123/streams/foxsoccer.m3u8
+
+#EXTINF:-1,Hard Knocks Fighting HD
+http://vcnboutsports.teleosmedia.com/stream/boutsports/boutsports/playlist.m3u8
+
+#EXTINF:-1,Nova Sport 1
+http://185.167.208.157/master_334.m3u8
+
+#EXTINF:-1,Olimpic Channel HD
+https://ott-live.olympicchannel.com/out/u/OC1.m3u8
+
+#EXTINF:-1,Orange Sport HD
+http://213.151.233.20:8000/dna-6428-tv-pc/hls/4001v102.m3u8
+
+#EXTINF:-1,Q Sport
+http://185.167.208.157/master_362.m3u8
+
+#EXTINF:-1,Russian Extreme
+http://92.43.140.249/s47/04.m3u8
+
+#EXTINF:-1,Setanta Sports
+http://92.43.140.200/s81/04.m3u8
+
+#EXTINF:-1,Setanta Sports
+http://92.43.140.204:80/s81/index.m3u8
+
+#EXTINF:-1,Setanta Sports
+http://109.248.236.41:4433/udp/238.1.1.60:1234
+
+#EXTINF:-1,Setanta Sports
+http://stream.euroasia.lfstrm.tv/setanta_sport_hd/0/index.m3u8
+
+#EXTINF:-1,Setanta Sports
+http://92.43.140.249:80/s81/04.m3u8
+
+#EXTINF:-1,Setanta Sports +
+http://92.43.140.200/s82/04.m3u8
+
+#EXTINF:-1,Setanta Sports +
+http://stream.euroasia.lfstrm.tv/setanta_sport_plus_hd/0/index.m3u8
+
+#EXTINF:-1,Setanta Eurasia + HD
+http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
+
+#EXTINF:-1,Setanta Sports + HD
+http://178.124.183.13/hls/5T3FNFICQ4/bw5000000/playlist.m3u8
+
+
+#EXTINF:-1,SKY SPORT 24 HD
+https://1.ip2stream.icu/live/sky_sport_24_hd/playlist.m3u8
+#EXTINF:-1,SKY SPORT ARENA HD
+https://1.ip2stream.icu/live/sky_sport_arena_hd/playlist.m3u8
+#EXTINF:-1,SKY SPORT F1 HD
+https://1.ip2stream.icu/live/sky_sport_f1_hd/playlist.m3u8
+#EXTINF:-1,SKY SPORT FOOTBALL HD
+https://1.ip2stream.icu/live/sky_sport_football_hd/playlist.m3u8
+#EXTINF:-1,SKY SPORT MOTO GP HD
+https://1.ip2stream.icu/live/sky_sport_motogp_hd/playlist.m3u8
+#EXTINF:-1,SKY SPORT NBA HD
+https://1.ip2stream.icu/live/sky_sport_nba_hd/playlist.m3u8
+#EXTINF:-1,SKY SPORT UNO HD
+https://1.ip2stream.icu/live/sky_sport_uno_hd/playlist.m3u8
+
+#EXTINF:-1,Sky Sport News
+http://78.94.109.214:7522/upnp/channelstream/92
+
+#EXTINF:-1,Sport 1
+http://185.167.208.157/master_405.m3u8
+
+#EXTINF:-1,Sport 1 (LT)
+http://88.216.48.14:80/sport1/live.m3u8
+
+#EXTINF:-1,Sport Klub 1
+http://37.26.71.125:9000/play/a02c/tracks-v1a1/index.m3u8
+#EXTINF:-1,Sport Klub 2
+http://37.26.71.125:9000/play/a01p/tracks-v1a1/index.m3u8
+#EXTINF:-1,Sport Klub 3
+http://37.26.71.125:9000/play/a01q/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,Sports TV
+https://blutv-beta.akamaized.net/sportstv/sportstv.smil/playlist.m3u8
+
+#EXTINF:-1,Turkmenistan Sport HD
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+
+#EXTINF:-1,TV Sport 2 HD
+http://5.255.90.254:5001/play/a007
+
+#EXTINF:-1,TVP Sport
+http://185.167.208.157/master_432.m3u8
+
+#EXTINF:-1,Viasat Sport
+http://stream.euroasia.lfstrm.tv/viasat_sport/1/index.m3u8
+
+#EXTINF:-1,Viasat Sport
+http://95.128.243.226:7780/udp/224.0.91.80:1234
+
+#EXTINF:-1,Viasat Sport
+http://78.129.228.178/iptv/FCU2M3ZSVTTVFR/160/index.m3u8
+
+#EXTINF:-1,VIASAT SPORT
+http://185.13.134.215:81/udp/239.254.2.54:1234
+
+#EXTINF:-1,Viasat Sport HD
+http://91.231.219.145:80/tv_viasat_sport_HD/playlist.m3u8
+
+#EXTINF:-1,Belarus 5
+http://95.46.208.76:9898/belarus5
+
+#EXTINF:-1,KHL
+http://85.93.136.181:2323/udp/224.0.91.48:1234
+#EXTINF:-1,KHL
+http://95.128.243.226:7780/udp/224.0.91.48:1234
+#EXTINF:-1,KHL
+http://185.13.134.215:81/udp/239.254.2.77:1234
+#EXTINF:-1,KHL HD
+http://185.13.134.215:81/udp/239.254.2.228:1234
+
+#EXTINF:-1,US:NBC Sports Boston
+http://tvecsnnewengland-i.akamaihd.net/hls/live/219795/CSNnewenglandx/1896k/prog.m3u8
+
+#EXTINF:-1,US:NBC Sports California HD
+http://tvecsncalifornia-i.akamaihd.net/hls/live/219792/CSNcaliforniax/4296k/prog.m3u8
+
+#EXTINF:-1,US:NBC Sports Chicago
+http://tvecsnchicago-i.akamaihd.net/hls/live/219793/CSNchicagox/1896k/prog.m3u8
+
+#EXTINF:-1,US:NBC Sports Bay Area
+http://tvecsnbayarea-i.akamaihd.net/hls/live/219791/CSNbayareax/1896k/prog.m3u8
+
+#EXTINF:-1,US:NBC Sports Northwest
+http://tvecsnnorthwest-i.akamaihd.net/hls/live/221535/CSNnorthwestx/351XCSN1800.m3u8
+#EXTINF:-1,US:NBC Sports Northwest HD
+http://tvecsnnorthwest-i.akamaihd.net/hls/live/221535/CSNnorthwestx/351XCSN4200.m3u8
+
+#EXTINF:-1,US:NBC Sports Philadelphia Plus
+http://tvetcnphiladelph-i.akamaihd.net/hls/live/219798/TCNPhiladelphiax/1896k/prog.m3u8
+
+#EXTINF:-1 tvg-id="USTV" tvg-name="CBS Sports HQ" tvg-logo="https://razorbladetv.weebly.com/uploads/7/7/9/8/77989064/cbs-sports-hq-jpg_orig.jpg" group-title="USA TV",CBS Sports HQ HD
+https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a5830ea5d1164850/desktop_6.m3u8
+
+
+
+
+#EXTINF:-1,Food Network
+http://185.13.134.215:81/udp/239.254.2.5:1234
+
+#EXTINF:-1,Europa TV
+http://185.13.134.215:81/udp/239.254.2.211:1234
+
+#EXTINF:-1,Sport 5
+http://185.167.208.157/master_342.m3u8
+
+
+
+

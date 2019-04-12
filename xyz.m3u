@@ -68,7 +68,66 @@ http://37.193.58.164:4022/udp/239.1.5.7:1234
 #EXTINF:-1 tvg-chno="8158" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",National Geographic RU
 http://37.193.58.164:4022/udp/239.1.5.8:1234
 
+#EXTINF:-1 tvg-chno="9100" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",KHL
+http://109.248.236.41:4433/udp/238.1.1.36:1234
 
+#EXTINF:-1 tvg-chno="9100.1" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",KHL
+http://91.185.236.236:4022/udp/239.4.0.244:2020
+
+#EXTINF:-1 tvg-chno="9100.2" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",KHL
+http://134.19.150.42:81/udp/239.195.1.73:1234
+
+#EXTINF:-1 tvg-chno="9102" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Telecanal Futbol
+http://109.248.236.41:4433/udp/238.1.1.14:1234
+
+#EXTINF:-1 tvg-chno="9103" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="https://iptvx.one/icn/match.png" audio-track="English" group-title="",Match! RU
+http://37.192.37.99:81/udp/239.1.15.16:1234
+
+#EXTINF:-1 tvg-chno="9104" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="https://iptvx.one/icn/match.png" audio-track="English" group-title="",Match! HD RU
+http://37.192.22.180:81/udp/239.1.15.23:1234
+
+#EXTINF:-1 tvg-chno="9106" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Match! Areana RU
+http://37.194.19.150:81/udp/239.1.12.7:1234
+
+#EXTINF:-1 tvg-chno="9106.1" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Match! Areana HD RU
+http://37.195.83.18:81/udp/239.1.18.1:1234
+
+#EXTINF:-1 tvg-chno="9106.2" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Match! Areana HD RU
+http://134.19.150.42:81/udp/239.195.1.68:1234
+
+#EXTINF:-1 tvg-chno="9107.1" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Match! Box RU
+http://134.19.150.42:81/udp/239.195.1.67:1234
+
+#EXTINF:-1 tvg-chno="9108" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Match! Igra RU
+http://37.195.233.96:81/udp/239.1.12.10:1234
+#EXTINF:-1 tvg-chno="9108.1" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Match! Igra RU
+http://134.19.150.42:81/udp/239.195.1.69:1234
+#EXTINF:-1 tvg-chno="9108.2" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Match! Igra RU
+http://188.243.71.63:4042/udp/239.239.4.66:5239
+
+#EXTINF:-1 tvg-chno="9108.3" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Match! Igra HD RU
+http://37.194.111.111:81/udp/239.1.20.54:1234
+
+#EXTINF:-1 tvg-chno="9109" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="https://iptvx.one/icn/match-planeta.png" audio-track="English" group-title="",Match! Planeta RU
+http://109.248.236.41:4433/udp/238.1.1.39:1234
+
+#EXTINF:-1 tvg-chno="9109.1" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="https://iptvx.one/icn/match-premiere.png" audio-track="English" group-title="",Match! Planeta RU
+http://37.194.5.80:81/udp/239.1.12.12:1234
+
+#EXTINF:-1 tvg-chno="9112" tvg-id="match-premier" tvg-name="match-premier" channel-id="match-premier" epg-id="match-premier" tvg-logo="https://iptvx.one/icn/match-premiere.png" audio-track="English" group-title="",Match! Premier HD RU
+http://37.194.184.105:81/udp/239.1.16.1:1234
+#EXTINF:-1 tvg-chno="9112.1" tvg-id="match-premier" tvg-name="match-premier" channel-id="match-premier" epg-id="match-premier" tvg-logo="" audio-track="English" group-title="",Match! Premier RU
+http://134.19.150.42:81/udp/239.195.3.1:1234
+
+#EXTINF:-1 tvg-chno="9113" tvg-id="match-nash-sport" tvg-name="match-nash-sport" channel-id="match-nash-sport" epg-id="match-nash-sport" tvg-logo="https://iptvx.one/icn/match-nash-sport.png" audio-track="English" group-title="",Match! Nas Sport
+http://134.19.150.42:81/udp/239.195.1.71:1234
+
+#EXTINF:-1 tvg-chno="9114" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Match! Futbol 1
+http://134.19.150.42:81/udp/239.195.3.32:1234
+#EXTINF:-1 tvg-chno="9115" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Match! Futbol 2
+http://134.19.150.42:81/udp/239.195.3.33:1234
+#EXTINF:-1 tvg-chno="9116" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Match! Futbol 3
+http://134.19.150.42:81/udp/239.195.3.34:1234
 
 
 #EXTINF:-1,Eurosport 1 Player

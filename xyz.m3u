@@ -1,5 +1,23 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-chno="206" tvg-id="206 ESPN" tvg-name="206 ESPN" channel-id="206 ESPN" epg-id="206 ESPN" tvg-logo="",206 ESPN
+http://sports24.win/espn/espnt.m3u8?ch=espn
+
+#EXTINF:-1 tvg-chno="207" tvg-id="207 ESPNEWS" tvg-name="207 ESPNEWS" channel-id="207 ESPNEWS" epg-id="207 ESPNEWS" tvg-logo="",207 ESPNEWS
+http://sports24.win/espn/espnt.m3u8?ch=espnews
+
+#EXTINF:-1 tvg-chno="208" tvg-id="208 ESPNU" tvg-name="208 ESPNU" channel-id="208 ESPNU" epg-id="208 ESPNU" tvg-logo="http://zap2it.tmsimg.com/h3/NowShowing/45654/s45654_h3_aa.png" group-title="",208 ESPNU
+http://sports24.win/espn/espnt.m3u8?ch=espnu
+
+#EXTINF:-1 tvg-chno="209" tvg-id="209 ESPN2" tvg-name="209 ESPN2" channel-id="209 ESPN2" epg-id="209 ESPN2" tvg-logo="http://zap2it.tmsimg.com/h3/NowShowing/12444/s12444_h3_aa.png",209 ESPN2
+http://sports24.club/espn/espnt.m3u8?ch=espn2
+
+#EXTINF:-1 tvg-chno="217" tvg-id="217 TENNIS" tvg-name="217 TENNIS" channel-id="217 TENNIS" epg-id="217 TENNIS" tvg-logo="http://zap2it.tmsimg.com/h3/NowShowing/60316/s60316_h3_aa.png" audio-track="" group-title="",217 TENNIS
+http://sports24.win/espn/espnt.m3u8?ch=tennis
+
+#EXTINF:-1 tvg-chno="219" tvg-id="219 FS1HD" tvg-name="219 FS1HD" channel-id="219 FS1HD" epg-id="219 FS1HD" tvg-logo="http://zap2it.tmsimg.com/h3/NowShowing/82547/s82547_h3_aa.png",219 FS1HD
+http://185.246.209.109:8080/FOX_SPORTS1/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 tvg-chno="8101" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="https://iptvx.one/icn/amedia-premium.png" audio-track="English" group-title="",Amedia Premium
 http://178.163.12.42:4022/udp/234.0.0.209:2000
 

@@ -18,364 +18,350 @@ http://sports24.win/espn/espnt.m3u8?ch=tennis
 #EXTINF:-1 tvg-chno="219" tvg-id="219 FS1HD" tvg-name="219 FS1HD" channel-id="219 FS1HD" epg-id="219 FS1HD" tvg-logo="http://zap2it.tmsimg.com/h3/NowShowing/82547/s82547_h3_aa.png",219 FS1HD
 http://185.246.209.109:8080/FOX_SPORTS1/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-chno="8101" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="https://iptvx.one/icn/amedia-premium.png" audio-track="English" group-title="",Amedia Premium
-http://178.163.12.42:4022/udp/234.0.0.209:2000
-
-#EXTINF:-1 tvg-chno="8101.1" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="https://iptvx.one/icn/amedia-premium.png" audio-track="English" group-title="",Amedia Premium
-http://109.248.236.41:4433/udp/238.1.1.71:1234
-
-#EXTINF:-1 tvg-chno="8102" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Amedia Hit
-http://109.248.236.41:4433/udp/238.1.1.96:1234
-
-#EXTINF:-1 tvg-chno="8103" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",A1 HD
-http://109.248.236.41:4433/udp/238.1.1.97:1234
-
-#EXTINF:-1 tvg-chno="8104" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",AMC Russia
-http://213.231.3.148:8081/udp/224.5.4.21:1234
-
-#EXTINF:-1 tvg-chno="8110" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",TV 1000 RU
-http://95.188.116.4:1234/udp/233.7.70.53:5000
-
-#EXTINF:-1 tvg-chno="8111" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",TV 1000 Action RU
-http://109.248.236.41:4433/udp/238.1.1.43:1234
-
-#EXTINF:-1 tvg-chno="8112" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",XXI
-http://37.193.58.164:4022/udp/239.1.4.1:1234
-
-#EXTINF:-1 tvg-chno="8113" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Sony Syfy RU
-http://37.193.58.164:4022/udp/239.1.4.7:1234
-
-#EXTINF:-1 tvg-chno="8121" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Eurosport 1 RU
-http://213.231.3.148:8081/udp/224.5.2.156:1234
-
-#EXTINF:-1 tvg-chno="8121" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Eurosport 2 RU
-http://109.248.236.41:4433/udp/238.1.1.115:1234
-
-#EXTINF:-1 tvg-chno="8128" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Senata Sport RU
-http://109.248.236.41:4433/udp/238.1.1.60:1234
-#EXTINF:-1 tvg-chno="8129" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Senata Sport + RU
-http://109.248.236.41:4433/udp/238.1.1.61:1234
-
-#EXTINF:-1 tvg-chno="8152" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Discovery RU
-http://37.193.58.164:4022/udp/239.1.5.1:1234
-
-#EXTINF:-1 tvg-chno="8152" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Nat Geo Wild RU
-http://109.248.236.41:4433/udp/238.1.1.25:1234
-
-#EXTINF:-1 tvg-chno="8153" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Discovery Science RU
-http://91.219.103.72:4022/udp/239.224.19.254:1234
-
-#EXTINF:-1 tvg-chno="8154" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Nat Geo RU
-http://213.231.3.148:8081/udp/224.5.3.162:1234
-
-#EXTINF:-1 tvg-chno="8155" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Travel Channel RU
-http://213.231.3.148:8081/udp/224.5.4.137:1234
-
-#EXTINF:-1 tvg-chno="8156" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",TLC RU
-http://37.193.58.164:4022/udp/239.1.3.16:1234
-
-#EXTINF:-1 tvg-chno="8157" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",DTX RU
-http://37.193.58.164:4022/udp/239.1.5.2:1234
-
-#EXTINF:-1 tvg-chno="8158" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Animal Planet RU
-http://37.193.58.164:4022/udp/239.1.5.3:1234
-
-#EXTINF:-1 tvg-chno="8158" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Travel Adventure RU
-http://37.193.58.164:4022/udp/239.1.5.7:1234
-
-#EXTINF:-1 tvg-chno="8158" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",National Geographic RU
-http://37.193.58.164:4022/udp/239.1.5.8:1234
-
-#EXTINF:-1 tvg-chno="9100" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",KHL
-http://109.248.236.41:4433/udp/238.1.1.36:1234
-
-#EXTINF:-1 tvg-chno="9100.1" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",KHL
-http://91.185.236.236:4022/udp/239.4.0.244:2020
-
-#EXTINF:-1 tvg-chno="9100.2" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",KHL
-http://134.19.150.42:81/udp/239.195.1.73:1234
-
-#EXTINF:-1 tvg-chno="9102" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Telecanal Futbol
-http://109.248.236.41:4433/udp/238.1.1.14:1234
-
-#EXTINF:-1 tvg-chno="9103" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="https://iptvx.one/icn/match.png" audio-track="English" group-title="",Match! RU
-http://37.192.37.99:81/udp/239.1.15.16:1234
-
-#EXTINF:-1 tvg-chno="9104" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="https://iptvx.one/icn/match.png" audio-track="English" group-title="",Match! HD RU
-http://37.192.22.180:81/udp/239.1.15.23:1234
-
-#EXTINF:-1 tvg-chno="9106" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Match! Areana RU
-http://37.194.19.150:81/udp/239.1.12.7:1234
-
-#EXTINF:-1 tvg-chno="9106.1" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Match! Areana HD RU
-http://37.195.83.18:81/udp/239.1.18.1:1234
-
-#EXTINF:-1 tvg-chno="9106.2" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Match! Areana HD RU
-http://134.19.150.42:81/udp/239.195.1.68:1234
-
-#EXTINF:-1 tvg-chno="9107.1" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Match! Box RU
-http://134.19.150.42:81/udp/239.195.1.67:1234
-
-#EXTINF:-1 tvg-chno="9108" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Match! Igra RU
-http://37.195.233.96:81/udp/239.1.12.10:1234
-#EXTINF:-1 tvg-chno="9108.1" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Match! Igra RU
-http://134.19.150.42:81/udp/239.195.1.69:1234
-#EXTINF:-1 tvg-chno="9108.2" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Match! Igra RU
-http://188.243.71.63:4042/udp/239.239.4.66:5239
-
-#EXTINF:-1 tvg-chno="9108.3" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Match! Igra HD RU
-http://37.194.111.111:81/udp/239.1.20.54:1234
-
-#EXTINF:-1 tvg-chno="9109" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="https://iptvx.one/icn/match-planeta.png" audio-track="English" group-title="",Match! Planeta RU
-http://109.248.236.41:4433/udp/238.1.1.39:1234
-
-#EXTINF:-1 tvg-chno="9109.1" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="https://iptvx.one/icn/match-premiere.png" audio-track="English" group-title="",Match! Planeta RU
-http://37.194.5.80:81/udp/239.1.12.12:1234
-
-#EXTINF:-1 tvg-chno="9112" tvg-id="match-premier" tvg-name="match-premier" channel-id="match-premier" epg-id="match-premier" tvg-logo="https://iptvx.one/icn/match-premiere.png" audio-track="English" group-title="",Match! Premier HD RU
-http://37.194.184.105:81/udp/239.1.16.1:1234
-#EXTINF:-1 tvg-chno="9112.1" tvg-id="match-premier" tvg-name="match-premier" channel-id="match-premier" epg-id="match-premier" tvg-logo="" audio-track="English" group-title="",Match! Premier RU
-http://134.19.150.42:81/udp/239.195.3.1:1234
-
-#EXTINF:-1 tvg-chno="9113" tvg-id="match-nash-sport" tvg-name="match-nash-sport" channel-id="match-nash-sport" epg-id="match-nash-sport" tvg-logo="https://iptvx.one/icn/match-nash-sport.png" audio-track="English" group-title="",Match! Nas Sport
-http://134.19.150.42:81/udp/239.195.1.71:1234
-
-#EXTINF:-1 tvg-chno="9114" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Match! Futbol 1
-http://134.19.150.42:81/udp/239.195.3.32:1234
-#EXTINF:-1 tvg-chno="9115" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Match! Futbol 2
-http://134.19.150.42:81/udp/239.195.3.33:1234
-#EXTINF:-1 tvg-chno="9116" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Match! Futbol 3
-http://134.19.150.42:81/udp/239.195.3.34:1234
-
-
-#EXTINF:-1,Eurosport 1 Player
-http://77.245.98.22:8000/play/307/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Eurosport
-http://95.128.243.226:7780/udp/224.0.90.61:1234
-
-#EXTINF:-1,Eurosport
-http://85.93.136.181:2323/udp/224.0.90.61:1234
-
-#EXTINF:-1,Eurosport 1
-http://95.189.156.41:1234/udp/233.7.70.13:5000
-
-#EXTINF:-1,Eurosport 1
-http://88.150.248.21:7337/tvarm.ruindex.m3u8
-
-#EXTINF:-1,Eurosport 1
-http://185.13.134.215:81/udp/239.254.102.4:1234
-
-#EXTINF:-1,Eurosport 1
-http://82.200.127.58:8080/udp/239.54.5.45:1224
-
-#EXTINF:-1,Eurosport 1HD
-https://185-8-178-140.livesports24.online/eurosport1ru.m3u8
-
-
-#EXTINF:-1,Eurosport 1 HD
-http://185.13.134.215:81/udp/239.254.2.97:1234
-
-#EXTINF:-1,EUROSPORT 1 HD
-http://89.23.17.210:8888/udp/239.1.23.155:1234
-
-
-#EXTINF:-1,Eurosport 2
-http://109.248.236.41:4433/udp/238.1.1.115:1234
-
-#EXTINF:-1,Eurosport 2
-http://185.13.134.215:81/udp/239.254.102.5:1234
-
-#EXTINF:-1,Eurosport 2
-http://85.93.136.181:2323/udp/224.0.90.62:1234
-
-#EXTINF:-1,EUROSPORT 2 HD
-http://185.13.134.215:81/udp/239.254.2.241:1234
-
-#EXTINF:-1,Eurosport 2HD
-https://185-8-178-138.livesports24.online/ruseurosport2.m3u8
-
-#EXTINF:-1,Eurosport Gold
-http://95.37.87.78:4088/udp/225.52.123.190:5000
-
-#EXTINF:-1,Extreme sports
-http://193.24.197.194:81/udp/224.0.90.49:1234
-
-#EXTINF:-1,Extreme sports
-http://178.163.5.160:4022/udp/234.0.0.150:2000
-
-#EXTINF:-1,Extreme Sports
-http://85.93.136.181:2323/udp/224.0.90.49:1234
-
-#EXTINF:-1,Extreme Sports
-http://95.128.243.226:7780/udp/224.0.90.49:1234
-
-#EXTINF:-1,EXTREME SPORTS
-http://185.13.134.215:81/udp/239.254.2.96:1234
-
-#EXTINF:-1,Extreme sports
-http://91.90.253.66:8080/CH730_std/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Fight Box
-http://92.43.140.249/s86/04.m3u8
-
-#EXTINF:-1,Fightbox
-http://92.43.140.200/s86/index.m3u8
-
-#EXTINF:-1,FOX Soccer Plus
-http://190.13.120.123/streams/foxsoccer.m3u8
-
-#EXTINF:-1,Hard Knocks Fighting HD
-http://vcnboutsports.teleosmedia.com/stream/boutsports/boutsports/playlist.m3u8
-
-#EXTINF:-1,Nova Sport 1
-http://185.167.208.157/master_334.m3u8
-
-#EXTINF:-1,Olimpic Channel HD
-https://ott-live.olympicchannel.com/out/u/OC1.m3u8
-
-#EXTINF:-1,Orange Sport HD
-http://213.151.233.20:8000/dna-6428-tv-pc/hls/4001v102.m3u8
-
-#EXTINF:-1,Q Sport
-http://185.167.208.157/master_362.m3u8
-
-#EXTINF:-1,Russian Extreme
-http://92.43.140.249/s47/04.m3u8
-
-#EXTINF:-1,Setanta Sports
-http://92.43.140.200/s81/04.m3u8
-
-#EXTINF:-1,Setanta Sports
-http://92.43.140.204:80/s81/index.m3u8
-
-#EXTINF:-1,Setanta Sports
-http://109.248.236.41:4433/udp/238.1.1.60:1234
-
-#EXTINF:-1,Setanta Sports
-http://stream.euroasia.lfstrm.tv/setanta_sport_hd/0/index.m3u8
-
-#EXTINF:-1,Setanta Sports
-http://92.43.140.249:80/s81/04.m3u8
-
-#EXTINF:-1,Setanta Sports +
-http://92.43.140.200/s82/04.m3u8
-
-#EXTINF:-1,Setanta Sports +
-http://stream.euroasia.lfstrm.tv/setanta_sport_plus_hd/0/index.m3u8
-
-#EXTINF:-1,Setanta Eurasia + HD
-http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
-
-#EXTINF:-1,Setanta Sports + HD
-http://178.124.183.13/hls/5T3FNFICQ4/bw5000000/playlist.m3u8
-
-
-#EXTINF:-1,SKY SPORT 24 HD
-https://1.ip2stream.icu/live/sky_sport_24_hd/playlist.m3u8
-#EXTINF:-1,SKY SPORT ARENA HD
-https://1.ip2stream.icu/live/sky_sport_arena_hd/playlist.m3u8
-#EXTINF:-1,SKY SPORT F1 HD
-https://1.ip2stream.icu/live/sky_sport_f1_hd/playlist.m3u8
-#EXTINF:-1,SKY SPORT FOOTBALL HD
-https://1.ip2stream.icu/live/sky_sport_football_hd/playlist.m3u8
-#EXTINF:-1,SKY SPORT MOTO GP HD
-https://1.ip2stream.icu/live/sky_sport_motogp_hd/playlist.m3u8
-#EXTINF:-1,SKY SPORT NBA HD
-https://1.ip2stream.icu/live/sky_sport_nba_hd/playlist.m3u8
-#EXTINF:-1,SKY SPORT UNO HD
-https://1.ip2stream.icu/live/sky_sport_uno_hd/playlist.m3u8
-
-#EXTINF:-1,Sky Sport News
-http://78.94.109.214:7522/upnp/channelstream/92
-
-#EXTINF:-1,Sport 1
-http://185.167.208.157/master_405.m3u8
-
-#EXTINF:-1,Sport 1 (LT)
-http://88.216.48.14:80/sport1/live.m3u8
-
-#EXTINF:-1,Sport Klub 1
-http://37.26.71.125:9000/play/a02c/tracks-v1a1/index.m3u8
-#EXTINF:-1,Sport Klub 2
-http://37.26.71.125:9000/play/a01p/tracks-v1a1/index.m3u8
-#EXTINF:-1,Sport Klub 3
-http://37.26.71.125:9000/play/a01q/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Sports TV
-https://blutv-beta.akamaized.net/sportstv/sportstv.smil/playlist.m3u8
-
-#EXTINF:-1,Turkmenistan Sport HD
-https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-
-#EXTINF:-1,TV Sport 2 HD
-http://5.255.90.254:5001/play/a007
-
-#EXTINF:-1,TVP Sport
-http://185.167.208.157/master_432.m3u8
-
-#EXTINF:-1,Viasat Sport
-http://stream.euroasia.lfstrm.tv/viasat_sport/1/index.m3u8
-
-#EXTINF:-1,Viasat Sport
-http://95.128.243.226:7780/udp/224.0.91.80:1234
-
-#EXTINF:-1,Viasat Sport
-http://78.129.228.178/iptv/FCU2M3ZSVTTVFR/160/index.m3u8
-
-#EXTINF:-1,VIASAT SPORT
-http://185.13.134.215:81/udp/239.254.2.54:1234
-
-#EXTINF:-1,Viasat Sport HD
-http://91.231.219.145:80/tv_viasat_sport_HD/playlist.m3u8
-
-#EXTINF:-1,Belarus 5
-http://95.46.208.76:9898/belarus5
-
-#EXTINF:-1,KHL
-http://85.93.136.181:2323/udp/224.0.91.48:1234
-#EXTINF:-1,KHL
-http://95.128.243.226:7780/udp/224.0.91.48:1234
-#EXTINF:-1,KHL
-http://185.13.134.215:81/udp/239.254.2.77:1234
-#EXTINF:-1,KHL HD
-http://185.13.134.215:81/udp/239.254.2.228:1234
-
-#EXTINF:-1,US:NBC Sports Boston
+#EXTINF:-1 tvg-chno="650" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",NBC Sports Boston
 http://tvecsnnewengland-i.akamaihd.net/hls/live/219795/CSNnewenglandx/1896k/prog.m3u8
 
-#EXTINF:-1,US:NBC Sports California HD
+#EXTINF:-1 tvg-chno="651" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",NBC Sports California HD
 http://tvecsncalifornia-i.akamaihd.net/hls/live/219792/CSNcaliforniax/4296k/prog.m3u8
 
-#EXTINF:-1,US:NBC Sports Chicago
+#EXTINF:-1 tvg-chno="652" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",NBC Sports Chicago
 http://tvecsnchicago-i.akamaihd.net/hls/live/219793/CSNchicagox/1896k/prog.m3u8
 
-#EXTINF:-1,US:NBC Sports Bay Area
+#EXTINF:-1 tvg-chno="653" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",NBC Sports Bay Area
 http://tvecsnbayarea-i.akamaihd.net/hls/live/219791/CSNbayareax/1896k/prog.m3u8
 
-#EXTINF:-1,US:NBC Sports Northwest
+#EXTINF:-1 tvg-chno="654" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",NBC Sports Northwest
 http://tvecsnnorthwest-i.akamaihd.net/hls/live/221535/CSNnorthwestx/351XCSN1800.m3u8
-#EXTINF:-1,US:NBC Sports Northwest HD
+#EXTINF:-1 tvg-chno="655" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",NBC Sports Northwest HD
 http://tvecsnnorthwest-i.akamaihd.net/hls/live/221535/CSNnorthwestx/351XCSN4200.m3u8
 
-#EXTINF:-1,US:NBC Sports Philadelphia Plus
+#EXTINF:-1 tvg-chno="656" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",NBC Sports Philadelphia Plus
 http://tvetcnphiladelph-i.akamaihd.net/hls/live/219798/TCNPhiladelphiax/1896k/prog.m3u8
 
-#EXTINF:-1 tvg-id="USTV" tvg-name="CBS Sports HQ" tvg-logo="https://razorbladetv.weebly.com/uploads/7/7/9/8/77989064/cbs-sports-hq-jpg_orig.jpg" group-title="USA TV",CBS Sports HQ HD
+#EXTINF:-1 tvg-chno="657" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",CBS Sports HQ HD
 https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a5830ea5d1164850/desktop_6.m3u8
 
+#EXTINF:-1 tvg-chno="801" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Eurosport 1
+http://213.234.9.46:7088/udp/239.1.13.1:1234
+#EXTINF:-1 tvg-chno="802" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Eurosport 2 RU
+http://213.234.9.46:7088/udp/239.1.13.2:1234
 
+#EXTINF:-1 tvg-chno="7153" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Discovery Science RU
+http://91.219.103.72:4022/udp/239.224.19.254:1234
 
+#EXTINF:-1 tvg-chno="7156" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",TLC RU
+http://37.193.58.164:4022/udp/239.1.3.16:1234
 
-#EXTINF:-1,Food Network
-http://185.13.134.215:81/udp/239.254.2.5:1234
+#EXTINF:-1 tvg-chno="7157" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",DTX RU
+http://37.193.58.164:4022/udp/239.1.5.2:1234
 
-#EXTINF:-1,Europa TV
-http://185.13.134.215:81/udp/239.254.2.211:1234
+#EXTINF:-1 tvg-chno="7158" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Animal Planet RU
+http://37.193.58.164:4022/udp/239.1.5.3:1234
 
-#EXTINF:-1,Sport 5
-http://185.167.208.157/master_342.m3u8
+#EXTINF:-1 tvg-chno="7158" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Travel Adventure RU
+http://37.193.58.164:4022/udp/239.1.5.7:1234
 
+#EXTINF:-1 tvg-chno="7158" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",National Geographic RU
+http://37.193.58.164:4022/udp/239.1.5.8:1234
 
+#EXTINF:-1 tvg-chno="7200" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",KHL
+http://109.248.236.41:4433/udp/238.1.1.36:1234
 
+#EXTINF:-1 tvg-chno="7200.1" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",KHL
+http://85.93.136.181:2323/udp/224.0.91.48:1234
+
+#EXTINF:-1 tvg-chno="7202" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Telecanal Futbol
+http://109.248.236.41:4433/udp/238.1.1.14:1234
+
+#EXTINF:-1 tvg-chno="7208" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Match! Igra RU
+http://37.195.233.96:81/udp/239.1.12.10:1234
+#EXTINF:-1 tvg-chno="7208.1" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Match! Igra RU
+http://134.19.150.42:81/udp/239.195.1.69:1234
+#EXTINF:-1 tvg-chno="7208.2" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Match! Igra RU
+http://188.243.71.63:4042/udp/239.239.4.66:5239
+
+#EXTINF:-1 tvg-chno="7209" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="https://iptvx.one/icn/match-planeta.png" audio-track="" group-title="",Match! Planeta RU
+http://109.248.236.41:4433/udp/238.1.1.39:1234
+
+#EXTINF:-1 tvg-chno="7212.1" tvg-id="match-premier" tvg-name="match-premier" channel-id="match-premier" epg-id="match-premier" tvg-logo="" audio-track="" group-title="",Match! Premier RU
+http://134.19.150.42:81/udp/239.195.3.1:1234
+
+#EXTINF:-1 tvg-chno="7213" tvg-id="match-nash-sport" tvg-name="match-nash-sport" channel-id="match-nash-sport" epg-id="match-nash-sport" tvg-logo="https://iptvx.one/icn/match-nash-sport.png" audio-track="English" group-title="",Match! Nas Sport
+http://134.19.150.42:81/udp/239.195.1.71:1234
+
+#EXTINF:-1 tvg-chno="7223" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Eurosport 2
+http://109.248.236.41:4433/udp/238.1.1.115:1234
+
+#EXTINF:-1 tvg-chno="7224" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Extreme Sports
+http://85.93.136.181:2323/udp/224.0.90.49:1234
+
+#EXTINF:-1 tvg-chno="7225" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Fight Box
+http://92.43.140.249/s86/04.m3u8
+
+#EXTINF:-1 tvg-chno="7231" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Fightbox
+http://92.43.140.200/s86/index.m3u8
+
+#EXTINF:-1 tvg-chno="7232" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Hard Knocks Fighting HD
+http://vcnboutsports.teleosmedia.com/stream/boutsports/boutsports/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="7233" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Orange Sport HD
+http://213.151.233.20:8000/dna-6428-tv-pc/hls/4001v102.m3u8
+
+#EXTINF:-1 tvg-chno="7234" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Setanta Sports 1
+http://92.43.140.200/s81/04.m3u8
+
+#EXTINF:-1 tvg-chno="7233" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Setanta Sports 1
+http://92.43.140.200/s82/04.m3u8
+
+#EXTINF:-1 tvg-chno="7235" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Setanta Sports 2
+http://stream.euroasia.lfstrm.tv/setanta_sport_plus_hd/0/index.m3u8
+
+#EXTINF:-1 tvg-chno="7236" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Setanta Eurasia 2 HD
+http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
+
+#EXTINF:-1 tvg-chno="7237" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Setanta Sports
+http://109.248.236.41:4433/udp/238.1.1.60:1234
+
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",1 TV
+http://213.234.9.46:7088/udp/239.1.8.1:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Russia K
+http://213.234.9.46:7088/udp/239.1.8.6:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",NTB
+http://213.234.9.46:7088/udp/239.1.8.7:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Carusel
+http://213.234.9.46:7088/udp/239.1.8.3:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Russia 24
+http://213.234.9.46:7088/udp/239.1.8.5:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Match!
+http://213.234.9.46:7088/udp/239.1.8.4:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Russia 1
+http://213.234.9.46:7088/udp/239.1.8.2:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Rline.tv
+http://213.234.9.46:7088/udp/239.1.8.10:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",TV 5 RU
+http://213.234.9.46:7088/udp/239.1.8.8:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",8 TV
+http://213.234.9.46:7088/udp/239.1.8.9:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",VMESTE
+http://213.234.9.46:7088/udp/239.1.8.11:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Synergy-TV
+http://213.234.9.46:7088/udp/239.1.8.15:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Program 1
+http://213.234.9.46:7088/udp/239.1.8.16:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",ISTORIA
+http://213.234.9.46:7088/udp/239.1.8.17:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Program 1
+http://213.234.9.46:7088/udp/239.1.8.19:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",OTP
+http://213.234.9.46:7088/udp/239.1.8.18:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",PMPE-3630
+http://213.234.9.46:7088/udp/239.1.8.22:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",ACB TV
+http://213.234.9.46:7088/udp/239.1.8.23:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",MIR
+http://213.234.9.46:7088/udp/239.1.8.24:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Volvograd 1
+http://213.234.9.46:7088/udp/239.1.8.21:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",MIR 24
+http://213.234.9.46:7088/udp/239.1.8.25:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",NHK World
+http://213.234.9.46:7088/udp/239.1.8.29:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",NTV-Pravo
+http://213.234.9.46:7088/udp/239.1.8.33:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",NTV-Serial
+http://213.234.9.46:7088/udp/239.1.8.34:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",NTV-Style
+http://213.234.9.46:7088/udp/239.1.8.32:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",NTV-HIT
+http://213.234.9.46:7088/udp/239.1.8.35:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Doma
+http://213.234.9.46:7088/udp/239.1.9.1:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Kanal Disney
+http://213.234.9.46:7088/udp/239.1.9.6:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",STS
+http://213.234.9.46:7088/udp/239.1.9.2:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",REN 4
+http://213.234.9.46:7088/udp/239.1.9.4:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",THT
+http://213.234.9.46:7088/udp/239.1.9.3:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Gostin
+http://213.234.9.46:7088/udp/239.1.9.7:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",??? Music
+http://213.234.9.46:7088/udp/239.1.9.9:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",BRIDGE TV Russia Hit
+http://213.234.9.46:7088/udp/239.1.9.12:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",BRIDGE TV
+http://213.234.9.46:7088/udp/239.1.9.10:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",U
+http://213.234.9.46:7088/udp/239.1.9.13:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",TV Cenrter
+http://213.234.9.46:7088/udp/239.1.9.8:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Nickelodeon
+http://213.234.9.46:7088/udp/239.1.9.15:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",??? HD
+http://213.234.9.46:7088/udp/239.1.9.11:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",WFC TV
+http://213.234.9.46:7088/udp/239.1.9.14:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",????
+http://213.234.9.46:7088/udp/239.1.9.16:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",HAHO
+http://213.234.9.46:7088/udp/239.1.9.18:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Dozhd
+http://213.234.9.46:7088/udp/239.1.9.19:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",RUSSIA TODAY
+http://213.234.9.46:7088/udp/239.1.9.20:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Eveda
+http://213.234.9.46:7088/udp/239.1.9.17:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",BRIDGE TV Classic
+http://213.234.9.46:7088/udp/239.1.9.22:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Komedia
+http://213.234.9.46:7088/udp/239.1.9.24:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Nick Jr
+http://213.234.9.46:7088/udp/239.1.9.25:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",ZEE TV Russia
+http://213.234.9.46:7088/udp/239.1.9.26:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",???? ??
+http://213.234.9.46:7088/udp/239.1.9.30:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",???? ???
+http://213.234.9.46:7088/udp/239.1.9.32:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",S T Pro
+http://213.234.9.46:7088/udp/239.1.9.23:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",BRIDGE HD
+http://213.234.9.46:7088/udp/239.1.9.31:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",O tv
+http://213.234.9.46:7088/udp/239.1.9.33:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",??????? ? ???????
+http://213.234.9.46:7088/udp/239.1.9.37:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",??????? ? ??????? HD
+http://213.234.9.46:7088/udp/239.1.9.35:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",?????? ????? HD
+http://213.234.9.46:7088/udp/239.1.9.36:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Tiji
+http://213.234.9.46:7088/udp/239.1.9.39:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",??? Kids
+http://213.234.9.46:7088/udp/239.1.9.38:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",?????
+http://213.234.9.46:7088/udp/239.1.9.40:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",????????
+http://213.234.9.46:7088/udp/239.1.9.41:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",?????
+http://213.234.9.46:7088/udp/239.1.9.44:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",TNV Planeta
+http://213.234.9.46:7088/udp/239.1.9.43:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",CTC-LOVE+0
+http://213.234.9.46:7088/udp/239.1.9.45:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",360 tv
+http://213.234.9.46:7088/udp/239.1.9.46:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",RT Doc
+http://213.234.9.46:7088/udp/239.1.9.48:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",MIR PREMIUM
+http://213.234.9.46:7088/udp/239.1.9.49:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",CHE+0
+http://213.234.9.46:7088/udp/239.1.9.77:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Tnomer
+http://213.234.9.46:7088/udp/239.1.10.4:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",TNT4
+http://213.234.9.46:7088/udp/239.1.10.3:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",2x2
+http://213.234.9.46:7088/udp/239.1.10.1:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",TV 3
+http://213.234.9.46:7088/udp/239.1.10.2:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Spike HD
+http://213.234.9.46:7088/udp/239.1.10.10:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",?????????
+http://213.234.9.46:7088/udp/239.1.10.9:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",16 tv
+http://213.234.9.46:7088/udp/239.1.10.11:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",??????? ? ???????
+http://213.234.9.46:7088/udp/239.1.10.13:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",E TV
+http://213.234.9.46:7088/udp/239.1.10.18:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",TLUM HD
+http://213.234.9.46:7088/udp/239.1.10.17:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Deutsche Welle
+http://213.234.9.46:7088/udp/239.1.10.21:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",France 24
+http://213.234.9.46:7088/udp/239.1.10.19:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",RGT TV
+http://213.234.9.46:7088/udp/239.1.10.23:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",RTG HD
+http://213.234.9.46:7088/udp/239.1.10.20:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",??? ??
+http://213.234.9.46:7088/udp/239.1.10.25:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",MY PLANET
+http://213.234.9.46:7088/udp/239.1.10.27:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",???????????????
+http://213.234.9.46:7088/udp/239.1.10.26:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Nayka
+http://213.234.9.46:7088/udp/239.1.10.28:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",NGC SD Russia
+http://213.234.9.46:7088/udp/239.1.10.29:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",??????????
+http://213.234.9.46:7088/udp/239.1.10.24:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Football HD
+http://213.234.9.46:7088/udp/239.1.10.31:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Muz
+http://213.234.9.46:7088/udp/239.1.10.30:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",BRIDGE TV HITS
+http://213.234.9.46:7088/udp/239.1.10.34:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Mult
+http://213.234.9.46:7088/udp/239.1.10.35:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Paramount Comedy
+http://213.234.9.46:7088/udp/239.1.10.33:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",RU.TV
+http://213.234.9.46:7088/udp/239.1.10.37:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Europa Plus
+http://213.234.9.46:7088/udp/239.1.10.32:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",O!2
+http://213.234.9.46:7088/udp/239.1.10.36:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",DTX RU
+http://213.234.9.46:7088/udp/239.1.11.6:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Discovery Science RU
+http://213.234.9.46:7088/udp/239.1.11.2:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Sony Turbo
+http://213.234.9.46:7088/udp/239.1.11.7:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",ID RU
+http://213.234.9.46:7088/udp/239.1.11.5:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Discovery Channel RU
+http://213.234.9.46:7088/udp/239.1.11.1:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Russkiy detectiv
+http://213.234.9.46:7088/udp/239.1.11.12:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Rysskiy bestseller
+http://213.234.9.46:7088/udp/239.1.11.16:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Rysskiy roman
+http://213.234.9.46:7088/udp/239.1.11.14:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Mama
+http://213.234.9.46:7088/udp/239.1.11.29:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Sarafan
+http://213.234.9.46:7088/udp/239.1.11.32:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Planeta RU
+http://213.234.9.46:7088/udp/239.1.11.33:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",KINO TV
+http://213.234.9.46:7088/udp/239.1.11.34:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",NST
+http://213.234.9.46:7088/udp/239.1.11.37:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Techno 24
+http://213.234.9.46:7088/udp/239.1.11.36:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Russian Extreme
+http://213.234.9.46:7088/udp/239.1.11.38:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",???? ?? HD
+http://213.234.9.46:7088/udp/239.1.11.39:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",TV TOP SHOP
+http://213.234.9.46:7088/udp/239.1.12.4:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Shopping Live
+http://213.234.9.46:7088/udp/239.1.12.7:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",FOX HD Russia
+http://213.234.9.46:7088/udp/239.1.12.1:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",FOX Life HD Russia
+http://213.234.9.46:7088/udp/239.1.12.2:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",NGC HD Russia
+http://213.234.9.46:7088/udp/239.1.12.5:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",NG WILD HD Russia
+http://213.234.9.46:7088/udp/239.1.12.6:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",??????????
+http://213.234.9.46:7088/udp/239.1.12.9:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Eurosport 1
+http://213.234.9.46:7088/udp/239.1.13.1:1234
+#EXTINF:-1 tvg-chno="9000" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",Eurosport 2 RU
+http://213.234.9.46:7088/udp/239.1.13.2:1234
 

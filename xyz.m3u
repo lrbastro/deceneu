@@ -18,6 +18,81 @@ http://sports24.win/espn/espnt.m3u8?ch=tennis
 #EXTINF:-1 tvg-chno="219" tvg-id="219 FS1HD" tvg-name="219 FS1HD" channel-id="219 FS1HD" epg-id="219 FS1HD" tvg-logo="http://zap2it.tmsimg.com/h3/NowShowing/82547/s82547_h3_aa.png",219 FS1HD
 http://185.246.209.109:8080/FOX_SPORTS1/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 tvg-chno="620" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",TSN2
+http://185.246.209.109:8080/TSN2/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-chno="621" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",SPORTSNET_ONE
+http://185.246.209.109:8080/SPORTSNET_ONE/index.m3u8
+
+#EXTINF:-1 tvg-chno="622" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",SPORTSNET_ONTARIO
+http://185.246.209.109:8080/SPORTSNET_ONTARIO/index.m3u8
+
+#EXTINF:-1 tvg-chno="623" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",ABC
+http://185.246.209.109:8080/ABC/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-chno="624" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",BEIN1
+http://185.246.209.109:8080/BEIN1/index.m3u8
+
+#EXTINF:-1 tvg-chno="625" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",MOREMAX
+http://185.246.209.109:8080/MOREMAX/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-chno="626" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",HBO_ZONE
+http://185.246.209.109:8080/HBO_ZONE/index.m3u8
+
+#EXTINF:-1 tvg-chno="627" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",IFC
+http://185.246.209.109:8080/IFC/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-chno="628" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",EPIX_HITS
+http://185.246.209.109:8080/EPIX_HITS/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-chno="629" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",TCM
+http://185.246.209.109:8080/TCM/index.m3u8
+
+#EXTINF:-1 tvg-chno="630" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",CW
+http://185.246.209.109:8080/CW/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-chno="631" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",HISTORY2
+http://185.246.209.109:8080/HISTORY2/index.m3u8
+
+#EXTINF:-1 tvg-chno="632" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",MSG+
+http://185.246.209.109:8080/MSG+/index.m3u8
+
+#EXTINF:-1 tvg-chno="633" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",MSG
+http://185.246.209.109:8080/MSG/index.m3u8 
+
+#EXTINF:-1 tvg-chno="634" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",NHL_NETWORK
+http://185.246.209.109:8080/NHL_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-chno="635" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",NICKJR
+http://185.246.209.109:8080/NICKJR/index.m3u8
+
+#EXTINF:-1 tvg-chno="636" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",POP
+http://185.246.209.109:8080/POP/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-chno="637" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",SHOWTIME_SHOWCASE
+http://185.246.209.109:8080/SHOWTIME_SHOWCASE/index.m3u8
+
+#EXTINF:-1 tvg-chno="638" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",SMITHSONIAN
+http://185.246.209.109:8080/SMITHSONIAN/index.m3u8
+
+#EXTINF:-1 tvg-chno="639" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",SUNDANCE
+http://185.246.209.109:8080/SUNDANCE/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-chno="640" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",SYFY
+http://185.246.209.109:8080/SYFY/index.m3u8
+
+#EXTINF:-1 tvg-chno="641" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",SPORTSMAN
+http://185.246.209.109:8080/SPORTSMAN/index.m3u8
+
+#EXTINF:-1 tvg-chno="642" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",TBS
+http://185.246.209.109:8080/TBS/index.m3u8
+
+#EXTINF:-1 tvg-chno="643" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",TCM
+http://185.246.209.109:8080/TCM/index.m3u8
+
+#EXTINF:-1 tvg-chno="644" tvg-id="" tvg-name="" channel-id="" epg-id="" tvg-logo="" audio-track="English" group-title="",TVONE
+http://185.246.209.109:8080/TVONE/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 tvg-chno="645" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/S71Rjnk.jpg" group-title="United States;Sport",NBA Plus
 https://bozztv.com/36bay2/gin/giniko_nbaplus_1000kb_36bay2/tracks-v1a1/mono.m3u8
 

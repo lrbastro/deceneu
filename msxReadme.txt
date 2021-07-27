@@ -1,5 +1,10 @@
 
 
+https://nodejs.org/en/
+
+Install Node.js for windows run https://nodejs.org/dist/v14.17.3/node-v14.17.3-x64.msi
+
+
 Creaza folderul http-server pe hdd c:
 
 unzip https://github.com/lrbastro/deceneu/blob/master/codNB.zip?raw=true in folderul http-server

@@ -16,7 +16,9 @@ c:\users\mytv> cd /
 
 c:\> cd http-server
 
-c:\http-server> http-server --cors --log-ip
+c:\http-server>cd NBmsx
+
+c:\http-server\NBmsx> http-server --cors --log-ip
 Starting up http-server, serving ./
 Available on:
   http://10.0.0.01:8080

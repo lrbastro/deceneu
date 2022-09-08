@@ -1,123 +1,24 @@
 {
-    "headline": "News TV",
-    "dictionary": "http://msx.benzac.de/dic/en.json",
-    "extension": "{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
-    "background": "https://www.artmajeur.com/medias/hd/d/a/danmihailescu/artwork/9854314_4_screen-shot-2017-03-15-at-12-39-17.jpg"
-    "menu": [
-    {
-            "icon": "live",
-            "label": "News TV",
-            "image": "https://www.artmajeur.com/medias/home/f/r/frankovickaraman/artwork/6386359_mon_appareil_2012_230.jpg",
-            "background": "https://www.artmajeur.com/medias/hd/j/j/jjmassou/artwork/185225_skye-sunset-1.jpg?v=1585228490",
-            "data": {
-                "type": "pages",               
-                "template": {                  
-                    "type": "separate",
-                    "layout": "0,0,2,2",
-                    "color": "msx-glass"                    
-                },
-    "items": [{
-                        "title": "Euronews (Australia)",
-                        "playerLabel": "Euronews (Australia)",    
-                        "image":"https://www.artmajeur.com/medias/standard/s/o/soulscapes/artwork/9790681_phpynyvzl.jpg",                       
-                        "action": "video:https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8"
-                    },{
-                        "title": "Sky News Extra (Australia)",  
-                        "playerLabel": "Sky News Extra (Australia)",    
-                        "image":"https://www.artmajeur.com/medias/standard/a/q/aquartistiq/artwork/2767193_IMG_7810ac.jpg",                        
-                        "action": "video:https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8"
-                    },{
-                        "title": "Aus Biz TV (Australia)",  
-                        "playerLabel": "Aus Biz TV (Australia)",    
-                        "image":"https://www.artmajeur.com/medias/standard/a/q/aquartistiq/artwork/2767193_IMG_7810ac.jpg",                        
-                        "action": "video:https://ausbiztv-ausbiz-1-au.samsung.wurl.com/manifest/playlist.m3u8"
-                    },{
-                        "title": "Australia Channel",  
-                        "playerLabel": "Australia Channel",    
-                        "image":"https://www.artmajeur.com/medias/standard/a/q/aquartistiq/artwork/2767193_IMG_7810ac.jpg",                        
-                        "action": "video:https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8"
-                    },{
-                        "title": "ABC News 24",  
-                        "playerLabel": "ABC News 24",    
-                        "image":"https://www.artmajeur.com/medias/standard/a/q/aquartistiq/artwork/2767193_IMG_7810ac.jpg",                        
-                        "action": "video:https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8"
-                    },{
-                        "title": "Euronews (England)",
-                        "playerLabel": "Euronews (England)",    
-                        "image":"https://www.artmajeur.com/medias/standard/h/e/hewis/artwork/945265_001.jpg",                          
-                        "action": "video:https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
-                    },{
-                        "title": "CNN International (England)",
-                        "playerLabel": "CNN International (England)",    
-                        "image":"https://www.artmajeur.com/medias/home/f/r/fred62/artwork/745389_annezin090.jpg",                          
-                        "action": "video:https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
-                    },{
-                        "title": "SKY News",
-                        "playerLabel": "SKY News",    
-                        "image":"https://www.artmajeur.com/medias/home/f/r/fred62/artwork/745389_annezin090.jpg",                          
-                        "action": "video:http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/05.m3u8"
-                    },{
-                        "title": "Euronews direct (France)",
-                        "playerLabel": "Euronews direct (France)",    
-                        "image":"https://www.artmajeur.com/medias/standard/f/r/fred62/artwork/199545_canal060.jpg",                          
-                        "action": "video:https://alchimie-euronews-1-fr.samsung.wurl.com/manifest/playlist.m3u8"
-                    },{
-                        "title": "Euronews (Italy)",
-                        "playerLabel": "Euronews (Italy)",    
-                        "image":"https://www.artmajeur.com/medias/home/f/r/fred62/artwork/115016_annezin26.jpg",                         
-                        "action": "video:https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8"
-                    },{
-                        "title": "Rai News 24",
-                        "playerLabel": "Rai News 24",    
-                        "image":"https://www.artmajeur.com/medias/home/f/r/fred62/artwork/115016_annezin26.jpg",                         
-                        "action": "video:https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8"
-                    },{
-                        "title": "France 24",
-                        "playerLabel": "France 24",    
-                        "image":"https://www.artmajeur.com/medias/home/f/r/fred62/artwork/366145_perigord144.jpg",                          
-                        "action": "video:http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_500.m3u8"
-                    },{
-                        "title": "RT",
-                        "playerLabel": "RT",    
-                        "image":"https://www.artmajeur.com/medias/home/f/r/fred62/artwork/1450257_campagne150.jpg",                          
-                        "action": "video:https://rt-news.secure.footprint.net/1103_800Kb.m3u8"
-                    },{
-                        "title": "DW",                        
-                        "playerLabel": "DW",    
-                        "image":"https://www.artmajeur.com/medias/home/f/r/fred62/artwork/1368001_bethune203.jpg",   
-                        "action": "video:https://m-c010-j2apps.s.llnwi.net/hls/8023.DWEnglish.in.m3u8"
-                    },{
-                        "title": "Global News British Columbia",                        
-                        "playerLabel": "Global News British Columbia",    
-                        "image":"https://www.artmajeur.com/medias/home/f/r/fred62/artwork/1368001_bethune203.jpg",   
-                        "action": "video:https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8"
-                    },{
-                        "title": "Global News National",                        
-                        "playerLabel": "Global News National",    
-                        "image":"https://www.artmajeur.com/medias/home/f/r/fred62/artwork/1368001_bethune203.jpg",   
-                        "action": "video:https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8"
-                    },{
-                        "title": "Russia Today News",                        
-                        "playerLabel": "Russia Today News",    
-                        "image":"https://www.artmajeur.com/medias/home/f/r/fred62/artwork/1368001_bethune203.jpg",   
-                        "action": "video:https://rt-news-gd.secure2.footprint.net/1103.m3u8"
-                    },{
-                        "title": "Russia Today UK",                        
-                        "playerLabel": "Russia Today News",    
-                        "image":"https://www.artmajeur.com/medias/home/f/r/fred62/artwork/1368001_bethune203.jpg",   
-                        "action": "video:http://rt-uk.secure.footprint.net/1106_2500Kb.m3u8"
-                    },{
-                        "title": "Russia Today French",                        
-                        "playerLabel": "Russia Today French",    
-                        "image":"https://www.artmajeur.com/medias/home/f/r/fred62/artwork/1368001_bethune203.jpg",   
-                        "action": "video:http://rt-france-gd.secure2.footprint.net/1107.m3u8"
-                    },{
-                        "title": "Russia Today Documentary",                        
-                        "playerLabel": "Russia Today Documentary",    
-                        "image":"https://www.artmajeur.com/medias/home/f/r/fred62/artwork/1368001_bethune203.jpg",   
-                        "action": "video:https://rt-doc-gd.secure2.footprint.net/1101.m3u8"
-                    }]
-            }
+    "type": "pages",
+    "headline": "News",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,3,3",
+        "color": "black",
+        "imageFiller": "cover"
+    },
+    "items": [
+        {
+            "title": "Euronews (Australia)",
+            "playerLabel": "Euronews (Australia)",    
+            "image":"https://www.artmajeur.com/medias/standard/s/o/soulscapes/artwork/9790681_phpynyvzl.jpg",                       
+            "action": "video:https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8"
+        },
+        {
+            "title": "Euronews (Australia)",
+            "playerLabel": "Euronews (Australia)",    
+            "image":"https://www.artmajeur.com/medias/standard/s/o/soulscapes/artwork/9790681_phpynyvzl.jpg", 
+            "action": "video:plugin:https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8"
         }
     ]
 }

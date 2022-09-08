@@ -9,10 +9,10 @@
     },
     "items": [
         {
-            "title": "Euronews (Australia)",
-            "playerLabel": "Euronews (Australia)",    
-            "image":"https://www.artmajeur.com/medias/standard/s/o/soulscapes/artwork/9790681_phpynyvzl.jpg",                       
-            "action": "video:https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8"
+            "title": "Euronews România LIVE",
+            "playerLabel": "Euronews România LIVE",    
+            "image":"https://i.ytimg.com/vi/tdwXKd9Gqb8/maxresdefault.jpg?v=628c8da9",                       
+            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=tdwXKd9Gqb8"
         },
         {
             "title": "Euronews (Australia)",

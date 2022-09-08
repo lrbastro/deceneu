@@ -14,8 +14,8 @@
             "label": "Base"
         },
         {
-            "icon": "News",
-            "label": "Videos",
+            "icon": "smart-display",
+            "label": "YouTube",
             "data": "https://lrbastro.github.io/deceneu/msx/data/news.json"
         },
         {

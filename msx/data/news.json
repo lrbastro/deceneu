@@ -9,10 +9,10 @@
     },
     "items": [
         {
-            "title": "Filme Romanesti",
-            "playerLabel": "Filme Romanesti",    
-            "image":"https://i.ytimg.com/vi/tdwXKd9Gqb8/maxresdefault.jpg?v=628c8da9",                       
-            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=LVwGJA0xVtI&list=PL6rzugW7LuC25zHkwYIJMlgbPRrbKgLir"
+            "title": "Columna 1968",
+            "playerLabel": "Columna 1968",    
+            "image":"https://i.ytimg.com/vi/IalFhb9GHwc/maxresdefault.jpg",                       
+            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=IalFhb9GHwc"
         },        {
             "title": "Euronews România LIVE",
             "playerLabel": "Euronews România LIVE",    

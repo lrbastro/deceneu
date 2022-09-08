@@ -15,6 +15,12 @@
             "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=tdwXKd9Gqb8"
         },
         {
+            "title": "Test Mp4",
+            "playerLabel": "Test Mp4",    
+            "image":"https://www.artmajeur.com/medias/standard/s/o/soulscapes/artwork/9790681_phpynyvzl.jpg", 
+            "action": "video:https://lrbastro.github.io/deceneu/zerostream.mp4"
+        },
+        {
             "title": "Euronews (Australia)",
             "playerLabel": "Euronews (Australia)",    
             "image":"https://www.artmajeur.com/medias/standard/s/o/soulscapes/artwork/9790681_phpynyvzl.jpg", 

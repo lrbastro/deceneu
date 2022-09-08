@@ -9,6 +9,11 @@
     },
     "items": [
         {
+            "title": "Filme Romanesti",
+            "playerLabel": "Filme Romanesti",    
+            "image":"https://i.ytimg.com/vi/tdwXKd9Gqb8/maxresdefault.jpg?v=628c8da9",                       
+            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=LVwGJA0xVtI&list=PL6rzugW7LuC25zHkwYIJMlgbPRrbKgLir"
+        },        {
             "title": "Euronews România LIVE",
             "playerLabel": "Euronews România LIVE",    
             "image":"https://i.ytimg.com/vi/tdwXKd9Gqb8/maxresdefault.jpg?v=628c8da9",                       

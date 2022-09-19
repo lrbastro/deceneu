@@ -14,7 +14,7 @@
             "label": "Base"
         },
         {
-            "icon": "smart-display",
+            "icon": "live-tv",
             "label": "Romania",
             "data": "https://lrbastro.github.io/deceneu/msx/data/news.json"
         },

@@ -11,11 +11,11 @@
         },
         {
             "type": "separator",
-            "label": "Base"
+            "label": "Romania"
         },
         {
             "icon": "live-tv",
-            "label": "Romania",
+            "label": "Romania News",
             "data": "https://lrbastro.github.io/deceneu/msx/data/news.json"
         },
         {

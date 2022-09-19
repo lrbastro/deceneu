@@ -9,15 +9,28 @@
     },
     "items": [
         {
-            "title": "Columna 1968",
-            "playerLabel": "Columna 1968",    
-            "image":"https://i.ytimg.com/vi/IalFhb9GHwc/maxresdefault.jpg",                       
-            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=IalFhb9GHwc"
-        },        {
             "title": "Euronews România LIVE",
             "playerLabel": "Euronews România LIVE",    
             "image":"https://i.ytimg.com/vi/tdwXKd9Gqb8/maxresdefault.jpg?v=628c8da9",                       
             "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=tdwXKd9Gqb8"
+        },
+        {
+            "title": "Digi 24",
+            "playerLabel": "Digi 24",    
+            "image":"https://i.imgur.com/7zHItHh.png", 
+            "action": "video:plugin:https://edge-ar.rcs-rds.ro/digi24ar/hq.m3u8"
+        },
+        {
+            "title": "Digi 24",
+            "playerLabel": "Digi 24",    
+            "image":"https://i.imgur.com/7zHItHh.png", 
+            "action": "video:https://edge-ar.rcs-rds.ro/digi24ar/hq.m3u8"
+        },
+        {
+            "title": "Euronews (Australia)",
+            "playerLabel": "Euronews (Australia)",    
+            "image":"https://www.artmajeur.com/medias/standard/s/o/soulscapes/artwork/9790681_phpynyvzl.jpg", 
+            "action": "video:plugin:https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8"
         },
         {
             "title": "Test Mp4",
@@ -44,10 +57,10 @@
             "action": "video:http://59.153.203.202/Data/All_Movies/hollywood/2020/Mulan%20(2020)/Mulan.2020.1080p.WEBRip.x265-RARBG.mp4"
         },
         {
-            "title": "Euronews (Australia)",
-            "playerLabel": "Euronews (Australia)",    
-            "image":"https://www.artmajeur.com/medias/standard/s/o/soulscapes/artwork/9790681_phpynyvzl.jpg", 
-            "action": "video:plugin:https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8"
+            "title": "Columna 1968",
+            "playerLabel": "Columna 1968",    
+            "image":"https://i.ytimg.com/vi/IalFhb9GHwc/maxresdefault.jpg",                       
+            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=IalFhb9GHwc"
         }
     ]
 }

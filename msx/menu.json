@@ -19,6 +19,10 @@
             "data": "https://lrbastro.github.io/deceneu/msx/data/news.json"
         },
         {
+            "type": "separator",
+            "label": "Base"
+        },
+        {
             "icon": "movie",
             "label": "Videos",
             "data": "https://benzac-de.github.io/msx/data/base/videos.json"

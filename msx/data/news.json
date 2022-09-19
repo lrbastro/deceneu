@@ -18,7 +18,19 @@
             "title": "Star Trek",
             "playerLabel": "Star Trek",    
             "image":"https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png", 
-            "action": "playlist:http://msx.benzac.de/services/m3u.php?type=video&url=http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
+            "action": "playlist:http://msx.benzac.de/services/m3u.php?type=video&url=http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/144837"
+        },
+        {
+            "title": "Star Trek 1",
+            "playerLabel": "Star Trek 1",    
+            "image":"https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png", 
+            "action": "video:plugin:http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/144837"
+        },
+        {
+            "title": "Star Trek 2",
+            "playerLabel": "Star Trek 2",    
+            "image":"https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png", 
+            "action": "video:http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/144837"
         },
         {
             "title": "Euronews România LIVE",

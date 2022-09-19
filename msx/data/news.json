@@ -9,6 +9,18 @@
     },
     "items": [
         {
+            "title": "Test Mp4",
+            "playerLabel": "Test Mp4",    
+            "image":"https://www.artmajeur.com/medias/standard/s/o/soulscapes/artwork/9790681_phpynyvzl.jpg", 
+            "action": "video:https://lrbastro.github.io/deceneu/zerostream.mp4"
+        },
+        {
+            "title": "Star Trek",
+            "playerLabel": "Star Trek",    
+            "image":"https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png", 
+            "action": "video:http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
+        },
+        {
             "title": "Euronews România LIVE",
             "playerLabel": "Euronews România LIVE",    
             "image":"https://i.ytimg.com/vi/tdwXKd9Gqb8/maxresdefault.jpg?v=628c8da9",                       

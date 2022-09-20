@@ -11,12 +11,12 @@
         },
         {
             "type": "separator",
-            "label": "Romania"
+            "label": "BBC"
         },
         {
             "icon": "live-tv",
-            "label": "Romania News",
-            "data": "https://lrbastro.github.io/deceneu/msx/data/news.json"
+            "label": "BBC Life",
+            "data": "https://lrbastro.github.io/deceneu/msx/data/documentry.json"
         },
         {
             "type": "separator",

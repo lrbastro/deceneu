@@ -1,0 +1,78 @@
+{
+    "type": "pages",
+    "headline": "BBC Documentry",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,3,3",
+        "color": "black",
+        "imageFiller": "cover"
+    },
+    "items": [
+        {
+            "title": "Test Mp4",
+            "playerLabel": "Test Mp4",    
+            "image":"https://www.artmajeur.com/medias/standard/s/o/soulscapes/artwork/9790681_phpynyvzl.jpg", 
+            "action": "video:https://lrbastro.github.io/deceneu/zerostream.mp4"
+        },
+        {
+            "title": "BBC.Life.s01e01.Challenges.of.Life",
+            "playerLabel": "BBC.Life.s01e01.Challenges.of.Life",    
+            "image":"https://www.artmajeur.com/medias/standard/s/o/soulscapes/artwork/9790681_phpynyvzl.jpg", 
+            "action": "video:https://archive.org/download/LifeBBCDocumentry2009720pH264/BBC.Life.s01e01.Challenges.of.Life.2009.HDTV.720p.x264.AC3.mp4"
+        },
+        {
+            "title": "BBC.Life.s01e02.Reptiles.And.Amphibians",
+            "playerLabel": "BBC.Life.s01e02.Reptiles.And.Amphibians",    
+            "image":"https://www.artmajeur.com/medias/standard/s/o/soulscapes/artwork/9790681_phpynyvzl.jpg", 
+            "action": "video:https://archive.org/download/LifeBBCDocumentry2009720pH264/BBC.Life.s01e02.Reptiles.And.Amphibians.2009.HDTV.720p.x264.AC3.mp4"
+        },
+        {
+            "title": "BBC.Life.s01e03.Mammals",
+            "playerLabel": "BBC.Life.s01e03.Mammals",    
+            "image":"https://www.artmajeur.com/medias/standard/s/o/soulscapes/artwork/9790681_phpynyvzl.jpg", 
+            "action": "video:https://archive.org/download/LifeBBCDocumentry2009720pH264/BBC.Life.s01e03.Mammals.2009.HDTV.720p.x264.AC3.mp4"
+        },
+        {
+            "title": "BBC.Life.s01e04.Fish",
+            "playerLabel": "BBC.Life.s01e04.Fish",    
+            "image":"https://www.artmajeur.com/medias/standard/s/o/soulscapes/artwork/9790681_phpynyvzl.jpg", 
+            "action": "video:https://archive.org/download/LifeBBCDocumentry2009720pH264/BBC.Life.s01e04.Fish.2009.HDTV.720p.x264.AC3.mp4"
+        },
+        {
+            "title": "BBC.Life.s01e05",
+            "playerLabel": "BBC.Life.s01e05",    
+            "image":"https://www.artmajeur.com/medias/standard/s/o/soulscapes/artwork/9790681_phpynyvzl.jpg", 
+            "action": "video:https://archive.org/download/LifeBBCDocumentry2009720pH264/BBC.Life.s01e05.Birds.2009.HDTV.720p.x264.AC3.mp4"
+        },
+        {
+            "title": "BBC.Life.s01e06.Insects",
+            "playerLabel": "BBC.Life.s01e06.Insects",    
+            "image":"https://www.artmajeur.com/medias/standard/s/o/soulscapes/artwork/9790681_phpynyvzl.jpg", 
+            "action": "video:https://archive.org/download/LifeBBCDocumentry2009720pH264/BBC.Life.s01e06.Insects.2009.HDTV.720p.x264.AC3.mp4"
+        },
+        {
+            "title": "BBC.Life.s01e07.Hunters.And.Hunted",
+            "playerLabel": "BBC.Life.s01e07.Hunters.And.Hunted",    
+            "image":"https://www.artmajeur.com/medias/standard/s/o/soulscapes/artwork/9790681_phpynyvzl.jpg", 
+            "action": "video:https://archive.org/download/LifeBBCDocumentry2009720pH264/BBC.Life.s01e07.Hunters.And.Hunted.2009.HDTV.720p.x264.AC3.mp4"
+        },
+        {
+            "title": "BBC.Life.s01e08.Creatures.of.the.Deep",
+            "playerLabel": "BBC.Life.s01e08.Creatures.of.the.Deep",    
+            "image":"https://www.artmajeur.com/medias/standard/s/o/soulscapes/artwork/9790681_phpynyvzl.jpg", 
+            "action": "video:https://archive.org/download/LifeBBCDocumentry2009720pH264/BBC.Life.s01e08.Creatures.of.the.Deep.2009.HDTV.720p.x264.AC3.mp4"
+        },
+        {
+            "title": "BBC.Life.s01e09.Plants",
+            "playerLabel": "BBC.Life.s01e09.Plants",    
+            "image":"https://www.artmajeur.com/medias/standard/s/o/soulscapes/artwork/9790681_phpynyvzl.jpg", 
+            "action": "video:https://archive.org/download/LifeBBCDocumentry2009720pH264/BBC.Life.s01e09.Plants.2009.HDTV.720p.x264.AC3.mp4"
+        },
+        {
+            "title": "BBC.Life.s01e10.Primats",
+            "playerLabel": "BBC.Life.s01e10.Primats",    
+            "image":"https://www.artmajeur.com/medias/standard/s/o/soulscapes/artwork/9790681_phpynyvzl.jpg", 
+            "action": "video:https://archive.org/download/LifeBBCDocumentry2009720pH264/BBC.Life.s01e10.Primats.2009.HDTV.720p.x264.AC3.mp4"
+        }
+    ]
+}

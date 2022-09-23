@@ -19,6 +19,11 @@
             "data": "https://lrbastro.github.io/deceneu/msx/data/documentry.json"
         },
         {
+            "icon": "live-tv",
+            "label": "News",
+            "data": "https://lrbastro.github.io/deceneu/msx/data/news.json"
+        },
+        {
             "type": "separator",
             "label": "Base"
         },

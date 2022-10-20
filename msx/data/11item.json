@@ -39,7 +39,7 @@
         },
         {
             "icon": "live-tv",
-            "label": "Sport",
+            "label": "xSport",
             "image": "https://www.artmajeur.com/medias/home/d/a/danmihailescu/artwork/9858448_blue-sea.jpg",
             "background": "https://www.artmajeur.com/medias/home/a/b/abersgaleries/artwork/3212153_AG75.jpg",
             "url_tvg":"",
@@ -55,7 +55,7 @@
         "title":"NeWsn",
         "playerLabel": "NeWsn",
         "channel_number": 2,
-        "image":"http://epg.it999.ru/img/4803.png",
+        "image":"",
         "name": "NEwSN",
         "tvg":"",
         "action": "video:https://lrbastro.github.io/deceneu/zerostream.mp4"
@@ -64,7 +64,7 @@
         "title":"ESxPN",
         "playerLabel": "ESxPN",
         "channel_number": 1,
-        "image":"http://epg.it999.ru/img2/6582.png",
+        "image":"",
         "name": "ESxPN",
         "tvg":"",
         "action": "video:https://lrbastro.github.io/deceneu/zerostream.mp4"

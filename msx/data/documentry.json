@@ -1,12 +1,21 @@
 {
-    "type": "pages",
     "headline": "BBC Documentry",
-    "template": {
-        "type": "separate",
-        "layout": "0,0,3,3",
-        "color": "black",
-        "imageFiller": "cover"
-    },
+        "transparent": 2,
+    "extension": "{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
+    "menu": [{
+            "icon": "live-tv",
+            "label": "BBC Documentry",
+            "image": "https://www.artmajeur.com/medias/home/d/a/danmihailescu/artwork/9858448_blue-sea.jpg",
+            "background": "https://www.artmajeur.com/medias/home/a/b/abersgaleries/artwork/3212153_AG75.jpg",
+            "url_tvg":"",
+            "data": {
+                "type": "pages",               
+                "template": {                  
+                    "type": "separate",
+                    "layout": "0,0,2,2",
+                    "color": "msx-blue"                    
+                },
+    
     "items": [
         {
             "title": "Test Mp4",
@@ -73,6 +82,9 @@
             "playerLabel": "BBC.Life.s01e10.Primats",    
             "image":"https://www.artmajeur.com/medias/standard/s/o/soulscapes/artwork/9790681_phpynyvzl.jpg", 
             "action": "video:https://archive.org/download/LifeBBCDocumentry2009720pH264/BBC.Life.s01e10.Primats.2009.HDTV.720p.x264.AC3.mp4"
+        }
+              ]
+            }
         }
     ]
 }

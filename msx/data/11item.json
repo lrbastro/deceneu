@@ -17,22 +17,22 @@
                 },
     "items": [
       {
-        "title":"N EAST",
-        "playerLabel": "N EAST",
+        "title":"News",
+        "playerLabel": "News",
         "channel_number": 1,
         "image":"",
-        "name": "N EAST",
+        "name": "News",
         "tvg":"",
         "action": "menu:https://lrbastro.github.io/deceneu/msx/data/news.json"
       },
       {
-        "title":"T WEST",
-        "playerLabel": "T West",
+        "title":"Documentry",
+        "playerLabel": "Documentry",
         "channel_number": 2,
         "image":"",
-        "name": "T West",
+        "name": "Documentry",
         "tvg":"",
-        "action": "menu:https://lrbastro.github.io/deceneu/msx/data/news.json"
+        "action": "menu:https://lrbastro.github.io/deceneu/msx/data/documentry.json"
       }
               ]
             }

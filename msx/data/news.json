@@ -1,43 +1,22 @@
 {
-    "type": "pages",
-    "headline": "News",
-    "template": {
-        "type": "separate",
-        "layout": "0,0,3,3",
-        "color": "black",
-        "imageFiller": "cover"
-    },
+    "headline": "News TV",  
+    "transparent": 1,
+    "extension": "{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
+    "menu": [{
+            "icon": "live-tv",
+            "label": "News TV",
+            "image": "https://www.artmajeur.com/medias/home/d/a/danmihailescu/artwork/9858448_blue-sea.jpg",
+            "background": "https://www.artmajeur.com/medias/home/d/a/danmihailescu/artwork/9858448_blue-sea.jpg",
+            "url_tvg":"",
+            "transparent": 1,  
+            "data": {
+                "type": "pages",               
+                "template": {                  
+                    "type": "separate",
+                    "layout": "0,0,2,2",
+                    "color": "msx-glass"                    
+                },
     "items": [
-        {
-            "title": "Test Mp4",
-            "playerLabel": "Test Mp4",    
-            "image":"https://www.artmajeur.com/medias/standard/s/o/soulscapes/artwork/9790681_phpynyvzl.jpg", 
-            "action": "video:https://lrbastro.github.io/deceneu/zerostream.mp4"
-        },
-        {
-            "icon": "movie",
-            "label": "Videos",
-            "extensionLabel": "Default",
-            "action": "video:plugin:http://msx.benzac.de/services/m3u.php?type=video&url=https://edge-ar.rcs-rds.ro/digi24ar/hq.m3u8"
-        },
-        {
-            "title": "Star Trek",
-            "playerLabel": "Star Trek",    
-            "image":"https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png", 
-            "action": "playlist:http://msx.benzac.de/services/m3u.php?type=video&url=http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/144837"
-        },
-        {
-            "title": "Star Trek 1",
-            "playerLabel": "Star Trek 1",    
-            "image":"https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png", 
-            "action": "video:plugin:http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/144837"
-        },
-        {
-            "title": "Star Trek 2",
-            "playerLabel": "Star Trek 2",    
-            "image":"https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png", 
-            "action": "video:http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/144837"
-        },
         {
             "title": "Euronews România LIVE",
             "playerLabel": "Euronews România LIVE",    
@@ -67,18 +46,6 @@
             "playerLabel": "Test Mp4",    
             "image":"https://www.artmajeur.com/medias/standard/s/o/soulscapes/artwork/9790681_phpynyvzl.jpg", 
             "action": "video:https://lrbastro.github.io/deceneu/zerostream.mp4"
-        },
-        {
-            "title": "Test 1p",
-            "playerLabel": "Test 1p",    
-            "image":"https://www.artmajeur.com/medias/standard/s/o/soulscapes/artwork/9790681_phpynyvzl.jpg", 
-            "action": "video:plugin:http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/36418.mkv"
-        },
-        {
-            "title": "Test 1",
-            "playerLabel": "Test 1",    
-            "image":"https://www.artmajeur.com/medias/standard/s/o/soulscapes/artwork/9790681_phpynyvzl.jpg", 
-            "action": "video:http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/36418.mkv.mp4"
         },
         {
             "title": "Test 2",

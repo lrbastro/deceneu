@@ -1,20 +1,19 @@
 {
-    "headline": "News TV",  
-    "transparent": 1,
+    "headline": "News TV",
+        "transparent": 2,
     "extension": "{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "menu": [{
             "icon": "live-tv",
             "label": "News TV",
             "image": "https://www.artmajeur.com/medias/home/d/a/danmihailescu/artwork/9858448_blue-sea.jpg",
-            "background": "https://www.artmajeur.com/medias/home/d/a/danmihailescu/artwork/9858448_blue-sea.jpg",
+            "background": "https://www.artmajeur.com/medias/home/a/b/abersgaleries/artwork/3212153_AG75.jpg",
             "url_tvg":"",
-            "transparent": 1,  
             "data": {
                 "type": "pages",               
                 "template": {                  
                     "type": "separate",
                     "layout": "0,0,2,2",
-                    "color": "msx-glass"                    
+                    "color": "msx-blue"                    
                 },
     "items": [
         {
@@ -35,29 +34,29 @@
             "image":"https://i.imgur.com/7zHItHh.png", 
             "action": "video:https://edge-ar.rcs-rds.ro/digi24ar/hq.m3u8"
         },
-        {
-            "title": "Euronews (Australia)",
-            "playerLabel": "Euronews (Australia)",    
-            "image":"https://www.artmajeur.com/medias/standard/s/o/soulscapes/artwork/9790681_phpynyvzl.jpg", 
-            "action": "video:plugin:https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8"
+              ]
+            }
         },
         {
-            "title": "Test Mp4",
-            "playerLabel": "Test Mp4",    
-            "image":"https://www.artmajeur.com/medias/standard/s/o/soulscapes/artwork/9790681_phpynyvzl.jpg", 
-            "action": "video:https://lrbastro.github.io/deceneu/zerostream.mp4"
-        },
-        {
-            "title": "Test 2",
-            "playerLabel": "Test 2",    
-            "image":"https://www.artmajeur.com/medias/standard/s/o/soulscapes/artwork/9790681_phpynyvzl.jpg", 
-            "action": "video:http://59.153.203.202/Data/All_Movies/hollywood/2020/Mulan%20(2020)/Mulan.2020.1080p.WEBRip.x265-RARBG.mp4"
-        },
-        {
-            "title": "Columna 1968",
-            "playerLabel": "Columna 1968",    
-            "image":"https://i.ytimg.com/vi/IalFhb9GHwc/maxresdefault.jpg",                       
-            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=IalFhb9GHwc"
+            "icon": "live-tv",
+            "label": "x TV",
+            "image": "https://www.artmajeur.com/medias/home/d/a/danmihailescu/artwork/9858448_blue-sea.jpg",
+            "background": "https://www.artmajeur.com/medias/home/a/b/abersgaleries/artwork/3212153_AG75.jpg",
+            "url_tvg":"",
+            "data": { "type": "pages",               
+                      "template": { "type": "separate",
+                                    "layout": "0,0,2,2",
+                                    "color": "msx-glass"                    
+                                  },
+    "items": [
+      {
+        "title":"N EAST",
+        "playerLabel": "N EAST",
+        "channel_number": 1,
+        "image":"",
+        "name": "N EAST",
+        "tvg":"",
+        "action": "video:https://lrbastro.github.io/deceneu/zerostream.mp4"
       }
               ]
             }

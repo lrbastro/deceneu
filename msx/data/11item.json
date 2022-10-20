@@ -58,7 +58,7 @@
         "image":"http://epg.it999.ru/img/4803.png",
         "name": "NEwSN",
         "tvg":"",
-        "action": "video:video:https://lrbastro.github.io/deceneu/zerostream.mp4"
+        "action": "video:https://lrbastro.github.io/deceneu/zerostream.mp4"
       },
       {
         "title":"ESxPN",
@@ -67,7 +67,7 @@
         "image":"http://epg.it999.ru/img2/6582.png",
         "name": "ESxPN",
         "tvg":"",
-        "action": "video:video:https://lrbastro.github.io/deceneu/zerostream.mp4"
+        "action": "video:https://lrbastro.github.io/deceneu/zerostream.mp4"
       }
               ]
             }

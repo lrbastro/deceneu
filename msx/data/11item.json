@@ -23,7 +23,7 @@
         "image":"",
         "name": "N EAST",
         "tvg":"",
-        "action": "menu:https://raw.githubusercontent.com/lrbastro/deceneu/master/msx/data/news.json"
+        "action": "menu:https://lrbastro.github.io/deceneu/msx/data/news.json"
       },
       {
         "title":"T WEST",

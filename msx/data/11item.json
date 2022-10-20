@@ -1,0 +1,126 @@
+{
+    "headline": "LRB TV",
+        "transparent": 2,
+    "extension": "{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
+    "menu": [{
+            "icon": "live-tv",
+            "label": "LRB TV",
+            "image": "https://www.artmajeur.com/medias/home/d/a/danmihailescu/artwork/9858448_blue-sea.jpg",
+            "background": "https://www.artmajeur.com/medias/home/a/b/abersgaleries/artwork/3212153_AG75.jpg",
+            "url_tvg":"",
+            "data": {
+                "type": "pages",               
+                "template": {                  
+                    "type": "separate",
+                    "layout": "0,0,2,2",
+                    "color": "msx-blue"                    
+                },
+    "items": [
+      {
+        "title":"N EAST",
+        "playerLabel": "N EAST",
+        "channel_number": 1,
+        "image":"",
+        "name": "N EAST",
+        "tvg":"",
+        "action": "menu:https://raw.githubusercontent.com/lrbastro/deceneu/master/msx/data/news.json"
+      },
+      {
+        "title":"T WEST",
+        "playerLabel": "T West",
+        "channel_number": 2,
+        "image":"",
+        "name": "T West",
+        "tvg":"",
+        "action": "menu:https://lrbastro.github.io/deceneu/msx/data/news.json"
+      }
+              ]
+            }
+        },
+        {
+            "icon": "live-tv",
+            "label": "Sport",
+            "image": "https://www.artmajeur.com/medias/home/d/a/danmihailescu/artwork/9858448_blue-sea.jpg",
+            "background": "https://www.artmajeur.com/medias/home/a/b/abersgaleries/artwork/3212153_AG75.jpg",
+            "url_tvg":"",
+            "data": {
+                "type": "pages",               
+                "template": {                  
+                    "type": "separate",
+                    "layout": "0,0,2,2",
+                    "color": "msx-glass"                    
+                },
+    "items": [
+      {
+        "title":"NeWsn",
+        "playerLabel": "NeWsn",
+        "channel_number": 2,
+        "image":"http://epg.it999.ru/img/4803.png",
+        "name": "NEwSN",
+        "tvg":"",
+        "action": "video:video:https://lrbastro.github.io/deceneu/zerostream.mp4"
+      },
+      {
+        "title":"ESxPN",
+        "playerLabel": "ESxPN",
+        "channel_number": 1,
+        "image":"http://epg.it999.ru/img2/6582.png",
+        "name": "ESxPN",
+        "tvg":"",
+        "action": "video:video:https://lrbastro.github.io/deceneu/zerostream.mp4"
+      }
+              ]
+            }
+        },
+        {
+            "icon": "live",
+            "label": "YxTV",
+            "image": "https://www.artmajeur.com/medias/home/d/a/danmihailescu/artwork/9858448_blue-sea.jpg",
+            "background": "https://www.artmajeur.com/medias/home/a/b/abersgaleries/artwork/3212153_AG75.jpg",
+            "url_tvg":"",
+            "data": {
+                "type": "pages",               
+                "template": {                  
+                    "type": "separate",
+                    "layout": "0,0,2,2",
+                    "color": "msx-glass"                    
+                },
+    "items": [
+      {
+        "title":"Y EAST",
+        "playerLabel": "Y EAST",
+        "channel_number": 1,
+        "image":"",
+        "name": "Y EAST",
+        "tvg":"",
+        "action": "video:https://lrbastro.github.io/deceneu/zerostream.mp4"
+      }
+              ]
+            }
+        },
+        {
+            "icon": "live-tv",
+            "label": "WxTV",
+            "image": "https://www.artmajeur.com/medias/home/d/a/danmihailescu/artwork/9858448_blue-sea.jpg",
+            "background": "https://www.artmajeur.com/medias/home/a/b/abersgaleries/artwork/3212153_AG75.jpg",
+            "url_tvg":"",
+            "data": { "type": "pages",               
+                      "template": { "type": "separate",
+                                    "layout": "0,0,2,2",
+                                    "color": "msx-glass"                    
+                                  },
+    "items": [
+      {
+        "title":"W EAST",
+        "playerLabel": "W EAST",
+        "channel_number": 1,
+        "image":"",
+        "name": "W EAST",
+        "tvg":"",
+        "action": "video:https://lrbastro.github.io/deceneu/zerostream.mp4"
+      }
+              ]
+            }
+        }
+    ]
+}

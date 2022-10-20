@@ -58,6 +58,9 @@
             "playerLabel": "Columna 1968",    
             "image":"https://i.ytimg.com/vi/IalFhb9GHwc/maxresdefault.jpg",                       
             "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=IalFhb9GHwc"
+      }
+              ]
+            }
         }
     ]
 }

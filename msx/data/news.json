@@ -39,6 +39,12 @@
             "title": "Euronews (Australia)",
             "playerLabel": "Euronews (Australia)",    
             "image":"https://www.artmajeur.com/medias/standard/s/o/soulscapes/artwork/9790681_phpynyvzl.jpg", 
+            "action": "video:https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8"
+        },
+        {
+            "title": "Euronews (Australia)",
+            "playerLabel": "Euronews (Australia)",    
+            "image":"https://www.artmajeur.com/medias/standard/s/o/soulscapes/artwork/9790681_phpynyvzl.jpg", 
             "action": "video:plugin:https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8"
         },
         {

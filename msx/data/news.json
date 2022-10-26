@@ -60,6 +60,12 @@
             "action": "video:http://59.153.203.202/Data/All_Movies/hollywood/2020/Mulan%20(2020)/Mulan.2020.1080p.WEBRip.x265-RARBG.mp4"
         },
         {
+         "type": "control",
+         "image": "https://www.artmajeur.com/medias/home/a/b/abersgaleries/artwork/3212153_AG75.jpg",
+         "label": "gitMMM",
+         "action": "content:http://msx.benzac.de/services/m3u.php?type=video&url=https://raw.githubusercontent.com/sigitpoerwoto/IPTV/6e686ecf65f8b7e77c0c2ce2559eb743c09ae647/VOD00001.m3u"
+        },
+        {
             "title": "Columna 1968",
             "playerLabel": "Columna 1968",    
             "image":"https://i.ytimg.com/vi/IalFhb9GHwc/maxresdefault.jpg",                       

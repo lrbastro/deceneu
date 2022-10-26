@@ -62,6 +62,12 @@
         {
          "type": "control",
          "image": "https://www.artmajeur.com/medias/home/a/b/abersgaleries/artwork/3212153_AG75.jpg",
+         "label": "France",
+         "action": "content:http://msx.benzac.de/services/m3u.php?type=video&url=https://raw.githubusercontent.com/Sibprod/TV/d9d618c00e31df689a28cc801f7bf6300e306f64/TV.m3u8"
+        },
+        {
+         "type": "control",
+         "image": "https://www.artmajeur.com/medias/home/a/b/abersgaleries/artwork/3212153_AG75.jpg",
          "label": "gitMMM",
          "action": "content:http://msx.benzac.de/services/m3u.php?type=video&url=https://raw.githubusercontent.com/sigitpoerwoto/IPTV/6e686ecf65f8b7e77c0c2ce2559eb743c09ae647/VOD00001.m3u"
         },

@@ -63,7 +63,7 @@
          "type": "control",
          "image": "https://www.artmajeur.com/medias/home/a/b/abersgaleries/artwork/3212153_AG75.jpg",
          "label": "France",
-         "action": "content:http://msx.benzac.de/services/m3u.php?type=video&url=https://raw.githubusercontent.com/Sibprod/TV/d9d618c00e31df689a28cc801f7bf6300e306f64/TV.m3u8"
+         "action": "content:http://msx.benzac.de/services/m3u.php?type=video&url=https://raw.githubusercontent.com/Waghayan/daily/d3afca3a5134574bfb3fe449533db54c842726e4/obs.m3u"
         },
         {
          "type": "control",

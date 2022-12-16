@@ -21,7 +21,7 @@
          "type": "control",
          "image": "https://www.artmajeur.com/medias/home/a/b/abersgaleries/artwork/3212153_AG75.jpg",
          "label": "France",
-         "action": "content:http://msx.benzac.de/services/m3u.php?type=video&url=https://raw.githubusercontent.com/Sibprod/TV/d9d618c00e31df689a28cc801f7bf6300e306f64/TV.m3u8"
+         "action": "content:http://msx.benzac.de/services/m3u.php?type=video&url=https://raw.githubusercontent.com/jean431/iptvsat/61b76a3146e83a99f3e0b4e181d457c3511b7021/CanalSat"
         },
         {
          "type": "control",

@@ -17,7 +17,7 @@
         {
             "icon": "live-tv",
             "label": "BBC Life",
-            "action":"content:https://lrbastro.github.io/deceneu/msx/data/documentry.json"
+            "action":"menu:https://lrbastro.github.io/deceneu/msx/data/documentry.json"
         },
         {
             "icon": "live-tv",

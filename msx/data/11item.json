@@ -1,6 +1,7 @@
 {
     "headline": "DeCeNeU TV",
-        "transparent": 0,
+    "dictionary": "http://msx.benzac.de/dic/en.json",
+    "transparent": 0,
     "extension": "{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "menu": [{
             "icon": "live-tv",

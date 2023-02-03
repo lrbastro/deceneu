@@ -33,6 +33,15 @@
         "name": "Documentry",
         "tvg":"",
         "action": "menu:https://lrbastro.github.io/deceneu/msx/data/documentry.json"
+      },
+      {
+        "title":"France",
+        "playerLabel": "France",
+        "channel_number": 2,
+        "image":"",
+        "name": "France",
+        "tvg":"",
+        "action": "menu:https://lrbastro.github.io/deceneu/msx/zfrance.json"
       }
               ]
             }

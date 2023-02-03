@@ -1,6 +1,7 @@
 {
    "dictionary": "http://msx.benzac.de/dic/en.json",
    "headline": "Menu Headline",
+   "transparent": 2,
    "extension": "{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
    "background": "https://www.artmajeur.com/medias/hd/d/a/danmihailescu/artwork/9854314_4_screen-shot-2017-03-15-at-12-39-17.jpg",
    "menu": [

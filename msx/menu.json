@@ -15,9 +15,9 @@
             "label": "BBC"
         },
         {
-        "title":"Documentry",
-        "name": "Documentry",
-        "action": "menu:https://lrbastro.github.io/deceneu/msx/data/documentry.json"
+            "icon": "Documentry",
+            "label": "Documentry",
+            "action": "menu:https://lrbastro.github.io/deceneu/msx/data/documentry.json"
         },
         {
             "icon": "live-tv",

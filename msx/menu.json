@@ -1,17 +1,9 @@
 {
    "dictionary": "http://msx.benzac.de/dic/en.json",
    "headline": "Menu Headline",
-   "transparent": 2,
    "extension": "{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
    "background": "https://www.artmajeur.com/medias/hd/d/a/danmihailescu/artwork/9854314_4_screen-shot-2017-03-15-at-12-39-17.jpg",
-   "menu": [{
-                  "data": {
-                "type": "pages",               
-                "template": {                  
-                    "type": "separate",
-                    "layout": "0,0,2,2",
-                    "color": "msx-blue"                    
-                },
+   "menu": [
         {
             "icon": "info",
             "label": "Welcome",
@@ -19,27 +11,12 @@
         },
         {
             "type": "separator",
-            "label": "BBC"
-        },
-        {
-            "icon": "live-tv",
-            "label": "Documentry",
-            "action": "menu:https://lrbastro.github.io/deceneu/msx/data/11item.json"
-        },
-        {
-            "icon": "live-tv",
-            "label": "News",
-            "data": "https://lrbastro.github.io/deceneu/msx/data/news.json"
-        },
-        {
-         "type": "control",
-         "image": "https://www.artmajeur.com/medias/home/a/b/abersgaleries/artwork/3212153_AG75.jpg",
-         "label": "France",
-         "data": "https://lrbastro.github.io/deceneu/msx/zfrance.json"
-        },
-        {
-            "type": "separator",
             "label": "Base"
+        },
+        {
+            "icon": "smart-display",
+            "label": "Romania",
+            "data": "https://lrbastro.github.io/deceneu/msx/data/news.json"
         },
         {
             "icon": "movie",

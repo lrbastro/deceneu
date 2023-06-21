@@ -11,25 +11,31 @@
         {
             "title": "Columna 1968",
             "playerLabel": "Columna 1968",
-            "image": "https://img.youtube.com/vi/61CFhMvAbFU/hqdefault.jpg",
+            "image": "https://i.ytimg.com/vi/ij3_0gGGubc/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3kyga1gAbZG0g20emHBrtzyCK_lbw",
             "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=24sW4W1mUrg"
         },
         {
             "title": "Vlad Ţepeş 1979",
             "playerLabel": "Vlad Ţepeş 1979",
-            "image": "https://img.youtube.com/vi/pfHOmhmeTzo/hqdefault.jpg",
+            "image": "https://i1.ytimg.com/vi/VqbagKqtbAQ/hqdefault.jpg",
             "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=VqbagKqtbAQ"
+        },
+        {
+            "title": "Burebista",
+            "playerLabel": "Burebista",
+            "image": "https://i1.ytimg.com/vi/Epbg1UKa30w/hqdefault.jpg",
+            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=Epbg1UKa30w"
         },
         {
             "title": "Roşcovanul 1976",
             "playerLabel": "Roşcovanul 1976",
-            "image": "https://img.youtube.com/vi/tOAAg3h1_U8/hqdefault.jpg",
+            "image": "https://i1.ytimg.com/vi/R60X55RXwwk/hqdefault.jpg",
             "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=R60X55RXwwk"
         },
         {
             "title": "Nemuritorii 1974",
             "playerLabel": "Nemuritorii 1974",
-            "image": "https://img.youtube.com/vi/9A_I_ZqbWkM/hqdefault.jpg",
+            "image": "https://i1.ytimg.com/vi/_buElKfJLyY/hqdefault.jpg",
             "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=_buElKfJLyY"
         }
     ]

@@ -15,6 +15,12 @@
             "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=24sW4W1mUrg"
         },
         {
+            "title": "Mihai Viteazul",
+            "playerLabel": "Mihai Viteazul",
+            "image": "https://i1.ytimg.com/vi/92vyNrUB8ic/hqdefault.jpg",
+            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=92vyNrUB8ic"
+        },
+        {
             "title": "Vlad Ţepeş 1979",
             "playerLabel": "Vlad Ţepeş 1979",
             "image": "https://i1.ytimg.com/vi/VqbagKqtbAQ/hqdefault.jpg",

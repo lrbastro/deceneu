@@ -1,0 +1,36 @@
+{
+    "type": "pages",
+    "headline": "YouTube Romania",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,3,3",
+        "color": "black",
+        "imageFiller": "cover"
+    },
+    "items": [
+        {
+            "title": "Columna 1968",
+            "playerLabel": "Columna 1968",
+            "image": "https://img.youtube.com/vi/61CFhMvAbFU/hqdefault.jpg",
+            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=24sW4W1mUrg"
+        },
+        {
+            "title": "Vlad Ţepeş 1979",
+            "playerLabel": "Vlad Ţepeş 1979",
+            "image": "https://img.youtube.com/vi/pfHOmhmeTzo/hqdefault.jpg",
+            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=VqbagKqtbAQ"
+        },
+        {
+            "title": "Roşcovanul 1976",
+            "playerLabel": "Roşcovanul 1976",
+            "image": "https://img.youtube.com/vi/tOAAg3h1_U8/hqdefault.jpg",
+            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=R60X55RXwwk"
+        },
+        {
+            "title": "Nemuritorii 1974",
+            "playerLabel": "Nemuritorii 1974",
+            "image": "https://img.youtube.com/vi/9A_I_ZqbWkM/hqdefault.jpg",
+            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=_buElKfJLyY"
+        }
+    ]
+}

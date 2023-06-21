@@ -19,6 +19,11 @@
             "data": "https://lrbastro.github.io/deceneu/msx/data/news.json"
         },
         {
+            "icon": "smart-display",
+            "label": "Romanian Movies",
+            "data": "https://lrbastro.github.io/deceneu/msx/data/ytromaniamovies.json"
+        },
+        {
             "icon": "movie",
             "label": "Videos",
             "data": "https://benzac-de.github.io/msx/data/base/videos.json"

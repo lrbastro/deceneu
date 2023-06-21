@@ -16,7 +16,7 @@
         {
             "icon": "smart-display",
             "label": "Romania",
-            "action": "menu:https://lrbastro.github.io/deceneu/msx/data/news.json"
+            "data": "https://lrbastro.github.io/deceneu/msx/data/news.json"
         },
         {
             "icon": "movie",

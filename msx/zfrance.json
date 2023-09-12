@@ -39,7 +39,7 @@
          "type": "control",
          "image": "https://www.artmajeur.com/medias/home/a/b/abersgaleries/artwork/3212153_AG75.jpg",
          "label": "gitMMM",
-         "action": "content:http://msx.benzac.de/services/m3u.php?type=video&url=https://raw.githubusercontent.com/sigitpoerwoto/IPTV/6e686ecf65f8b7e77c0c2ce2559eb743c09ae647/VOD00001.m3u"
+         "action": "content:http://msx.benzac.de/services/m3u.php?type=video&url=https://raw.githubusercontent.com/boxkim14/iptv_pub/main/ad_fr_sport.m3u8"
         }
               ]
             }

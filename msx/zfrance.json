@@ -27,7 +27,7 @@
          "type": "control",
          "image": "https://www.artmajeur.com/medias/home/a/b/abersgaleries/artwork/3212153_AG75.jpg",
          "label": "ad_zsky_xsport",
-         "action": "content:http://msx.benzac.de/services/m3u.php?type=video&url=https://raw.githubusercontent.com/boxkim14/iptv_pub/main/ad_sky_sport.m3u8"
+         "action": "content:http://msx.benzac.de/services/m3u.php?type=video&url=https://raw.githubusercontent.com/djupa/2/b6818704844d1ab82994e28ac5c39a3f4973cb61/mk1"
         },
         {
          "type": "control",

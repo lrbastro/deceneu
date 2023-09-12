@@ -32,8 +32,8 @@
         {
          "type": "control",
          "image": "https://www.artmajeur.com/medias/home/a/b/abersgaleries/artwork/3212153_AG75.jpg",
-         "label": "gitMMM",
-         "action": "content:http://msx.benzac.de/services/m3u.php?type=video&url=https://raw.githubusercontent.com/sigitpoerwoto/IPTV/6e686ecf65f8b7e77c0c2ce2559eb743c09ae647/VOD00001.m3u"
+         "label": "zs18k",
+         "action": "content:http://msx.benzac.de/services/m3u.php?type=video&url=https://raw.githubusercontent.com/gazziury/001/5dfccd353a04d9359e62bcfa1213c0175d492c4a/8R%205T4K"
         },
         {
          "type": "control",

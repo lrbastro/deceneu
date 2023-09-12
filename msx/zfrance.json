@@ -32,13 +32,13 @@
         {
          "type": "control",
          "image": "https://www.artmajeur.com/medias/home/a/b/abersgaleries/artwork/3212153_AG75.jpg",
-         "label": "zs18k",
-         "action": "content:http://msx.benzac.de/services/m3u.php?type=video&url=https://raw.githubusercontent.com/boxkim14/iptv_pub/56ecd6d9993b19e3144da2f8d58dc7362b83889c/ad_us_sport.m3u8"
+         "label": "zs18k_zus_xsport",
+         "action": "content:http://msx.benzac.de/services/m3u.php?type=video&url=https://raw.githubusercontent.com/boxkim14/iptv_pub/main/ad_us_sport.m3u8"
         },
         {
          "type": "control",
          "image": "https://www.artmajeur.com/medias/home/a/b/abersgaleries/artwork/3212153_AG75.jpg",
-         "label": "gitMMM",
+         "label": "gitzsk_zfr_xsport",
          "action": "content:http://msx.benzac.de/services/m3u.php?type=video&url=https://raw.githubusercontent.com/boxkim14/iptv_pub/main/ad_fr_sport.m3u8"
         }
               ]

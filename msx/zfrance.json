@@ -23,6 +23,12 @@
          "label": "France",
          "action": "content:http://msx.benzac.de/services/m3u.php?type=video&url=https://raw.githubusercontent.com/boxkim14/iptv_pub/56ecd6d9993b19e3144da2f8d58dc7362b83889c/ad_z_best.m3u8"
         },
+         {
+         "type": "control",
+         "image": "https://www.artmajeur.com/medias/home/a/b/abersgaleries/artwork/3212153_AG75.jpg",
+         "label": "test_zsky_xsport",
+         "action": "content:http://msx.benzac.de/services/m3u.php?type=video&url=http://103.71.172.249:8000/get.php?username=CristinaSchimtt&password=sc9dqwntGq&type=m3u"
+        },
         {
          "type": "control",
          "image": "https://www.artmajeur.com/medias/home/a/b/abersgaleries/artwork/3212153_AG75.jpg",

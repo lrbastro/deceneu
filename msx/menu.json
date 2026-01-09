@@ -20,6 +20,11 @@
         },
         {
             "icon": "smart-display",
+            "label": "News",
+            "data": "https://lrbastro.github.io/deceneu/msx/data/news.json"
+        },
+        {
+            "icon": "smart-display",
             "label": "Romanian Movies",
             "data": "https://lrbastro.github.io/deceneu/msx/data/ytromaniamovies.json"
         },

@@ -4,6 +4,9 @@
 #EXTINF:-1 tvh-chnum="101" tvg-id="Aleph.News.ro" tvg-logo="" group-title="",Aleph News
 https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
 
+#EXTINF:-1 tvh-chnum="101" tvg-id="" tvg-logo="" group-title="",Metropola TV
+https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
+
 #EXTINF:-1 tvh-chnum="101" tvg-id="Digi.24.ro" tvg-logo="" group-title="",Digi.24.ro
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 
@@ -12,9 +15,9 @@ https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
 #EXTINF:-1 tvh-chnum="103" tvg-logo="" group-title="",Realitatea Star
 https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
 
-#EXTINF:-1 tvh-chnum="105" tvg-id="" tvg-logo="" group-title="",Kanal.D.ro
+#EXTINF:-1 tvh-chnum="105" tvg-id="Kanal.D.ro" tvg-logo="" group-title="",Kanal.D.ro
 https://stream1.kanald.ro/iphone/knd-live_mid/index.m3u8
-#EXTINF:-1 tvh-chnum="106" tvg-id="" tvg-logo="" group-title="",Kanal.D2.ro
+#EXTINF:-1 tvh-chnum="106" tvg-id="Kanal.D2.ro" tvg-logo="" group-title="",Kanal.D2.ro
 https://stream2.kanald.ro/iphone/knd2-live_low/index.m3u8
 
 #EXTINF:-1 tvh-chnum="107" tvg-id="Moldova.TV.ro" tvg-logo="" group-title="",Moldova.TV.ro
@@ -22,17 +25,17 @@ https://moldovatv.ro/live-tv/livemoldova.m3u8
 
 #EXTINF:-1 tvh-chnum="208" tvg-id="Exploris.TV.ro" tvg-logo="" group-title="",Exploris.TV.ro
 http://89.38.8.130:39419
-#EXTINF:-1 tvh-chnum="208" tvg-id="" tvg-logo="" group-title="",Agro.TV.ro
+#EXTINF:-1 tvh-chnum="208" tvg-id="Agro.TV.ro" tvg-logo="" group-title="",Agro.TV.ro
 https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
 
-#EXTINF:-1 tvh-chnum="300" tvg-id="" tvg-logo="" group-title="",Antena.1.ro
+#EXTINF:-1 tvh-chnum="300" tvg-id="Antena.1.ro" tvg-logo="" group-title="",Antena.1.ro
 https://live1ag.antenaplay.ro/live_a1ro/live_a1ro.m3u8
 
 #EXTINF:-1 tvh-chnum="324" tvg-id="TVR.International.ro" tvg-logo="" group-title="",TVR.International.ro
 https://61451b63d0dfe.streamlock.net/extern/tvri.stream/playlist.m3u8
 
-#EXTINF:-1 tvh-chnum="808" tvg-id="" tvg-logo="" group-title="",Moldova 1
+#EXTINF:-1 tvh-chnum="808" tvg-id="moldova-1" tvg-logo="" group-title="",Moldova 1
 https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
 
-#EXTINF:-1 tvh-chnum="811" tvg-id="" tvg-logo="" group-title="",Moldova 2
+#EXTINF:-1 tvh-chnum="811" tvg-id="moldova-2" tvg-logo="" group-title="",Moldova 2
 https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8

@@ -6,12 +6,12 @@ https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
 
 #EXTINF:-1 tvh-chnum="101" tvg-id="Digi.24.ro" tvg-logo="" group-title="",Digi.24.ro
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
+
 #EXTINF:-1 tvh-chnum="102" tvg-logo="" group-title="",Realitatea Sportiva
 https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
 #EXTINF:-1 tvh-chnum="103" tvg-logo="" group-title="",Realitatea Star
 https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
-#EXTINF:-1 tvh-chnum="104" tvg-id="TVR.International.ro" tvg-logo="" group-title="",TVR.International.ro
-https://61451b63d0dfe.streamlock.net/extern/tvri.stream/playlist.m3u8
+
 #EXTINF:-1 tvh-chnum="105" tvg-id="Kanal.D.(HD).ro" tvg-logo="" group-title="",Kanal.D.(HD).ro
 https://stream1.kanald.ro/iphone/knd-live_mid/index.m3u8
 #EXTINF:-1 tvh-chnum="106" tvg-id="Kanal.D2.(HD).ro" tvg-logo="" group-title="",Kanal.D2.(HD).ro
@@ -25,6 +25,11 @@ http://89.38.8.130:39419
 #EXTINF:-1 tvh-chnum="208" tvg-id="" tvg-logo="" group-title="",Agro.TV.ro
 https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
 
+#EXTINF:-1 tvh-chnum="300" tvg-id="" tvg-logo="" group-title="",Antena.1.ro
+https://live1ag.antenaplay.ro/live_a1ro/live_a1ro.m3u8
+
+#EXTINF:-1 tvh-chnum="324" tvg-id="TVR.International.ro" tvg-logo="" group-title="",TVR.International.ro
+https://61451b63d0dfe.streamlock.net/extern/tvri.stream/playlist.m3u8
 
 #EXTINF:-1 tvh-chnum="808" tvg-id="" tvg-logo="" group-title="",Moldova 1
 https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8

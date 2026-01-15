@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz, https://iptvx.one/epg/epg_lite.xml.gz"
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz"
+#EXTM3U x-tvg-url="https://iptvx.one/epg/epg_lite.xml.gz"
 
 #EXTINF:-1 tvh-chnum="101" tvg-id="Digi.24.ro" tvg-logo="" group-title="",Digi.24.ro
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8

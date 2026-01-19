@@ -36,10 +36,10 @@ https://live1ag.antenaplay.ro/live_a1ro/live_a1ro.m3u8
 #EXTINF:-1 tvh-chnum="324" tvg-id="TVR.International.ro" tvg-logo="" group-title="",TVR.International.ro
 https://61451b63d0dfe.streamlock.net/extern/tvri.stream/playlist.m3u8
 
-#EXTINF:-1 tvh-chnum="808" tvg-id="Moldova 1" tvg-logo="" group-title="",Moldova 1
+#EXTINF:-1 tvh-chnum="808" tvg-id="moldova-1" tvg-logo="" group-title="",Moldova 1
 https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
 
-#EXTINF:-1 tvh-chnum="811" tvg-id="Moldova 2" tvg-logo="" group-title="",Moldova 2
+#EXTINF:-1 tvh-chnum="811" tvg-id="moldova-2" tvg-logo="" group-title="",Moldova 2
 https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8
 
 #EXTINF:-1 tvg-id="TVR1.ro" http-referrer="https://www.tvrplus.ro/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; rv:126.0) Gecko/20100101 Firefox/126.0",TVR 1 (1080p) [Not 24/7] [Geo-blocked]

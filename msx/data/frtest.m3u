@@ -1,1 +1,19 @@
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz" refresh="1440" refresh="24"
 
+#EXTINF:-1 tvh-chnum="2101" tvg-id="TF1.fr" tvg-logo="" group-title="",TF1.fr
+http://45.90.106.7:8781/play/WkY8429P5@U5M/index.m3u8
+
+#EXTINF:-1 tvh-chnum="2102" tvg-id="France.2.fr" tvg-logo="" group-title="",France.2.fr
+http://45.90.106.7:8781/play/TdWm527L9@Y5F/index.m3u8
+
+#EXTINF:-1 tvh-chnum="2103" tvg-id="France.3.fr" tvg-logo="" group-title="",France.3.fr
+http://45.90.106.7:8781/play/NyEQ218L6@U5B/index.m3u8
+
+#EXTINF:-1 tvh-chnum="2104" tvg-id="France.4.fr" tvg-logo="" group-title="",France.4.fr
+http://45.90.106.7:8781/play/GrQm517L3@b8Z/index.m3u8
+
+#EXTINF:-1 tvh-chnum="2105" tvg-id="France.5.fr" tvg-logo="" group-title="",France.5.fr
+http://45.90.106.7:8781/play/GzQ5176b2@T6B/index.m3u8
+
+#EXTINF:-1 tvh-chnum="1808" tvg-id="Canal+.Sport.fr" tvg-logo="" group-title="",Canal+.Sport.fr
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8

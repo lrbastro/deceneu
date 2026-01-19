@@ -41,6 +41,3 @@ https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c04
 
 #EXTINF:-1 tvh-chnum="808" tvg-id="TeleMoldova.Plus.ro" tvg-logo="" group-title="",TeleMoldova.Plus.ro
 https://vdo.ssl-stream.com:3247/stream/play.m3u8
-
-#EXTINF:-1 tvh-chnum="1808" tvg-id="Canal+.Sport.fr" tvg-logo="" group-title="",Canal+.Sport.fr
-http://151.80.18.177:86/Canal+_sport_HD/index.m3u8

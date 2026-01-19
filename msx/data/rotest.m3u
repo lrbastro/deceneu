@@ -2,6 +2,7 @@
 #EXTM3U x-tvg-url="https://iptvx.one/epg/epg_lite.xml.gz" refresh="1440" refresh="24"
 #EXTM3U x-tvg-url="http://epg.vuplus-community.net/rytecRO_Basic.xz" refresh="1440" refresh="24"
 #EXTM3U x-tvg-url="http://epg.vuplus-community.net/rytecRO_SportMovies.xz" refresh="1440" refresh="24"
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz" refresh="1440" refresh="24"
 
 #EXTINF:-1 tvh-chnum="101" tvg-id="Aleph.News.ro" tvg-logo="" group-title="",Aleph News
 https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
@@ -44,3 +45,6 @@ https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c04
 
 #EXTINF:-1 tvh-chnum="808" tvg-id="TeleMoldova.Plus.ro" tvg-logo="" group-title="",TeleMoldova.Plus.ro
 https://vdo.ssl-stream.com:3247/stream/play.m3u8
+
+#EXTINF:-1 tvh-chnum="1808" tvg-id="Canal+.Sport.fr" tvg-logo="" group-title="",Canal+.Sport.fr
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8

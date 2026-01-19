@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://iptvx.one/epg/epg_lite.xml.gz,http://epg.vuplus-community.net/rytecRO_Basic.xz,http://epg.vuplus-community.net/rytecRO_SportMovies.xz" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz, https://iptvx.one/epg/epg_lite.xml.gz, http://epg.vuplus-community.net/rytecRO_Basic.xz, http://epg.vuplus-community.net/rytecRO_SportMovies.xz" refresh="1440" refresh="24"
 
 #EXTINF:-1 tvh-chnum="101" tvg-id="Aleph.News.ro" tvg-logo="" group-title="",Aleph News
 https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8

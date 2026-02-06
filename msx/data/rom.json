@@ -21,13 +21,7 @@
             "title": "Euronews România LIVE",
             "playerLabel": "Euronews România LIVE",    
             "image":"https://static.wikia.nocookie.net/logopedia/images/6/67/A7_TV.svg/revision/latest/scale-to-width-down/1000?cb=20230205162529",                       
-            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=tdwXKd9Gqb8"
-        },
-        {
-            "title": "A7 TV",
-            "playerLabel": "A7 TV",    
-            "image":"https://static.wikia.nocookie.net/logopedia/images/6/67/A7_TV.svg/revision/latest/scale-to-width-down/1000?cb=20230205162529", 
-            "action": "playlist:https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8"
+            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=9pYQIkXFIY0"
         },
         {
             "title": "Digi 24",

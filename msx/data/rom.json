@@ -1,1 +1,85 @@
+{
+    "headline": "Romania",  
+    "transparent": 1,
+    "extension": "{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
+    "menu": [{
+            "icon": "live-tv",
+            "label": "Romania",
+            "image": "https://www.artmajeur.com/medias/home/d/a/danmihailescu/artwork/9858448_blue-sea.jpg",
+            "background": "https://www.artmajeur.com/medias/home/d/a/danmihailescu/artwork/9858448_blue-sea.jpg",
+            "url_tvg":"",
+            "transparent": 1,  
+            "data": {
+                "type": "pages",               
+                "template": {                  
+                    "type": "separate",
+                    "layout": "0,0,2,2",
+                    "color": "msx-glass"                    
+                },
+    "items": [
+        {
+            "title": "Euronews România LIVE",
+            "playerLabel": "Euronews România LIVE",    
+            "image":"data:image/jpeg;base64,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",                       
+            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=tdwXKd9Gqb8"
+        },
+        {
+            "title": "A7 TV",
+            "playerLabel": "A7 TV",    
+            "image":"https://i.imgur.com/7zHItHh.png", 
+            "action": "playlist:https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8"
+        },
+        {
+            "title": "Digi 24",
+            "playerLabel": "Digi 24",    
+            "image":"https://i.imgur.com/7zHItHh.png", 
+            "action": "video:https://edge-ar.rcs-rds.ro/digi24ar/hq.m3u8"
+        },
+        {
+            "title": "Euronews (Australia)",
+            "playerLabel": "Euronews (Australia)",    
+            "image":"https://www.artmajeur.com/medias/standard/s/o/soulscapes/artwork/9790681_phpynyvzl.jpg", 
+            "action": "video:https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8"
+        },
+        {
+            "title": "Euronews (Australia)",
+            "playerLabel": "Euronews (Australia)",    
+            "image":"https://www.artmajeur.com/medias/standard/s/o/soulscapes/artwork/9790681_phpynyvzl.jpg", 
+            "action": "video:plugin:https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8"
+        },
+        {
+            "title": "Test Mp4",
+            "playerLabel": "Test Mp4",    
+            "image":"https://www.artmajeur.com/medias/standard/s/o/soulscapes/artwork/9790681_phpynyvzl.jpg", 
+            "action": "video:https://lrbastro.github.io/deceneu/zerostream.mp4"
+        },
+        {
+            "title": "Test 2",
+            "playerLabel": "Test 2",    
+            "image":"https://www.artmajeur.com/medias/standard/s/o/soulscapes/artwork/9790681_phpynyvzl.jpg", 
+            "action": "video:http://59.153.203.202/Data/All_Movies/hollywood/2020/Mulan%20(2020)/Mulan.2020.1080p.WEBRip.x265-RARBG.mp4"
+        },
+        {
+         "type": "control",
+         "image": "https://www.artmajeur.com/medias/home/a/b/abersgaleries/artwork/3212153_AG75.jpg",
+         "label": "France",
+         "action": "content:http://msx.benzac.de/services/m3u.php?type=video&url=https://raw.githubusercontent.com/Waghayan/daily/d3afca3a5134574bfb3fe449533db54c842726e4/obs.m3u"
+        },
+        {
+         "type": "control",
+         "image": "https://www.artmajeur.com/medias/home/a/b/abersgaleries/artwork/3212153_AG75.jpg",
+         "label": "gitMMM",
+         "action": "content:http://msx.benzac.de/services/m3u.php?type=video&url=https://raw.githubusercontent.com/sigitpoerwoto/IPTV/6e686ecf65f8b7e77c0c2ce2559eb743c09ae647/VOD00001.m3u"
+        },
+        {
+            "title": "Columna 1968",
+            "playerLabel": "Columna 1968",    
+            "image":"https://i.ytimg.com/vi/IalFhb9GHwc/maxresdefault.jpg",                       
+            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=IalFhb9GHwc"
+      }
+              ]
+            }
+        }
+    ]
+}
 

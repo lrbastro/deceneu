@@ -1,1 +1,85 @@
+{
+    "headline": "Stingray TV",  
+    "transparent": 1,
+    "extension": "{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
+    "menu": [{
+            "icon": "live-tv",
+            "label": "Stingray TV",
+            "image": "https://www.artmajeur.com/medias/home/d/a/danmihailescu/artwork/9858448_blue-sea.jpg",
+            "background": "https://www.artmajeur.com/medias/home/d/a/danmihailescu/artwork/9858448_blue-sea.jpg",
+            "url_tvg":"",
+            "transparent": 1,  
+            "data": {
+                "type": "pages",               
+                "template": {                  
+                    "type": "separate",
+                    "layout": "0,0,2,2",
+                    "color": "msx-glass"                    
+                },
+    "items": [
+        {
+            "title": "Stingray Cityscapes",
+            "playerLabel": "Stingray Cityscapes",    
+            "image":"https://i.ytimg.com/vi/tdwXKd9Gqb8/maxresdefault.jpg?v=628c8da9",                       
+            "action": "video:plugin:https://lotus.stingray.com/ads/cityscapes-401ads-montreal/lgchannels/master.m3u8?ads.ip=[IP]&ads.ua=[UA]&ads.targetad=[TARGETAD_ALLOWED]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.deviceid=[DEVICE_ID]&ads.gdprconsent=[GDPR_CONSENT]&ads.gdpr=[GDPR]&ads.usprivacy=[US_PRIVACY]&ads.lat=[LMT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.ifatype=[IFA_TYPE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.ifa=[IFA]&ads.lmt=[LMT]&ads.dns=[DNS]&ads.nonce=[NONCE]"
+        },
+        {
+            "title": "Digi 24",
+            "playerLabel": "Digi 24",    
+            "image":"https://i.imgur.com/7zHItHh.png", 
+            "action": "playlist:http://msx.benzac.de/services/m3u.php?type=video&url=https://edge-ar.rcs-rds.ro/digi24ar/hq.m3u8"
+        },
+        {
+            "title": "Digi 24",
+            "playerLabel": "Digi 24",    
+            "image":"https://i.imgur.com/7zHItHh.png", 
+            "action": "video:https://edge-ar.rcs-rds.ro/digi24ar/hq.m3u8"
+        },
+        {
+            "title": "Euronews (Australia)",
+            "playerLabel": "Euronews (Australia)",    
+            "image":"https://www.artmajeur.com/medias/standard/s/o/soulscapes/artwork/9790681_phpynyvzl.jpg", 
+            "action": "video:https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8"
+        },
+        {
+            "title": "Euronews (Australia)",
+            "playerLabel": "Euronews (Australia)",    
+            "image":"https://www.artmajeur.com/medias/standard/s/o/soulscapes/artwork/9790681_phpynyvzl.jpg", 
+            "action": "video:plugin:https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8"
+        },
+        {
+            "title": "Test Mp4",
+            "playerLabel": "Test Mp4",    
+            "image":"https://www.artmajeur.com/medias/standard/s/o/soulscapes/artwork/9790681_phpynyvzl.jpg", 
+            "action": "video:https://lrbastro.github.io/deceneu/zerostream.mp4"
+        },
+        {
+            "title": "Test 2",
+            "playerLabel": "Test 2",    
+            "image":"https://www.artmajeur.com/medias/standard/s/o/soulscapes/artwork/9790681_phpynyvzl.jpg", 
+            "action": "video:http://59.153.203.202/Data/All_Movies/hollywood/2020/Mulan%20(2020)/Mulan.2020.1080p.WEBRip.x265-RARBG.mp4"
+        },
+        {
+         "type": "control",
+         "image": "https://www.artmajeur.com/medias/home/a/b/abersgaleries/artwork/3212153_AG75.jpg",
+         "label": "France",
+         "action": "content:http://msx.benzac.de/services/m3u.php?type=video&url=https://raw.githubusercontent.com/Waghayan/daily/d3afca3a5134574bfb3fe449533db54c842726e4/obs.m3u"
+        },
+        {
+         "type": "control",
+         "image": "https://www.artmajeur.com/medias/home/a/b/abersgaleries/artwork/3212153_AG75.jpg",
+         "label": "gitMMM",
+         "action": "content:http://msx.benzac.de/services/m3u.php?type=video&url=https://raw.githubusercontent.com/sigitpoerwoto/IPTV/6e686ecf65f8b7e77c0c2ce2559eb743c09ae647/VOD00001.m3u"
+        },
+        {
+            "title": "Columna 1968",
+            "playerLabel": "Columna 1968",    
+            "image":"https://i.ytimg.com/vi/IalFhb9GHwc/maxresdefault.jpg",                       
+            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=IalFhb9GHwc"
+      }
+              ]
+            }
+        }
+    ]
+}
 

@@ -5,7 +5,7 @@
     "extension": "{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "menu": [{
             "icon": "live-tv",
-            "label": "LRB TV",
+            "label": "Music TV",
             "image": "https://www.artmajeur.com/medias/home/d/a/danmihailescu/artwork/9858448_blue-sea.jpg",
             "background": "https://www.artmajeur.com/medias/home/a/b/abersgaleries/artwork/3212153_AG75.jpg",
             "url_tvg":"",
@@ -18,9 +18,9 @@
                 },
     "items": [
       {
-        "title":"News",
-        "name": "News",
-        "action": "menu:https://lrbastro.github.io/deceneu/msx/data/news.json"
+        "title":"Stingray",
+        "name": "Stingray",
+        "action": "menu:https://lrbastro.github.io/deceneu/msx/data/stingray.json"
       },
       {
         "title":"Documentry",
